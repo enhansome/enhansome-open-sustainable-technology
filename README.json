@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T08:22:58Z",
+            "last_commit": "2026-08-13T11:34:41Z",
             "owner": "solectrus",
             "repo": "solectrus",
             "stars": 161
@@ -299,7 +299,7 @@
             "last_commit": "2026-07-07T21:50:21Z",
             "owner": "danieljfarrell",
             "repo": "pvtrace",
-            "stars": 109
+            "stars": 108
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2026-08-12T20:45:13Z",
             "owner": "OpenFAST",
             "repo": "openfast",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -1459,7 +1459,7 @@
             "last_commit": "2026-08-13T00:45:56Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2219
+            "stars": 2218
           }
         },
         {
@@ -1498,7 +1498,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T15:10:58Z",
+            "last_commit": "2026-08-13T07:18:15Z",
             "owner": "BEMRosetta",
             "repo": "BEMRosetta",
             "stars": 121
@@ -1568,7 +1568,7 @@
           "repo_info": {
             "archived": false,
             "language": "Modelica",
-            "last_commit": "2026-08-05T10:31:26Z",
+            "last_commit": "2026-08-13T11:39:26Z",
             "owner": "OpenSimHub",
             "repo": "OpenHPL",
             "stars": 35
@@ -1689,7 +1689,7 @@
             "last_commit": "2026-07-13T02:05:58Z",
             "owner": "CalebBell",
             "repo": "thermo",
-            "stars": 775
+            "stars": 777
           }
         },
         {
@@ -1812,7 +1812,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T20:58:34Z",
+            "last_commit": "2026-08-13T07:41:50Z",
             "owner": "idaholab",
             "repo": "falcon",
             "stars": 34
@@ -1902,7 +1902,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-26T03:44:47Z",
+            "last_commit": "2026-08-13T09:21:35Z",
             "owner": "BioSTEAMDevelopmentGroup",
             "repo": "biosteam",
             "stars": 262
@@ -1972,7 +1972,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:02:05Z",
+            "last_commit": "2026-08-13T05:38:21Z",
             "owner": "bcgov",
             "repo": "lcfs",
             "stars": 6
@@ -1997,10 +1997,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T19:19:03Z",
+            "last_commit": "2026-08-13T13:46:21Z",
             "owner": "dalathegreat",
             "repo": "Battery-Emulator",
-            "stars": 2871
+            "stars": 2872
           }
         },
         {
@@ -2011,7 +2011,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:51:38Z",
+            "last_commit": "2026-08-13T13:33:56Z",
             "owner": "pybamm-team",
             "repo": "PyBaMM",
             "stars": 1641
@@ -2126,7 +2126,7 @@
             "last_commit": "2026-08-07T23:55:32Z",
             "owner": "pybop-team",
             "repo": "PyBOP",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -2224,7 +2224,7 @@
             "last_commit": "2026-08-12T21:18:48Z",
             "owner": "jepegit",
             "repo": "cellpy",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -2417,7 +2417,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:44:47Z",
+            "last_commit": "2026-08-13T13:13:47Z",
             "owner": "BIG-MAP",
             "repo": "big-map-registry",
             "stars": 10
@@ -2468,7 +2468,7 @@
             "last_commit": "2026-08-05T05:39:14Z",
             "owner": "ECSIM",
             "repo": "opem",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -2616,7 +2616,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:09:32Z",
+            "last_commit": "2026-08-13T12:09:40Z",
             "owner": "bramstroker",
             "repo": "homeassistant-powercalc",
             "stars": 1556
@@ -2633,7 +2633,7 @@
             "last_commit": "2026-08-08T09:35:15Z",
             "owner": "OpenEMS",
             "repo": "openems",
-            "stars": 1513
+            "stars": 1514
           }
         },
         {
@@ -2661,7 +2661,7 @@
             "last_commit": "2026-08-10T05:09:40Z",
             "owner": "klaasnicolaas",
             "repo": "home-assistant-glow",
-            "stars": 1261
+            "stars": 1262
           }
         },
         {
@@ -2675,7 +2675,7 @@
             "last_commit": "2026-08-03T10:32:07Z",
             "owner": "BottlecapDave",
             "repo": "HomeAssistant-OctopusEnergy",
-            "stars": 976
+            "stars": 977
           }
         },
         {
@@ -2770,7 +2770,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:18:34Z",
+            "last_commit": "2026-08-13T09:46:23Z",
             "owner": "FlexMeasures",
             "repo": "flexmeasures",
             "stars": 205
@@ -2840,7 +2840,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T21:43:56Z",
+            "last_commit": "2026-08-13T13:40:44Z",
             "owner": "JBjoernskov",
             "repo": "Twin4Build",
             "stars": 29
@@ -2930,7 +2930,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T10:34:22Z",
+            "last_commit": "2026-08-13T05:06:48Z",
             "owner": "PyPSA",
             "repo": "PyPSA",
             "stars": 2102
@@ -2958,7 +2958,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T07:20:52Z",
+            "last_commit": "2026-08-13T11:52:53Z",
             "owner": "e2nIEE",
             "repo": "pandapower",
             "stars": 1233
@@ -2986,7 +2986,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-03T05:56:54Z",
+            "last_commit": "2026-08-13T12:46:15Z",
             "owner": "PREP-NexT",
             "repo": "PREP-SHOT",
             "stars": 546
@@ -3014,7 +3014,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T20:14:57Z",
+            "last_commit": "2026-08-13T06:50:58Z",
             "owner": "oemof",
             "repo": "oemof-solph",
             "stars": 416
@@ -3056,7 +3056,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-13T01:58:02Z",
+            "last_commit": "2026-08-13T05:52:20Z",
             "owner": "Sienna-Platform",
             "repo": "PowerSystems.jl",
             "stars": 368
@@ -3087,7 +3087,7 @@
             "last_commit": "2026-07-30T21:05:49Z",
             "owner": "IDAES",
             "repo": "idaes-pse",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -3168,7 +3168,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T14:27:09Z",
+            "last_commit": "2026-08-13T13:52:31Z",
             "owner": "powsybl",
             "repo": "powsybl-core",
             "stars": 181
@@ -3210,7 +3210,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T11:00:08Z",
+            "last_commit": "2026-08-13T08:22:51Z",
             "owner": "NatLabRockies",
             "repo": "pysam",
             "stars": 145
@@ -3266,7 +3266,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T12:54:56Z",
+            "last_commit": "2026-08-13T09:53:21Z",
             "owner": "sogno-platform",
             "repo": "dpsim",
             "stars": 134
@@ -3280,7 +3280,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:51:22Z",
+            "last_commit": "2026-08-13T13:04:05Z",
             "owner": "open-energy-transition",
             "repo": "open-tyndp",
             "stars": 127
@@ -3308,7 +3308,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T18:48:13Z",
+            "last_commit": "2026-08-13T04:29:37Z",
             "owner": "NatLabRockies",
             "repo": "REopt_API",
             "stars": 125
@@ -3350,7 +3350,7 @@
           "repo_info": {
             "archived": false,
             "language": "Modelica",
-            "last_commit": "2026-08-12T16:06:11Z",
+            "last_commit": "2026-08-13T12:37:34Z",
             "owner": "dynawo",
             "repo": "dynawo",
             "stars": 108
@@ -3364,7 +3364,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T18:59:08Z",
+            "last_commit": "2026-08-13T06:42:29Z",
             "owner": "spine-tools",
             "repo": "Spine-Toolbox",
             "stars": 101
@@ -3392,7 +3392,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:00:43Z",
+            "last_commit": "2026-08-13T13:48:08Z",
             "owner": "FZJ-IEK3-VSA",
             "repo": "FINE",
             "stars": 99
@@ -3448,7 +3448,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T01:36:47Z",
+            "last_commit": "2026-08-13T13:43:09Z",
             "owner": "AntaresSimulatorTeam",
             "repo": "Antares_Simulator",
             "stars": 91
@@ -3490,7 +3490,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-11T14:44:57Z",
+            "last_commit": "2026-08-13T11:03:30Z",
             "owner": "spine-tools",
             "repo": "SpineOpt.jl",
             "stars": 80
@@ -3504,7 +3504,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T09:35:52Z",
+            "last_commit": "2026-08-13T12:44:34Z",
             "owner": "powsybl",
             "repo": "powsybl-open-loadflow",
             "stars": 79
@@ -3546,7 +3546,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T22:16:48Z",
+            "last_commit": "2026-08-13T11:44:27Z",
             "owner": "Thales1330",
             "repo": "PSP",
             "stars": 74
@@ -3658,7 +3658,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:40:21Z",
+            "last_commit": "2026-08-13T09:16:02Z",
             "owner": "RoseauTechnologies",
             "repo": "Roseau_Load_Flow",
             "stars": 65
@@ -3700,7 +3700,7 @@
           "repo_info": {
             "archived": false,
             "language": "CoffeeScript",
-            "last_commit": "2026-08-12T11:29:46Z",
+            "last_commit": "2026-08-13T13:45:52Z",
             "owner": "quintel",
             "repo": "etmodel",
             "stars": 55
@@ -3826,7 +3826,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-11T13:09:43Z",
+            "last_commit": "2026-08-13T13:51:23Z",
             "owner": "quintel",
             "repo": "etengine",
             "stars": 32
@@ -3946,20 +3946,6 @@
         },
         {
           "node_type": "item",
-          "title": "MVS",
-          "description": "The multi-vector simulator allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-12T20:27:15Z",
-            "owner": "rl-institut",
-            "repo": "multi-vector-simulator",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
           "title": "H2Integrate",
           "description": "An open-source Python package for modeling and designing hybrid energy systems producing electricity, hydrogen, ammonia, steel, and other products.",
           "children": [],
@@ -3969,6 +3955,20 @@
             "last_commit": "2026-08-12T18:52:58Z",
             "owner": "NatLabRockies",
             "repo": "H2Integrate",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVS",
+          "description": "The multi-vector simulator allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-12T20:27:15Z",
+            "owner": "rl-institut",
+            "repo": "multi-vector-simulator",
             "stars": 24
           }
         },
@@ -4022,7 +4022,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-09T15:19:56Z",
+            "last_commit": "2026-08-13T12:09:00Z",
             "owner": "CEA-Liten",
             "repo": "CairnOpen",
             "stars": 21
@@ -4050,7 +4050,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T11:46:34Z",
+            "last_commit": "2026-08-13T12:12:00Z",
             "owner": "quintel",
             "repo": "etsource",
             "stars": 19
@@ -4148,7 +4148,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:51:17Z",
+            "last_commit": "2026-08-13T12:58:33Z",
             "owner": "ESMAP-World-Bank-Group",
             "repo": "EPM",
             "stars": 11
@@ -4246,7 +4246,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T00:33:27Z",
+            "last_commit": "2026-08-13T13:29:45Z",
             "owner": "EnergySystemsModellingLab",
             "repo": "MUSE2",
             "stars": 8
@@ -4490,7 +4490,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T20:01:35Z",
+            "last_commit": "2026-08-13T13:16:19Z",
             "owner": "Ecodenl",
             "repo": "econobis",
             "stars": 8
@@ -4513,7 +4513,7 @@
             "last_commit": "2026-04-14T21:24:06Z",
             "owner": "EnergieID",
             "repo": "entsoe-py",
-            "stars": 715
+            "stars": 716
           }
         },
         {
@@ -4524,7 +4524,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:30:40Z",
+            "last_commit": "2026-08-13T12:34:54Z",
             "owner": "catalyst-cooperative",
             "repo": "pudl",
             "stars": 601
@@ -4597,7 +4597,7 @@
             "last_commit": "2026-08-12T09:46:13Z",
             "owner": "PyPSA",
             "repo": "powerplantmatching",
-            "stars": 228
+            "stars": 229
           }
         },
         {
@@ -4692,7 +4692,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-07-23T03:02:57Z",
+            "last_commit": "2026-08-13T12:17:07Z",
             "owner": "opennem",
             "repo": "opennem-fe",
             "stars": 78
@@ -5222,7 +5222,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T15:54:38Z",
+            "last_commit": "2026-08-13T12:38:20Z",
             "owner": "PowerGridModel",
             "repo": "power-grid-model",
             "stars": 240
@@ -5348,7 +5348,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:39:13Z",
+            "last_commit": "2026-08-13T12:59:48Z",
             "owner": "eliagroup",
             "repo": "ToOp",
             "stars": 68
@@ -5432,7 +5432,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:06:04Z",
+            "last_commit": "2026-08-13T11:59:43Z",
             "owner": "openego",
             "repo": "eDisGo",
             "stars": 47
@@ -5460,7 +5460,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T04:03:06Z",
+            "last_commit": "2026-08-13T10:58:29Z",
             "owner": "ie3-institute",
             "repo": "simona",
             "stars": 38
@@ -5651,7 +5651,7 @@
             "last_commit": "2026-06-10T10:44:50Z",
             "owner": "dos-group",
             "repo": "vessim",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -5704,7 +5704,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:07:54Z",
+            "last_commit": "2026-08-13T06:44:47Z",
             "owner": "opfab",
             "repo": "operatorfabric-core",
             "stars": 40
@@ -5732,7 +5732,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T16:40:05Z",
+            "last_commit": "2026-08-13T13:37:22Z",
             "owner": "Energy-Sparks",
             "repo": "energy-sparks",
             "stars": 29
@@ -5831,7 +5831,7 @@
             "last_commit": "2026-04-08T15:19:36Z",
             "owner": "citylearn-project",
             "repo": "CityLearn",
-            "stars": 628
+            "stars": 629
           }
         },
         {
@@ -5842,7 +5842,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:42:44Z",
+            "last_commit": "2026-08-13T04:36:10Z",
             "owner": "OpenSTEF",
             "repo": "openstef",
             "stars": 159
@@ -5870,7 +5870,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T18:54:27Z",
+            "last_commit": "2026-08-13T06:50:46Z",
             "owner": "oemof",
             "repo": "oemof-demand",
             "stars": 74
@@ -6316,7 +6316,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:29:32Z",
+            "last_commit": "2026-08-13T10:48:15Z",
             "owner": "PyPSA",
             "repo": "atlite",
             "stars": 395
@@ -6635,7 +6635,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T01:06:13Z",
+            "last_commit": "2026-08-13T10:50:43Z",
             "owner": "NatLabRockies",
             "repo": "EnergyPlus",
             "stars": 1553
@@ -6666,7 +6666,7 @@
             "last_commit": "2026-08-11T19:26:50Z",
             "owner": "jmcollin78",
             "repo": "versatile_thermostat",
-            "stars": 1152
+            "stars": 1153
           }
         },
         {
@@ -6722,7 +6722,7 @@
             "last_commit": "2026-08-12T07:30:12Z",
             "owner": "oemof",
             "repo": "tespy",
-            "stars": 406
+            "stars": 407
           }
         },
         {
@@ -6915,7 +6915,7 @@
           "repo_info": {
             "archived": false,
             "language": "Modelica",
-            "last_commit": "2026-07-27T18:25:27Z",
+            "last_commit": "2026-08-13T04:49:30Z",
             "owner": "ibpsa",
             "repo": "project1-boptest",
             "stars": 171
@@ -6960,7 +6960,7 @@
             "last_commit": "2026-08-11T20:26:33Z",
             "owner": "NatLabRockies",
             "repo": "resstock",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -7156,7 +7156,7 @@
             "last_commit": "2025-10-30T11:42:38Z",
             "owner": "meirim-org",
             "repo": "meirim",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -7265,7 +7265,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:45:25Z",
+            "last_commit": "2026-08-13T13:07:46Z",
             "owner": "FZJ-IEK3-VSA",
             "repo": "HiSim",
             "stars": 44
@@ -7335,7 +7335,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:21:32Z",
+            "last_commit": "2026-08-13T13:34:12Z",
             "owner": "RWTH-EBC",
             "repo": "districtgenerator",
             "stars": 34
@@ -7675,10 +7675,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T19:48:56Z",
+            "last_commit": "2026-08-13T13:52:41Z",
             "owner": "evcc-io",
             "repo": "evcc",
-            "stars": 7069
+            "stars": 7071
           }
         },
         {
@@ -7706,7 +7706,7 @@
             "last_commit": "2026-08-12T15:04:46Z",
             "owner": "steve-community",
             "repo": "steve",
-            "stars": 1101
+            "stars": 1102
           }
         },
         {
@@ -7815,7 +7815,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T10:29:08Z",
+            "last_commit": "2026-08-13T10:56:44Z",
             "owner": "coopcycle",
             "repo": "coopcycle-web",
             "stars": 601
@@ -7829,7 +7829,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-10T21:46:54Z",
+            "last_commit": "2026-08-13T06:47:59Z",
             "owner": "OneBusAway",
             "repo": "onebusaway-android",
             "stars": 562
@@ -7888,7 +7888,7 @@
             "last_commit": "2025-12-19T16:02:26Z",
             "owner": "upb-lea",
             "repo": "gym-electric-motor",
-            "stars": 419
+            "stars": 420
           }
         },
         {
@@ -7899,7 +7899,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T03:52:38Z",
+            "last_commit": "2026-08-13T11:52:49Z",
             "owner": "bikeindex",
             "repo": "bike_index",
             "stars": 308
@@ -7969,7 +7969,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T21:45:22Z",
+            "last_commit": "2026-08-13T13:40:11Z",
             "owner": "EVerest",
             "repo": "EVerest",
             "stars": 242
@@ -7983,7 +7983,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2022-10-23T14:28:58Z",
+            "last_commit": "2026-08-13T09:52:42Z",
             "owner": "EVNotify",
             "repo": "EVNotify",
             "stars": 233
@@ -8025,7 +8025,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:04:42Z",
+            "last_commit": "2026-08-13T11:38:54Z",
             "owner": "plan4better",
             "repo": "goat",
             "stars": 162
@@ -8098,7 +8098,7 @@
             "last_commit": "2022-01-26T21:05:08Z",
             "owner": "gsoh",
             "repo": "VED",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -8151,7 +8151,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:55:44Z",
+            "last_commit": "2026-08-13T04:13:07Z",
             "owner": "STS-Rosario",
             "repo": "carpoolear",
             "stars": 100
@@ -8443,10 +8443,10 @@
           "repo_info": {
             "archived": false,
             "language": "Modelica",
-            "last_commit": "2026-08-12T22:32:06Z",
+            "last_commit": "2026-08-13T13:52:34Z",
             "owner": "OpenModelica",
             "repo": "OpenModelica",
-            "stars": 1377
+            "stars": 1379
           }
         },
         {
@@ -8533,10 +8533,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:19:34Z",
+            "last_commit": "2026-08-13T06:35:00Z",
             "owner": "mlco2",
             "repo": "codecarbon",
-            "stars": 1897
+            "stars": 1898
           }
         },
         {
@@ -8645,7 +8645,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:20:16Z",
+            "last_commit": "2026-08-13T04:43:54Z",
             "owner": "ml-energy",
             "repo": "zeus",
             "stars": 370
@@ -8746,7 +8746,7 @@
             "last_commit": "2026-08-03T08:28:11Z",
             "owner": "SAP",
             "repo": "power-monitoring-tool-for-macos",
-            "stars": 271
+            "stars": 272
           }
         },
         {
@@ -8771,7 +8771,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T12:39:12Z",
+            "last_commit": "2026-08-13T09:40:38Z",
             "owner": "green-coding-solutions",
             "repo": "green-metrics-tool",
             "stars": 251
@@ -8785,7 +8785,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T12:19:54Z",
+            "last_commit": "2026-08-13T13:14:25Z",
             "owner": "powerapi-ng",
             "repo": "powerapi",
             "stars": 250
@@ -9037,7 +9037,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2025-10-06T18:39:08Z",
+            "last_commit": "2026-08-13T09:01:44Z",
             "owner": "thegreenwebfoundation",
             "repo": "carbon.txt",
             "stars": 109
@@ -9149,7 +9149,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T15:47:31Z",
+            "last_commit": "2026-08-13T07:54:46Z",
             "owner": "alumet-dev",
             "repo": "alumet",
             "stars": 79
@@ -9463,7 +9463,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T23:33:36Z",
+            "last_commit": "2026-08-13T09:34:05Z",
             "owner": "openfoodfoundation",
             "repo": "openfoodnetwork",
             "stars": 1260
@@ -9477,7 +9477,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T18:47:21Z",
+            "last_commit": "2026-08-13T13:40:43Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1100
@@ -9547,7 +9547,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-11T11:10:27Z",
+            "last_commit": "2026-08-13T10:14:19Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
@@ -9883,7 +9883,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T21:30:20Z",
+            "last_commit": "2026-08-13T12:54:02Z",
             "owner": "zalf-rpm",
             "repo": "monica",
             "stars": 31
@@ -10264,7 +10264,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:38:25Z",
+            "last_commit": "2026-08-13T13:16:06Z",
             "owner": "Open-Earth-Foundation",
             "repo": "CityCatalyst",
             "stars": 45
@@ -10634,7 +10634,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:27:46Z",
+            "last_commit": "2026-08-13T13:40:46Z",
             "owner": "hashgraph",
             "repo": "guardian",
             "stars": 142
@@ -10693,7 +10693,7 @@
             "last_commit": "2024-08-28T13:06:59Z",
             "owner": "DrafProject",
             "repo": "elmada",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -10780,7 +10780,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T03:45:39Z",
+            "last_commit": "2026-08-13T13:42:53Z",
             "owner": "GEOS-DEV",
             "repo": "GEOS",
             "stars": 285
@@ -11122,7 +11122,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T18:09:27Z",
+            "last_commit": "2026-08-13T13:44:06Z",
             "owner": "equinor",
             "repo": "ecalc",
             "stars": 52
@@ -11374,7 +11374,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:56:52Z",
+            "last_commit": "2026-08-13T13:53:45Z",
             "owner": "dlr-pa",
             "repo": "oac",
             "stars": 17
@@ -11472,7 +11472,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-11T08:00:26Z",
+            "last_commit": "2026-08-13T07:51:01Z",
             "owner": "CARDAMOM-framework",
             "repo": "CARDAMOM",
             "stars": 13
@@ -11486,7 +11486,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:05:37Z",
+            "last_commit": "2026-08-13T13:40:10Z",
             "owner": "C2SM-RCM",
             "repo": "emiproc",
             "stars": 13
@@ -11542,7 +11542,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:53:35Z",
+            "last_commit": "2026-08-13T12:49:51Z",
             "owner": "kausaltech",
             "repo": "kausal-paths",
             "stars": 10
@@ -11654,7 +11654,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-19T21:34:51Z",
+            "last_commit": "2026-08-13T07:13:58Z",
             "owner": "openmethane",
             "repo": "openmethane-prior",
             "stars": 7
@@ -11668,7 +11668,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:01:55Z",
+            "last_commit": "2026-08-13T13:36:11Z",
             "owner": "openghg",
             "repo": "openghg_inversions",
             "stars": 7
@@ -11903,7 +11903,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elm",
-            "last_commit": "2026-08-11T07:29:46Z",
+            "last_commit": "2026-08-13T13:52:21Z",
             "owner": "MTES-MCT",
             "repo": "ecobalyse",
             "stars": 50
@@ -12057,7 +12057,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T21:03:26Z",
+            "last_commit": "2026-08-13T06:41:14Z",
             "owner": "pik-piam",
             "repo": "flodym",
             "stars": 29
@@ -12197,7 +12197,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T21:22:07Z",
+            "last_commit": "2026-08-13T13:45:43Z",
             "owner": "ccomb",
             "repo": "volca",
             "stars": 4
@@ -12378,7 +12378,7 @@
             "last_commit": "2024-06-16T18:57:16Z",
             "owner": "pedropro",
             "repo": "TACO",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -12557,7 +12557,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T13:30:46Z",
+            "last_commit": "2026-08-13T13:46:07Z",
             "owner": "open-dpp",
             "repo": "open-dpp",
             "stars": 28
@@ -12641,7 +12641,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:03:26Z",
+            "last_commit": "2026-08-13T08:49:51Z",
             "owner": "Parcels-code",
             "repo": "plasticparcels",
             "stars": 19
@@ -12669,7 +12669,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T02:41:11Z",
+            "last_commit": "2026-08-13T13:47:03Z",
             "owner": "TrashMob-eco",
             "repo": "TrashMob",
             "stars": 18
@@ -12795,7 +12795,7 @@
             "last_commit": "2026-08-12T10:40:35Z",
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1666
+            "stars": 1667
           }
         },
         {
@@ -12834,7 +12834,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:48:53Z",
+            "last_commit": "2026-08-13T13:54:26Z",
             "owner": "birdnet-team",
             "repo": "birdnet",
             "stars": 135
@@ -13025,7 +13025,7 @@
             "last_commit": "2026-08-11T18:30:29Z",
             "owner": "tphakala",
             "repo": "birdnet-go",
-            "stars": 1566
+            "stars": 1565
           }
         },
         {
@@ -13039,7 +13039,7 @@
             "last_commit": "2026-08-02T07:19:02Z",
             "owner": "woheller69",
             "repo": "whoBIRD",
-            "stars": 894
+            "stars": 895
           }
         },
         {
@@ -13260,7 +13260,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T15:05:20Z",
+            "last_commit": "2026-08-13T12:26:09Z",
             "owner": "DataBytes-Organisation",
             "repo": "Project-Echo",
             "stars": 14
@@ -13370,7 +13370,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T05:26:37Z",
+            "last_commit": "2026-08-13T05:29:21Z",
             "owner": "mapme-initiative",
             "repo": "mapme.biodiversity",
             "stars": 51
@@ -13718,7 +13718,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T00:26:21Z",
+            "last_commit": "2026-08-13T13:47:56Z",
             "owner": "inaturalist",
             "repo": "inaturalist",
             "stars": 842
@@ -13746,7 +13746,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fluent",
-            "last_commit": "2026-08-12T21:59:18Z",
+            "last_commit": "2026-08-13T13:15:39Z",
             "owner": "inaturalist",
             "repo": "iNaturalistReactNative",
             "stars": 129
@@ -13788,7 +13788,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T01:49:13Z",
+            "last_commit": "2026-08-13T12:14:43Z",
             "owner": "openforis",
             "repo": "arena",
             "stars": 26
@@ -13816,7 +13816,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:02:26Z",
+            "last_commit": "2026-08-13T09:16:07Z",
             "owner": "greenpill-dev-guild",
             "repo": "green-goods",
             "stars": 22
@@ -13920,7 +13920,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-08T06:51:55Z",
+            "last_commit": "2026-08-13T13:20:36Z",
             "owner": "ropensci",
             "repo": "rgbif",
             "stars": 180
@@ -13962,7 +13962,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T01:02:39Z",
+            "last_commit": "2026-08-13T09:05:40Z",
             "owner": "gbif",
             "repo": "ipt",
             "stars": 138
@@ -14032,7 +14032,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:08:08Z",
+            "last_commit": "2026-08-13T09:52:28Z",
             "owner": "specify",
             "repo": "specify7",
             "stars": 98
@@ -14088,7 +14088,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T14:55:45Z",
+            "last_commit": "2026-08-13T12:55:56Z",
             "owner": "Symbiota",
             "repo": "Symbiota",
             "stars": 55
@@ -14214,7 +14214,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T01:46:46Z",
+            "last_commit": "2026-08-13T07:54:57Z",
             "owner": "8Ginette8",
             "repo": "gbif.range",
             "stars": 38
@@ -14270,7 +14270,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T22:33:06Z",
+            "last_commit": "2026-08-13T10:29:34Z",
             "owner": "iobis",
             "repo": "pyobis",
             "stars": 23
@@ -14312,7 +14312,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T14:08:15Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "unepwcmc",
             "repo": "ProtectedPlanet",
             "stars": 18
@@ -14382,7 +14382,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T09:10:37Z",
+            "last_commit": "2026-08-13T09:10:53Z",
             "owner": "umr-amap",
             "repo": "cafriplotsR",
             "stars": 5
@@ -14590,7 +14590,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T16:07:53Z",
+            "last_commit": "2026-08-13T09:33:17Z",
             "owner": "google",
             "repo": "ground-android",
             "stars": 291
@@ -14660,7 +14660,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:11:19Z",
+            "last_commit": "2026-08-13T11:22:34Z",
             "owner": "wildlife-dynamics",
             "repo": "ecoscope",
             "stars": 37
@@ -14932,7 +14932,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:45:59Z",
+            "last_commit": "2026-08-13T11:35:41Z",
             "owner": "Plant-for-the-Planet-org",
             "repo": "planet-webapp",
             "stars": 42
@@ -15156,7 +15156,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-06T05:05:07Z",
+            "last_commit": "2026-08-13T11:52:39Z",
             "owner": "Chameleon-company",
             "repo": "Planting-Optimisation-Tool",
             "stars": 4
@@ -15678,7 +15678,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-06T10:13:00Z",
+            "last_commit": "2026-08-13T10:19:50Z",
             "owner": "openforis",
             "repo": "sepal",
             "stars": 237
@@ -15734,7 +15734,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T13:18:52Z",
+            "last_commit": "2026-08-13T09:54:49Z",
             "owner": "doserjef",
             "repo": "rFIA",
             "stars": 59
@@ -15832,7 +15832,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T19:35:46Z",
+            "last_commit": "2026-08-13T13:25:55Z",
             "owner": "Bureau-du-Forestier-en-chef",
             "repo": "FMT",
             "stars": 17
@@ -16406,20 +16406,6 @@
         },
         {
           "node_type": "item",
-          "title": "forestlas",
-          "description": "Code for generating metrics of forest vertical structure from airborne LiDAR data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-12-16T10:38:43Z",
-            "owner": "philwilkes",
-            "repo": "forestlas",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
           "title": "rTwig",
           "description": "A method for correcting unrealistic cylinders in quantitative structure models (QSMs) due to technical limitations of current LiDAR sensor technology in forestry measurements.",
           "children": [],
@@ -16434,13 +16420,27 @@
         },
         {
           "node_type": "item",
+          "title": "forestlas",
+          "description": "Code for generating metrics of forest vertical structure from airborne LiDAR data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-12-16T10:38:43Z",
+            "owner": "philwilkes",
+            "repo": "forestlas",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Deadtrees.earth",
           "description": "An open database for accessing, contributing, analyzing, and visualizing remote sensing-based tree mortality data.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T09:57:19Z",
+            "last_commit": "2026-08-13T11:35:15Z",
             "owner": "Deadwood-ai",
             "repo": "deadtrees",
             "stars": 6
@@ -16684,7 +16684,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:12:09Z",
+            "last_commit": "2026-08-13T07:54:32Z",
             "owner": "NOAA-FIMS",
             "repo": "FIMS",
             "stars": 41
@@ -17076,7 +17076,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T10:25:00Z",
+            "last_commit": "2026-08-13T12:28:06Z",
             "owner": "inbo",
             "repo": "etn",
             "stars": 14
@@ -17146,7 +17146,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-07T11:58:39Z",
+            "last_commit": "2026-08-13T08:10:23Z",
             "owner": "frabas",
             "repo": "DISPLACE_GUI",
             "stars": 11
@@ -17188,7 +17188,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:30:03Z",
+            "last_commit": "2026-08-13T12:44:16Z",
             "owner": "WHOIGit",
             "repo": "whoi-hab-hub",
             "stars": 9
@@ -17502,7 +17502,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T09:30:08Z",
+            "last_commit": "2026-08-13T13:21:13Z",
             "owner": "Plant-Root-Soil-Interactions-Modelling",
             "repo": "CPlantBox",
             "stars": 77
@@ -17603,7 +17603,7 @@
             "last_commit": "2026-04-06T22:51:12Z",
             "owner": "Gene-Weaver",
             "repo": "LeafMachine2",
-            "stars": 39
+            "stars": 38
           }
         },
         {
@@ -17768,7 +17768,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-12T15:35:10Z",
+            "last_commit": "2026-08-13T08:54:40Z",
             "owner": "germinateplatform",
             "repo": "germinate-vue",
             "stars": 20
@@ -17973,7 +17973,7 @@
             "last_commit": "2026-08-05T16:30:09Z",
             "owner": "bcgov",
             "repo": "ssdtools",
-            "stars": 38
+            "stars": 39
           }
         },
         {
@@ -18161,7 +18161,7 @@
             "last_commit": "2026-08-12T19:34:06Z",
             "owner": "microsoft",
             "repo": "Biodiversity",
-            "stars": 1064
+            "stars": 1065
           }
         },
         {
@@ -18175,7 +18175,7 @@
             "last_commit": "2026-07-04T23:02:59Z",
             "owner": "google",
             "repo": "cameratrapai",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -18312,7 +18312,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T09:08:24Z",
+            "last_commit": "2026-08-13T13:52:55Z",
             "owner": "WildEyeConservation",
             "repo": "TrapTagger",
             "stars": 45
@@ -18410,7 +18410,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:11:19Z",
+            "last_commit": "2026-08-13T04:25:59Z",
             "owner": "bcgov",
             "repo": "invasivesbc",
             "stars": 13
@@ -18528,7 +18528,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T02:35:54Z",
+            "last_commit": "2026-08-13T07:17:22Z",
             "owner": "forefireAPI",
             "repo": "forefire",
             "stars": 101
@@ -18696,7 +18696,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:11:30Z",
+            "last_commit": "2026-08-13T13:07:03Z",
             "owner": "OurPlanscape",
             "repo": "Planscape",
             "stars": 26
@@ -18875,7 +18875,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T21:48:56Z",
+            "last_commit": "2026-08-13T11:22:50Z",
             "owner": "FESOM",
             "repo": "fesom2",
             "stars": 69
@@ -19043,7 +19043,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T12:26:05Z",
+            "last_commit": "2026-08-13T07:45:05Z",
             "owner": "nansencenter",
             "repo": "nextsim",
             "stars": 9
@@ -19175,7 +19175,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-09-09T07:02:19Z",
+            "last_commit": "2026-08-13T12:36:22Z",
             "owner": "nasa-jpl",
             "repo": "captoolkit",
             "stars": 78
@@ -19287,7 +19287,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T21:41:15Z",
+            "last_commit": "2026-08-13T10:41:52Z",
             "owner": "ISSMteam",
             "repo": "ISSM",
             "stars": 46
@@ -19357,7 +19357,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-06T11:12:48Z",
+            "last_commit": "2026-08-13T13:29:57Z",
             "owner": "WAVI-ice-sheet-model",
             "repo": "WAVI.jl",
             "stars": 35
@@ -19567,7 +19567,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T07:07:49Z",
+            "last_commit": "2026-08-13T07:12:15Z",
             "owner": "Joel-hanson",
             "repo": "Iceberg-locations",
             "stars": 6
@@ -19741,7 +19741,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T16:51:01Z",
+            "last_commit": "2026-08-13T09:32:49Z",
             "owner": "UMR-CNRM",
             "repo": "snowtools",
             "stars": 9
@@ -19797,7 +19797,7 @@
             "last_commit": "2026-08-09T15:03:06Z",
             "owner": "neuralhydrology",
             "repo": "neuralhydrology",
-            "stars": 569
+            "stars": 570
           }
         },
         {
@@ -19822,7 +19822,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T12:47:19Z",
+            "last_commit": "2026-08-13T10:58:17Z",
             "owner": "pastas",
             "repo": "pastas",
             "stars": 449
@@ -20340,7 +20340,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T23:00:21Z",
+            "last_commit": "2026-08-13T09:40:05Z",
             "owner": "hydpy-dev",
             "repo": "hydpy",
             "stars": 50
@@ -20522,7 +20522,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:33:03Z",
+            "last_commit": "2026-08-13T13:20:09Z",
             "owner": "Deltares",
             "repo": "HYDROLIB-core",
             "stars": 36
@@ -20774,7 +20774,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:33:16Z",
+            "last_commit": "2026-08-13T05:38:05Z",
             "owner": "BASIN-3D",
             "repo": "basin3d",
             "stars": 17
@@ -20830,7 +20830,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:01:01Z",
+            "last_commit": "2026-08-13T12:44:36Z",
             "owner": "GEB-model",
             "repo": "GEB",
             "stars": 14
@@ -20844,7 +20844,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-11T05:10:33Z",
+            "last_commit": "2026-08-13T05:41:55Z",
             "owner": "ropensci",
             "repo": "hydroscoper",
             "stars": 13
@@ -21052,10 +21052,10 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-13T01:41:34Z",
+            "last_commit": "2026-08-13T10:48:20Z",
             "owner": "CliMA",
             "repo": "Oceananigans.jl",
-            "stars": 1404
+            "stars": 1407
           }
         },
         {
@@ -21080,7 +21080,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:32:49Z",
+            "last_commit": "2026-08-13T05:24:05Z",
             "owner": "team-ocean",
             "repo": "veros",
             "stars": 399
@@ -21276,7 +21276,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-12T23:47:59Z",
+            "last_commit": "2026-08-13T13:29:34Z",
             "owner": "gaelforget",
             "repo": "MITgcm.jl",
             "stars": 38
@@ -21408,7 +21408,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:31:47Z",
+            "last_commit": "2026-08-13T11:03:32Z",
             "owner": "Parcels-code",
             "repo": "Parcels",
             "stars": 357
@@ -21902,7 +21902,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T14:02:07Z",
+            "last_commit": "2026-08-13T11:19:15Z",
             "owner": "REEF3D",
             "repo": "REEF3D",
             "stars": 129
@@ -22014,7 +22014,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-24T08:13:10Z",
+            "last_commit": "2026-08-13T08:53:05Z",
             "owner": "openearth",
             "repo": "aeolis-python",
             "stars": 41
@@ -22384,7 +22384,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-14T14:18:37Z",
+            "last_commit": "2026-08-13T12:04:34Z",
             "owner": "mercator-ocean",
             "repo": "copernicus-marine-toolbox",
             "stars": 68
@@ -22398,7 +22398,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T11:59:11Z",
+            "last_commit": "2026-08-13T09:49:23Z",
             "owner": "ioos",
             "repo": "ioos_qc",
             "stars": 68
@@ -22454,7 +22454,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T23:07:20Z",
+            "last_commit": "2026-08-13T13:37:01Z",
             "owner": "opendcs",
             "repo": "opendcs",
             "stars": 51
@@ -22790,7 +22790,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T19:53:57Z",
+            "last_commit": "2026-08-13T10:15:08Z",
             "owner": "AMOCcommunity",
             "repo": "AMOCatlas",
             "stars": 14
@@ -22916,7 +22916,7 @@
             "last_commit": "2026-08-04T19:27:52Z",
             "owner": "microsoft",
             "repo": "aurora",
-            "stars": 995
+            "stars": 997
           }
         },
         {
@@ -22941,10 +22941,10 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-11T18:00:03Z",
+            "last_commit": "2026-08-13T08:18:53Z",
             "owner": "SpeedyWeather",
             "repo": "SpeedyWeather.jl",
-            "stars": 565
+            "stars": 567
           }
         },
         {
@@ -22969,7 +22969,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:21:12Z",
+            "last_commit": "2026-08-13T04:46:08Z",
             "owner": "ai2cm",
             "repo": "ace",
             "stars": 238
@@ -22997,7 +22997,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-08-11T10:24:08Z",
+            "last_commit": "2026-08-13T09:16:11Z",
             "owner": "ExeClim",
             "repo": "Isca",
             "stars": 160
@@ -23011,7 +23011,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T13:04:34Z",
+            "last_commit": "2026-08-13T09:31:36Z",
             "owner": "microhh",
             "repo": "microhh",
             "stars": 160
@@ -23053,7 +23053,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-13T03:10:51Z",
+            "last_commit": "2026-08-13T10:32:22Z",
             "owner": "CliMA",
             "repo": "ClimaAtmos.jl",
             "stars": 125
@@ -23089,13 +23089,27 @@
         },
         {
           "node_type": "item",
+          "title": "Breeze.jl",
+          "description": "Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-13T13:03:31Z",
+            "owner": "NumericalEarth",
+            "repo": "Breeze.jl",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Mission Support System",
           "description": "A collaboration server to plan atmospheric research flights.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:23:24Z",
+            "last_commit": "2026-08-13T05:28:39Z",
             "owner": "Open-MSS",
             "repo": "MSS",
             "stars": 80
@@ -23112,20 +23126,6 @@
             "last_commit": "2026-08-02T20:24:35Z",
             "owner": "kylejgillett",
             "repo": "sounderpy",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Breeze.jl",
-          "description": "Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-08-13T01:12:59Z",
-            "owner": "NumericalEarth",
-            "repo": "Breeze.jl",
             "stars": 78
           }
         },
@@ -23477,7 +23477,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T13:39:20Z",
+            "last_commit": "2026-08-13T09:37:25Z",
             "owner": "metno",
             "repo": "snap",
             "stars": 28
@@ -23539,7 +23539,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:35:56Z",
+            "last_commit": "2026-08-13T13:15:55Z",
             "owner": "open-atmos",
             "repo": "PySDM",
             "stars": 91
@@ -23632,7 +23632,7 @@
             "last_commit": "2026-08-08T17:32:45Z",
             "owner": "breezy-weather",
             "repo": "breezy-weather",
-            "stars": 10999
+            "stars": 11002
           }
         },
         {
@@ -23646,7 +23646,7 @@
             "last_commit": "2026-08-11T12:29:00Z",
             "owner": "google-deepmind",
             "repo": "weathernext",
-            "stars": 7477
+            "stars": 7482
           }
         },
         {
@@ -23657,7 +23657,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T16:30:43Z",
+            "last_commit": "2026-08-13T13:33:49Z",
             "owner": "open-meteo",
             "repo": "open-meteo",
             "stars": 6001
@@ -23755,7 +23755,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:29:16Z",
+            "last_commit": "2026-08-13T13:03:51Z",
             "owner": "earthobservations",
             "repo": "wetterdienst",
             "stars": 450
@@ -23909,7 +23909,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T23:49:40Z",
+            "last_commit": "2026-08-13T05:59:18Z",
             "owner": "ecmwf",
             "repo": "eccodes",
             "stars": 268
@@ -23951,7 +23951,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T07:28:39Z",
+            "last_commit": "2026-08-13T07:29:01Z",
             "owner": "Unidata",
             "repo": "awips2",
             "stars": 224
@@ -23993,7 +23993,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:00:29Z",
+            "last_commit": "2026-08-13T13:39:03Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -24077,7 +24077,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:53:52Z",
+            "last_commit": "2026-08-13T12:39:38Z",
             "owner": "ecmwf",
             "repo": "WeatherGenerator",
             "stars": 136
@@ -24091,7 +24091,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:26:31Z",
+            "last_commit": "2026-08-13T12:29:43Z",
             "owner": "metoppv",
             "repo": "improver",
             "stars": 126
@@ -24329,7 +24329,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T14:28:35Z",
+            "last_commit": "2026-08-13T13:01:37Z",
             "owner": "akrherz",
             "repo": "pyIEM",
             "stars": 53
@@ -24427,7 +24427,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:09:30Z",
+            "last_commit": "2026-08-13T13:52:49Z",
             "owner": "dynamical-org",
             "repo": "reformatters",
             "stars": 38
@@ -24685,7 +24685,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:42:46Z",
+            "last_commit": "2026-08-13T13:48:37Z",
             "owner": "radis",
             "repo": "radis",
             "stars": 278
@@ -24962,10 +24962,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:45:33Z",
+            "last_commit": "2026-08-13T07:28:48Z",
             "owner": "NVIDIA",
             "repo": "earth2studio",
-            "stars": 1078
+            "stars": 1079
           }
         },
         {
@@ -24976,7 +24976,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T10:09:02Z",
+            "last_commit": "2026-08-13T09:00:28Z",
             "owner": "sunpy",
             "repo": "sunpy",
             "stars": 1032
@@ -25102,7 +25102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-29T23:59:28Z",
+            "last_commit": "2026-08-13T11:50:55Z",
             "owner": "neuralgcm",
             "repo": "dinosaur",
             "stars": 334
@@ -25130,7 +25130,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:07:26Z",
+            "last_commit": "2026-08-13T13:43:26Z",
             "owner": "ESMValGroup",
             "repo": "ESMValTool",
             "stars": 270
@@ -25214,7 +25214,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T07:02:22Z",
+            "last_commit": "2026-08-13T07:06:01Z",
             "owner": "WCRP-CMIP",
             "repo": "CMIP6_CVs",
             "stars": 183
@@ -25340,7 +25340,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-13T04:02:10Z",
+            "last_commit": "2026-08-13T10:08:58Z",
             "owner": "CliMA",
             "repo": "ClimaCore.jl",
             "stars": 114
@@ -25368,7 +25368,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-07T20:20:32Z",
+            "last_commit": "2026-08-13T12:46:52Z",
             "owner": "NOAA-EMC",
             "repo": "global-workflow",
             "stars": 99
@@ -25536,7 +25536,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T15:12:56Z",
+            "last_commit": "2026-08-13T11:49:03Z",
             "owner": "NorESMhub",
             "repo": "NorESM",
             "stars": 51
@@ -25578,7 +25578,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-01-18T06:41:12Z",
+            "last_commit": "2026-08-13T13:27:49Z",
             "owner": "gaelforget",
             "repo": "ClimateModels.jl",
             "stars": 47
@@ -25620,7 +25620,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-08-13T01:57:18Z",
+            "last_commit": "2026-08-13T04:34:49Z",
             "owner": "GEOS-ESM",
             "repo": "MAPL",
             "stars": 43
@@ -25648,7 +25648,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T14:00:48Z",
+            "last_commit": "2026-08-13T11:20:50Z",
             "owner": "MESMER-group",
             "repo": "mesmer",
             "stars": 37
@@ -25704,7 +25704,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:52:26Z",
+            "last_commit": "2026-08-13T13:52:15Z",
             "owner": "UMEP-dev",
             "repo": "SUEWS",
             "stars": 28
@@ -25788,7 +25788,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:03:38Z",
+            "last_commit": "2026-08-13T13:39:50Z",
             "owner": "GEOS-ESM",
             "repo": "swell",
             "stars": 18
@@ -25802,7 +25802,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-08-10T12:26:47Z",
+            "last_commit": "2026-08-13T04:54:00Z",
             "owner": "CABLE-LSM",
             "repo": "CABLE",
             "stars": 17
@@ -25906,10 +25906,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:56:29Z",
+            "last_commit": "2026-08-13T11:20:41Z",
             "owner": "zarr-developers",
             "repo": "zarr-python",
-            "stars": 2035
+            "stars": 2036
           }
         },
         {
@@ -26046,7 +26046,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:13:10Z",
+            "last_commit": "2026-08-13T10:25:12Z",
             "owner": "ioos",
             "repo": "compliance-checker",
             "stars": 131
@@ -26640,7 +26640,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T07:41:37Z",
+            "last_commit": "2026-08-13T07:40:58Z",
             "owner": "NIEHS",
             "repo": "amadeus",
             "stars": 16
@@ -26806,7 +26806,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:06:36Z",
+            "last_commit": "2026-08-13T11:27:17Z",
             "owner": "SciTools",
             "repo": "iris",
             "stars": 722
@@ -26960,7 +26960,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:57:25Z",
+            "last_commit": "2026-08-13T13:21:00Z",
             "owner": "UXARRAY",
             "repo": "uxarray",
             "stars": 226
@@ -27016,7 +27016,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:01:17Z",
+            "last_commit": "2026-08-13T13:55:25Z",
             "owner": "GridTools",
             "repo": "gt4py",
             "stars": 147
@@ -28036,10 +28036,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:49:22Z",
+            "last_commit": "2026-08-13T12:50:22Z",
             "owner": "gem",
             "repo": "oq-engine",
-            "stars": 445
+            "stars": 446
           }
         },
         {
@@ -28148,7 +28148,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:37:28Z",
+            "last_commit": "2026-08-13T13:50:44Z",
             "owner": "OasisLMF",
             "repo": "OasisLMF",
             "stars": 153
@@ -28162,7 +28162,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:07:54Z",
+            "last_commit": "2026-08-13T13:42:14Z",
             "owner": "NOAA-OWP",
             "repo": "inundation-mapping",
             "stars": 127
@@ -28899,7 +28899,7 @@
             "last_commit": "2026-08-11T08:25:18Z",
             "owner": "iiasa",
             "repo": "message_ix",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -29008,7 +29008,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:35:39Z",
+            "last_commit": "2026-08-13T13:39:53Z",
             "owner": "iiasa",
             "repo": "message-ix-models",
             "stars": 32
@@ -29305,7 +29305,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T15:48:31Z",
+            "last_commit": "2026-08-13T07:44:09Z",
             "owner": "openair-project",
             "repo": "openair",
             "stars": 361
@@ -29585,7 +29585,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T17:26:19Z",
+            "last_commit": "2026-08-13T10:59:46Z",
             "owner": "airqo-platform",
             "repo": "AirQo-api",
             "stars": 26
@@ -29843,7 +29843,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:24:31Z",
+            "last_commit": "2026-08-13T13:43:04Z",
             "owner": "modflowpy",
             "repo": "flopy",
             "stars": 624
@@ -29857,7 +29857,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:33:14Z",
+            "last_commit": "2026-08-13T06:52:17Z",
             "owner": "pySTEPS",
             "repo": "pysteps",
             "stars": 577
@@ -29958,7 +29958,7 @@
             "last_commit": "2026-08-12T21:44:39Z",
             "owner": "DOI-USGS",
             "repo": "dataretrieval-python",
-            "stars": 259
+            "stars": 260
           }
         },
         {
@@ -30165,7 +30165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T05:57:22Z",
+            "last_commit": "2026-08-13T06:56:41Z",
             "owner": "mdbartos",
             "repo": "pipedream",
             "stars": 93
@@ -30179,7 +30179,7 @@
           "repo_info": {
             "archived": false,
             "language": "PLpgSQL",
-            "last_commit": "2026-08-12T12:28:05Z",
+            "last_commit": "2026-08-13T13:43:33Z",
             "owner": "giswater",
             "repo": "plugin",
             "stars": 84
@@ -30865,7 +30865,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T07:46:41Z",
+            "last_commit": "2026-08-13T07:06:54Z",
             "owner": "WaterFutures",
             "repo": "EPyT-Control",
             "stars": 15
@@ -31207,7 +31207,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:49:49Z",
+            "last_commit": "2026-08-13T13:52:02Z",
             "owner": "ConservationInternational",
             "repo": "trends.earth",
             "stars": 122
@@ -31238,7 +31238,7 @@
             "last_commit": "2026-07-28T20:52:37Z",
             "owner": "NCAR",
             "repo": "noahmp",
-            "stars": 109
+            "stars": 108
           }
         },
         {
@@ -32356,7 +32356,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:18:52Z",
+            "last_commit": "2026-08-13T13:52:51Z",
             "owner": "socialincome-san",
             "repo": "public",
             "stars": 153
@@ -32488,7 +32488,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:37:37Z",
+            "last_commit": "2026-08-13T12:24:15Z",
             "owner": "natcap",
             "repo": "invest",
             "stars": 248
@@ -32505,7 +32505,7 @@
             "last_commit": "2026-08-12T15:29:49Z",
             "owner": "remindmodel",
             "repo": "remind",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -32519,7 +32519,7 @@
             "last_commit": "2026-08-11T19:35:13Z",
             "owner": "NatLabRockies",
             "repo": "ssc",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -32544,7 +32544,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-30T10:05:31Z",
+            "last_commit": "2026-08-13T10:05:43Z",
             "owner": "ScienceBasedTargets",
             "repo": "SBTi-finance-tool",
             "stars": 63
@@ -32600,7 +32600,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T15:06:10Z",
+            "last_commit": "2026-08-13T13:51:29Z",
             "owner": "d-fine",
             "repo": "Dataland",
             "stars": 37
@@ -32968,7 +32968,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-20T11:37:37Z",
+            "last_commit": "2026-08-13T12:47:30Z",
             "owner": "sentinel-hub",
             "repo": "custom-scripts",
             "stars": 700
@@ -33125,7 +33125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:49.037Z",
+    "last_updated": "2026-08-13T13:54:42.947Z",
     "original_repository": "protontypes/open-sustainable-technology",
     "original_repository_sha": "2303b7ab23332a6eaeffec9dc252ad6779a1f8af",
     "enhanced_repository": "enhansome/enhansome-open-sustainable-technology",
