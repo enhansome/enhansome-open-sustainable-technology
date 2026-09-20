@@ -11,7 +11,7 @@
 [![](https://badgen.net/badge/Add/Project/009485?scale=1.6)](https://opensustain.tech/contributing/#contribution-guide) <br> [![](https://badgen.net/badge/Find/Good%20First%20Issues/009485?scale=1.6l)](https://climatetriage.com/)  [![](https://badgen.net/badge/Find/Cookbooks/009485?scale=1.6)](https://opensustain.tech/education/) [![](https://badgen.net/badge/Icon/Podcast/009485?scale=1.6\&label=%f0%9f%8e%a7)](https://ossforclimate.sustainoss.org/)  <br> [![](https://badgen.net/badge/Projects/CSV/009485?scale=1.6)](https://api.getgrist.com/o/docs/api/docs/gSscJkc5Rb1Rw45gh1o1Yc/download/csv?fireviewSection=5\&tableId=Projects\&activeSortSpec=%5B132%5D\&filters=%5B%5D\&linkingFilter=%7B%22filters%22%3A%7B%7D%2C%22operations%22%3A%7B%7D%7D)  [![](https://badgen.net/badge/Organizations/CSV/009485?scale=1.6)](https://api.getgrist.com/o/docs/api/docs/gSscJkc5Rb1Rw45gh1o1Yc/download/csv?viewSection=7\&tableId=Organizations\&activeSortSpec=%5B119%5D\&filters=%5B%5D\&linkingFilter=%7B%22filters%22%3A%7B%7D%2C%22operations%22%3A%7B%7D%7D) [![](https://badgen.net/badge/icon/Follow/009485?scale=1.6\&icon=mastodon\&label)](https://mastodon.social/@opensustaintech) [![](https://badgen.net/badge/icon/Follow/009485?scale=1.6\&label=%F0%9F%A6%8B)](https://bsky.app/profile/opensustaintech.bsky.social)<br>
 [![](https://badgen.net/badge/Icon/Sponsor%20Us/009485?scale=1.6\&label=%F0%9F%92%9d)](https://opencollective.com/open-sustainable-technology) [![](https://badgen.net/badge/Verified/DPG%20Since%202025/009485?scale=1.6)](https://www.digitalpublicgoods.net/r/open-sustainable-technology)
 
-Your contribution is essential to [keep this initative alive](https://opencollective.com/open-sustainable-technology). Create [a pull request](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) ⭐ 2,553 | 🐛 87 | 📅 2026-09-19 to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All *Good First Issue* labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/). All open source metadata is been provided to you by [ecosyste.ms](https://github.com/ecosyste-ms/ost) ⭐ 13 | 🐛 21 | 🌐 Ruby | 📅 2026-09-16. You can find a details description of the metadata we are collecting [here](https://opensustain.tech/grist_spreadsheet_metadata/). **Would you like to help us find missing projects? Read our guidelines on: [How to Identify Open Source Projects in Sustainability and Climate.](https://github.com/protontypes/open-sustainable-technology/blob/main/docs/how_to_identify_projects.md) ⭐ 2,553 | 🐛 87 | 📅 2026-09-19**
+Your contribution is essential to [keep this initative alive](https://opencollective.com/open-sustainable-technology). Create [a pull request](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) ⭐ 2,554 | 🐛 87 | 📅 2026-09-19 to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All *Good First Issue* labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/). All open source metadata is been provided to you by [ecosyste.ms](https://github.com/ecosyste-ms/ost) ⭐ 13 | 🐛 19 | 🌐 Ruby | 📅 2026-09-20. You can find a details description of the metadata we are collecting [here](https://opensustain.tech/grist_spreadsheet_metadata/). **Would you like to help us find missing projects? Read our guidelines on: [How to Identify Open Source Projects in Sustainability and Climate.](https://github.com/protontypes/open-sustainable-technology/blob/main/docs/how_to_identify_projects.md) ⭐ 2,554 | 🐛 87 | 📅 2026-09-19**
 
 <!--lint enable double-link-->
 
@@ -129,18 +129,18 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help simulate, model, and forecast photovoltaic energy output, including optical and ray-tracing simulations; analyze and visualize system data; support quality control; and interface with solar hardware like panels, inverters, and batteries.
 
-* [pvlib-python](https://github.com/pvlib/pvlib-python) ⭐ 1,668 | 🐛 247 | 🌐 Python | 📅 2026-09-16 - A set of documented functions for simulating the performance of photovoltaic energy systems.
+* [pvlib-python](https://github.com/pvlib/pvlib-python) ⭐ 1,668 | 🐛 246 | 🌐 Python | 📅 2026-09-16 - A set of documented functions for simulating the performance of photovoltaic energy systems.
 * [Pysolar](https://github.com/pingswept/pysolar) ⭐ 405 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2025-10-20 - A collection of Python libraries for simulating the irradiation of any point on earth by the sun. It includes code for extremely precise ephemeris calculations.
 * [elpv-dataset](https://github.com/zae-bayern/elpv-dataset) ⭐ 309 | 🐛 0 | 🌐 Python | 📅 2026-07-21 - A dataset of functional and defective solar cells extracted from EL images of solar modules.
 * [Machine-Learning-for-Solar-Energy-Prediction](https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction) ⭐ 295 | 🐛 1 | 🌐 Python | 📅 2019-11-07 - Predict the power production of a solar panel farm from weather measurements using machine learning.
-* [LibreSolar](https://github.com/LibreSolar/bms-firmware) ⭐ 259 | 🐛 24 | 🌐 C | 📅 2026-08-22 - Firmware for LibreSolar BMS boards based on bq769x0 or ISL94202.
+* [LibreSolar](https://github.com/LibreSolar/bms-firmware) ⭐ 258 | 🐛 24 | 🌐 C | 📅 2026-08-22 - Firmware for LibreSolar BMS boards based on bq769x0 or ISL94202.
 * [solariot](https://github.com/meltaxa/solariot) ⭐ 223 | 🐛 18 | 🌐 Python | 📅 2026-02-15 - Leverage your IoT enabled Solar PV Inverter to stream your solar energy usage data to a real time dashboard.
 * [Charge Controller Firmware](https://github.com/LibreSolar/charge-controller-firmware) ⭐ 190 | 🐛 10 | 🌐 C++ | 📅 2026-07-20 - Firmware for LibreSolar MPPT/PWM charge controllers.
 * [rdtools](https://github.com/NREL/rdtools) ⭐ 189 | 🐛 36 | 🌐 Python | 📅 2026-08-25 - An open source library to support reproducible technical analysis of time series data from photovoltaic energy systems.
-* [SOLECTRUS](https://github.com/solectrus/solectrus) ⭐ 165 | 🐛 51 | 🌐 Ruby | 📅 2026-09-19 - An alternative photovoltaic dashboard that visualizes the yield and consumption.
+* [SOLECTRUS](https://github.com/solectrus/solectrus) ⭐ 165 | 🐛 51 | 🌐 Ruby | 📅 2026-09-20 - An alternative photovoltaic dashboard that visualizes the yield and consumption.
 * [MPPT-Solar-Charger](https://github.com/danjulio/MPPT-Solar-Charger) ⭐ 164 | 🐛 3 | 🌐 C | 📅 2023-12-29 - Supporting documentation and software for the MPPT Solar Charger.
 * [solcore5](https://github.com/qpv-research-group/solcore5) ⭐ 157 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - A multi-scale, Python-based library for the modeling of solar cells and semiconductor materials.
-* [Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) ⭐ 155 | 🐛 69 | 🌐 Jupyter Notebook | 📅 2026-09-06 - The aim of the project is to build an open source PV forecast that is free and easy to use.
+* [Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) ⭐ 155 | 🐛 68 | 🌐 Jupyter Notebook | 📅 2026-09-06 - The aim of the project is to build an open source PV forecast that is free and easy to use.
 * [solarthing](https://github.com/wildmountainfarms/solarthing) ⭐ 151 | 🐛 35 | 🌐 Java | 📅 2026-03-16 - An application that can monitor data from a variety of solar charge controllers and inverters.
 * [gsee](https://github.com/renewables-ninja/gsee) ⭐ 149 | 🐛 5 | 🌐 Python | 📅 2026-09-01 - Global Solar Energy Estimator.
 * [A Global Inventory of Commercial-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) ⭐ 149 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2021-11-25 - Used to produce a global inventory of utility-scale solar photovoltaic generating station.
@@ -190,17 +190,17 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 <!--lint ignore awesome-spell-check-->
 
-* [OpenDTU](https://github.com/tbnobody/OpenDTU) ⭐ 2,189 | 🐛 189 | 🌐 C++ | 📅 2026-09-14 - An alternative open source software for communicating with Hoymiles solar inverters, which synchronises everything with the s-Miles cloud.
-* [Anker Solix Integration for Home Assistant](https://github.com/thomluther/ha-anker-solix) ⭐ 1,091 | 🐛 11 | 🌐 Python | 📅 2026-09-14 - Home Assistant integration for Anker Solix Power devices.
-* [huawei\_solar](https://github.com/wlcrs/huawei_solar) ⭐ 932 | 🐛 6 | 🌐 Python | 📅 2026-09-09 - This integration exposes the information and functions made available by Huawei Solar inverters directly via one of its Modbus interfaces in Home Assistant.
-* [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) ⭐ 737 | 🐛 404 | 🌐 Python | 📅 2024-08-05 - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
+* [OpenDTU](https://github.com/tbnobody/OpenDTU) ⭐ 2,189 | 🐛 190 | 🌐 C++ | 📅 2026-09-14 - An alternative open source software for communicating with Hoymiles solar inverters, which synchronises everything with the s-Miles cloud.
+* [Anker Solix Integration for Home Assistant](https://github.com/thomluther/ha-anker-solix) ⭐ 1,095 | 🐛 12 | 🌐 Python | 📅 2026-09-14 - Home Assistant integration for Anker Solix Power devices.
+* [huawei\_solar](https://github.com/wlcrs/huawei_solar) ⭐ 932 | 🐛 4 | 🌐 Python | 📅 2026-09-20 - This integration exposes the information and functions made available by Huawei Solar inverters directly via one of its Modbus interfaces in Home Assistant.
+* [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) ⭐ 738 | 🐛 404 | 🌐 Python | 📅 2024-08-05 - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
 * [Sunsynk-Power-Flow-Card](https://github.com/slipx06/sunsynk-power-flow-card) ⭐ 393 | 🐛 99 | 🌐 TypeScript | 📅 2026-05-12 - A customizable Home Assistant card to emulate the Sunsynk System flow that's displayed on the Inverter screen.
 * [Sunalyzer](https://github.com/BorisBrock/Sunalyzer) ⭐ 82 | 🐛 3 | 🌐 CSS | 📅 2026-06-19 - A free, open source and vendor independent solar monitoring system. It collects relevant data from your inverter/smart meter and stores them safely in a data base.
 * [SkyGPT](https://github.com/yuhao-nie/SkyGPT) ⭐ 73 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-05-07 - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
 * [PVForecast](https://github.com/StefaE/PVForecast) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2025-04-21 - Forecasts to optimize electricity consumption for rooftop PV installations.
-* [PVNet](https://github.com/openclimatefix/PVNet) ⭐ 60 | 🐛 14 | 🌐 Python | 📅 2026-09-17 - A multi-modal late-fusion model for predicting renewable energy generation from weather data.
+* [PVNet](https://github.com/openclimatefix/PVNet) ⭐ 60 | 🐛 15 | 🌐 Python | 📅 2026-09-20 - A multi-modal late-fusion model for predicting renewable energy generation from weather data.
 * [SimShady](https://github.com/open-pv/simshady) ⭐ 37 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11 - Simulating Shadows for PV Potential Analysis on 3D Data in the Browser.
-* [forecast-solar](https://github.com/home-assistant-libs/forecast_solar) ⭐ 32 | 🐛 7 | 🌐 Python | 📅 2026-09-17 - Asynchronous Python client for getting solarpanels forecast information.
+* [forecast-solar](https://github.com/home-assistant-libs/forecast_solar) ⭐ 32 | 🐛 8 | 🌐 Python | 📅 2026-09-17 - Asynchronous Python client for getting solarpanels forecast information.
 * [OpenPV](https://github.com/open-pv/website) ⭐ 24 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-14 - A website to simulate shading and annual PV yield based on 3D building data in the browser.
 * [GMSEUS](https://github.com/stidjaco/GMSEUS) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2026-08-07 - A comprehensive ground-mounted solar energy dataset with sub-array design metadata in the United States.
 * [InSPIRE](https://github.com/NREL/InSPIRE) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2026-07-23 - Here we will collect scripts, trainings, studies, and any other open-source material that can help further the understanding and research of agrivoltaics.
@@ -218,14 +218,14 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help simulate and solve for the physics, energy output, and cost of wind turbines and farms, including maintenance, operations, and wildlife collision risk; analyze and forecast time series data; optimize turbine placement; and interface with SCADA datasets.
 
-* [openfast](https://github.com/OpenFAST/openfast) ⭐ 969 | 🐛 579 | 🌐 Fortran | 📅 2026-09-10 - A multi-physics, multi-fidelity tool for simulating the coupled dynamic response of wind turbines and wind farms.
+* [openfast](https://github.com/OpenFAST/openfast) ⭐ 970 | 🐛 579 | 🌐 Fortran | 📅 2026-09-10 - A multi-physics, multi-fidelity tool for simulating the coupled dynamic response of wind turbines and wind farms.
 * [windpowerlib](https://github.com/wind-python/windpowerlib) ⭐ 396 | 🐛 24 | 🌐 Python | 📅 2024-02-20 - A library to model the output of wind turbines and farms.
 * [FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) ⭐ 389 | 🐛 45 | 🌐 Julia | 📅 2026-09-16 - An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy.
 * [IEA-15-240-RWT](https://github.com/IEAWindSystems/IEA-15-240-RWT) ⭐ 308 | 🐛 8 | 🌐 Python | 📅 2026-09-04 - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
 * [floris](https://github.com/NREL/floris) ⭐ 301 | 🐛 48 | 🌐 Python | 📅 2026-09-01 - A controls-oriented engineering wake modeling framework for evaluating the impact of wind farm controls on AEP and wind farm design.
 * [OpenOA](https://github.com/NREL/OpenOA) ⭐ 253 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-01-30 - This library provides a framework for working with large time series data from wind plants, such as SCADA.
 * [OpenWindSCADA](https://github.com/sltzgs/OpenWindSCADA) ⭐ 247 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-24Ac - Repository of openly available wind turbine SCADA datasets with high-level descriptions, reusable data loaders for convenient CSV import, and a platform for documenting insights related to data quality and malfunctions.
-* [SHARPy](https://github.com/ImperialCollegeLondon/sharpy) ⭐ 191 | 🐛 24 | 🌐 Python | 📅 2026-05-07 - Simulation of High Aspect Ratio aeroplanes and wind turbines in Python.
+* [SHARPy](https://github.com/ImperialCollegeLondon/sharpy) ⭐ 192 | 🐛 24 | 🌐 Python | 📅 2026-05-07 - Simulation of High Aspect Ratio aeroplanes and wind turbines in Python.
 * [WISDEM](https://github.com/WISDEM/WISDEM) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2026-07-28 - Wind Plant Integrated System Design and Engineering Model.
 * [amr-wind](https://github.com/Exawind/amr-wind) ⭐ 183 | 🐛 33 | 🌐 C++ | 📅 2026-09-15 - A massively parallel, block-structured adaptive-mesh, incompressible flow solver for wind turbine and wind farm simulations.
 * [ROSCO](https://github.com/NREL/ROSCO) ⭐ 175 | 🐛 11 | 🌐 Python | 📅 2026-09-18 - NREL's Reference OpenSource Controller for wind turbine applications.
@@ -237,7 +237,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [NREL Wind Turbine Power Curve Archive](https://github.com/NREL/turbine-models) ⭐ 94 | 🐛 16 | 🌐 Python | 📅 2026-04-03 - The purpose of this archive is to compile public wind turbine data in one place for easy access.
 * [wtphm](https://github.com/lkev/wtphm) ⭐ 88 | 🐛 3 | 🌐 Python | 📅 2021-01-07 - The Wind Turbine Prognostics and Health Management library processes wind turbine events data, as well as operational SCADA data for easier fault detection, prognostics or reliability research.
 * [CCBlade.jl](https://github.com/byuflowlab/CCBlade.jl) ⭐ 86 | 🐛 5 | 🌐 Julia | 📅 2025-11-24 - A blade element momentum method for propellers and turbines.
-* [Energy Research and Forecasting](https://github.com/erf-model/ERF) ⭐ 80 | 🐛 26 | 🌐 C++ | 📅 2026-09-19 - Designed to provide a flexible computational framework for the exploration and investigation of different physics parameterizations and numerical strategies, and to characterize the flow field that impacts the ability of wind turbines to extract wind energy.
+* [Energy Research and Forecasting](https://github.com/erf-model/ERF) ⭐ 80 | 🐛 24 | 🌐 C++ | 📅 2026-09-19 - Designed to provide a flexible computational framework for the exploration and investigation of different physics parameterizations and numerical strategies, and to characterize the flow field that impacts the ability of wind turbines to extract wind energy.
 * [brightwind](https://github.com/brightwind-dev/brightwind) ⭐ 76 | 🐛 124 | 🌐 Python | 📅 2026-07-23 - A Python library aims to empower wind resource analysts and establish a common industry standard toolset.
 * [WEIS](https://github.com/WISDEM/WEIS) ⭐ 71 | 🐛 15 | 🌐 Python | 📅 2026-09-18 - WEIS is a framework that combines multiple tools to enable design optimization of floating offshore wind turbines.
 * [digital\_wra\_data\_standard](https://github.com/IEA-Task-43/digital_wra_data_standard) ⭐ 70 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2026-08-24 - This standard data model and associated tools are intended as universal building blocks for Wind Energy Resource Assessment applications.
@@ -276,9 +276,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help simulate and model waves, their interactions, and hydrodynamic forces; forecast energy production; facilitate data collection and visualization; and perform quality control of hydrological systems.
 
-* [fairchem](https://github.com/facebookresearch/fairchem) ⭐ 2,259 | 🐛 30 | 🌐 Python | 📅 2026-09-18 - Use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.
+* [fairchem](https://github.com/facebookresearch/fairchem) ⭐ 2,260 | 🐛 30 | 🌐 Python | 📅 2026-09-18 - Use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.
 * [Capytaine](https://github.com/capytaine/capytaine) ⭐ 229 | 🐛 30 | 🌐 Python | 📅 2026-09-18 - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
-* [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) ⭐ 193 | 🐛 4 | 🌐 MATLAB | 📅 2026-09-14 - Wave Energy Converter Simulator is an open source code for simulating wave energy converters.
+* [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) ⭐ 194 | 🐛 4 | 🌐 MATLAB | 📅 2026-09-14 - Wave Energy Converter Simulator is an open source code for simulating wave energy converters.
 * [BEMRosetta](https://github.com/BEMRosetta/BEMRosetta) ⭐ 122 | 🐛 5 | 🌐 C++ | 📅 2026-09-14 - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
 * [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) ⭐ 70 | 🐛 4 | 📅 2026-01-19 - Collects basic information on all the European hydro-power plants.
 * [MHKiT-Python](https://github.com/MHKiT-Software/MHKiT-Python) ⭐ 64 | 🐛 4 | 🌐 Python | 📅 2026-09-15 - Provides the marine renewable energy community tools for data processing, visualization, quality control, resource assessment, and device performance.
@@ -303,7 +303,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [pygfunction](https://github.com/MassimoCimmino/pygfunction) ⭐ 72 | 🐛 34 | 🌐 Python | 📅 2026-09-12 - An open source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
 * [fractoolbox](https://github.com/ICWallis/fractoolbox) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-05-22 - Python tools for structural geology and borehole image analysis which includes data handling, frequency and geometric analysis, and reservoir geomechanics.
 * [FEHM](https://github.com/lanl/FEHM) ⭐ 68 | 🐛 39 | 🌐 GLSL | 📅 2026-03-16 - Has proved to be a valuable asset on a variety of projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost.
-* [GEOPHIRES-X](https://github.com/NREL/GEOPHIRES-X) ⭐ 62 | 🐛 85 | 🌐 Python | 📅 2026-09-19 - Combines reservoir, wellbore, surface plant, and economic models to estimate the capital and operation and maintenance costs, instantaneous and lifetime energy production, and overall levelized cost of energy of a geothermal plant.
+* [GEOPHIRES-X](https://github.com/NREL/GEOPHIRES-X) ⭐ 62 | 🐛 84 | 🌐 Python | 📅 2026-09-19 - Combines reservoir, wellbore, surface plant, and economic models to estimate the capital and operation and maintenance costs, instantaneous and lifetime energy production, and overall levelized cost of energy of a geothermal plant.
 * [waiwera](https://github.com/waiwera/waiwera) ⭐ 61 | 🐛 6 | 🌐 Fortran | 📅 2026-09-15 - A parallel, open-source geothermal flow simulator.
 * [GOLEM](https://github.com/ajacquey/golem) ⭐ 49 | 🐛 2 | 🌐 C++ | 📅 2024-05-09 - A numerical simulator for modelling coupled Thermo-Hydro-Mechanical processes in faulted geothermal reservoirs.
 * [GHEtool](https://github.com/wouterpeere/GHEtool) ⭐ 45 | 🐛 23 | 🌐 Python | 📅 2026-09-16 - GHEtool is an open source Python package that contains all the functionalities needed to deal with borefield design.
@@ -322,12 +322,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help forecast and refine biogas production; simulate and analyze bioreactors; and facilitate compliance with biofuel laws and regulations.
 
-* [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) ⭐ 270 | 🐛 13 | 🌐 Python | 📅 2026-09-11 - The Biorefinery Simulation and Techno-Economic Analysis Modules.
-* [BiRD](https://github.com/NREL/BioReactorDesign) ⭐ 46 | 🐛 9 | 🌐 Liquid | 📅 2026-09-14 - A toolbox to simulate and analyze different designs of bioreactors in OpenFOAM.
+* [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) ⭐ 271 | 🐛 13 | 🌐 Python | 📅 2026-09-11 - The Biorefinery Simulation and Techno-Economic Analysis Modules.
+* [BiRD](https://github.com/NREL/BioReactorDesign) ⭐ 46 | 🐛 9 | 🌐 Liquid | 📅 2026-09-20 - A toolbox to simulate and analyze different designs of bioreactors in OpenFOAM.
 * [BETYdb](https://github.com/PecanProject/bety) ⭐ 21 | 🐛 172 | 🌐 Ruby | 📅 2026-04-01 - Web-interface to the Biofuel Ecophysiological Traits and Yields Database.
 * [biogas](https://github.com/sashahafner/biogas) ⭐ 16 | 🐛 40 | 🌐 R | 📅 2026-03-17 - Tools for biogas research in R: process biogas data and predict biogas production.
 * [bioenergy.org](https://github.com/bioenergy-research-centers/bioenergy.org) ⭐ 11 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-17 - A site dedicated to creating FAIR datasets to share across bioenergy research centers and to the global research community.
-* [Low Carbon Fuel Standard](https://github.com/bcgov/lcfs) ⭐ 7 | 🐛 265 | 🌐 Python | 📅 2026-09-19 - An online application for fuel suppliers to manage their compliance obligations under the Low Carbon Fuels Act.
+* [Low Carbon Fuel Standard](https://github.com/bcgov/lcfs) ⭐ 7 | 🐛 265 | 🌐 Python | 📅 2026-09-20 - An online application for fuel suppliers to manage their compliance obligations under the Low Carbon Fuels Act.
 
 ## Energy Storage
 
@@ -339,15 +339,15 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help model and simulate electrochemical processes and battery interactions; monitor and control battery management systems; and analyze battery lifetime consumption and degradation.
 
-* [Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) ⭐ 2,919 | 🐛 166 | 🌐 C++ | 📅 2026-09-18 - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
+* [Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) ⭐ 2,920 | 🐛 167 | 🌐 C++ | 📅 2026-09-19 - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 * [PyBaMM](https://github.com/pybamm-team/PyBaMM) ⭐ 1,663 | 🐛 263 | 🌐 Python | 📅 2026-09-18 - Fast and flexible physics-based battery models in Python.
 * [BatteryML](https://github.com/microsoft/BatteryML) ⚠️ Archived -  An Open-Source Tool for Machine Learning on Battery Degradation.
-* [Homeassistant E3DC Integration](https://github.com/fl4p/batmon-ha) ⭐ 513 | 🐛 15 | 🌐 Python | 📅 2026-09-19 - Monitor and control various Battery management systems (BMS) over Bluetooth and send the results to Home Assistant.
+* [Homeassistant E3DC Integration](https://github.com/fl4p/batmon-ha) ⭐ 514 | 🐛 16 | 🌐 Python | 📅 2026-09-19 - Monitor and control various Battery management systems (BMS) over Bluetooth and send the results to Home Assistant.
 * [BatterySense](https://github.com/rlogiacco/BatterySense) ⭐ 449 | 🐛 1 | 🌐 C++ | 📅 2026-05-23 - A simple Arduino library to monitor battery consumption of your battery powered projects, being LiPo, LiIon, NiCd or any other battery type, single or multiple cells: if it can power your Arduino you can monitor it.
 * [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife) ⭐ 332 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-08-17 - A Comprehensive Dataset and Benchmark for Battery Life Prediction.
 * [ENNOID-BMS](https://github.com/EnnoidMe/ENNOID-BMS) ⭐ 327 | 🐛 8 | 📅 2021-07-19 - Open Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack.
 * [impedance.py](https://github.com/ECSHackWeek/impedance.py) ⭐ 297 | 🐛 52 | 🌐 Python | 📅 2026-04-10 - A Python package for working with electro-chemical impedance data.
-* [bms-c1](https://github.com/LibreSolar/bms-c1) ⭐ 257 | 🐛 24 | 🌐 KiCad Layout | 📅 2026-03-29 - A flexible Open Source Battery Management System (BMS) suitable for various applications.
+* [bms-c1](https://github.com/LibreSolar/bms-c1) ⭐ 258 | 🐛 24 | 🌐 KiCad Layout | 📅 2026-03-29 - A flexible Open Source Battery Management System (BMS) suitable for various applications.
 * [PyBOP](https://github.com/pybop-team/PyBOP) ⭐ 214 | 🐛 53 | 🌐 Python | 📅 2026-09-16 - Provides a comprehensive suite of tools for parameterisation and optimisation of battery models.
 * [beep](https://github.com/TRI-AMDD/beep) ⭐ 160 | 🐛 32 | 🌐 Python | 📅 2026-02-09 - A set of tools designed to support Battery Evaluation and Early Prediction of cycle life corresponding to the research of the d3batt program and the Toyota Research Institute.
 * [snl-quest](https://github.com/sandialabs/snl-quest) ⭐ 159 | 🐛 45 | 🌐 Python | 📅 2026-08-13 - An open source, Python-based software application suite for energy storage simulation and analysis developed by Sandia National Laboratories.
@@ -359,7 +359,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [universal-battery-database](https://github.com/Samuel-Buteau/universal-battery-database) ⭐ 104 | 🐛 38 | 🌐 Python | 📅 2022-12-08 - The Universal Battery Database is an open source software for managing Lithium-ion cell data.
 * [BLAST-Lite](https://github.com/NREL/BLAST-Lite) ⭐ 76 | 🐛 0 | 🌐 Python | 📅 2026-06-24 - Battery Lifetime Analysis and Simulation Toolsuite provides a library of battery lifetime and degradation models for various commercial lithium-ion batteries from recent years.
 * [Battery Pass Data Model](https://github.com/batterypass/BatteryPassDataModel) ⭐ 68 | 🐛 31 | 🌐 HTML | 📅 2026-09-14 - Standardizing and streamlining the exchange of battery-related information across the value chain to allow informed stakeholder decisions for sustainable circular economy.
-* [BattMo](https://github.com/BattMoTeam/BattMo) ⭐ 60 | 🐛 20 | 🌐 MATLAB | 📅 2026-09-17 - The Battery Modelling Toolbox (BattMo) is a resource for continuum modelling of electrochemical devices in MATLAB.
+* [BattMo](https://github.com/BattMoTeam/BattMo) ⭐ 60 | 🐛 20 | 🌐 MATLAB | 📅 2026-09-19 - The Battery Modelling Toolbox (BattMo) is a resource for continuum modelling of electrochemical devices in MATLAB.
 * [Battery Data Toolkit](https://github.com/ROVI-org/battery-data-toolkit) ⭐ 56 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2025-08-19 - Converts battery testing data from native formats to a standardized HDF5 file.
 * [PyProBE](https://github.com/ImperialCollegeLondon/PyProBE) ⭐ 56 | 🐛 37 | 🌐 Python | 📅 2026-09-18 - A Python package designed to simplify and accelerate the process of analysing data from battery cyclers.
 * [FAIR-Battery](https://github.com/SanliFaez/FAIR-Battery) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2025-06-06 - We seek to present an open-hardware platform for a versatile battery technology and make the platform radically accessible.
@@ -369,7 +369,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [Ampere](https://github.com/nealde/Ampere) ⭐ 22 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2023-07-06 - Advanced Model Package for ElectRochemical Experiments.
 * [galpynostatic](https://github.com/fernandezfran/galpynostatic) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-09 - A Python/C++ package with physics-based models to predict optimal conditions for fast-charging lithium-ion batteries.
 * [bslib](https://github.com/FZJ-IEK3-VSA/bslib) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-01-18 - Database with battery parameters based on PerMod as well as functions in order to simulate battery storages.
-* [BIG-MAP](https://github.com/BIG-MAP/big-map-registry) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-09-19 - The Battery Interface Genome Materials Acceleration Platform is promoting accelerated discovery of novel battery materials.
+* [BIG-MAP](https://github.com/BIG-MAP/big-map-registry) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-09-20 - The Battery Interface Genome Materials Acceleration Platform is promoting accelerated discovery of novel battery materials.
 * [3d\_milp](https://github.com/ElektrikAkar/3d_milp) ⭐ 8 | 🐛 0 | 🌐 MATLAB | 📅 2022-07-22 - Energy Arbitrage Optimization With Battery Storage.
 * [Galv backend](https://github.com/galv-team/galv-backend) ⭐ 6 | 🐛 10 | 🌐 Python | 📅 2026-09-14 - An open-source platform for automated storage of battery data with advanced metadata support for battery scientists.
 * [simses](https://gitlab.lrz.de/open-ees-ses/simses) - Software for techno-economic Simulation of Stationary Energy Storage Systems.
@@ -409,17 +409,17 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools enable real-time and historical monitoring of electricity, temperature, and other environmental metrics; integrate with smart meters, IoT sensors, and home automation platforms; provide dashboards for users to optimize energy use and costs; and support forecasting, scheduling, and load management for energy assets.
 
-* [PowerCalc](https://github.com/bramstroker/homeassistant-powercalc) ⭐ 1,580 | 🐛 22 | 🌐 Python | 📅 2026-09-19 - Custom component for Home Assistant to estimate the power consumption (as virtual meters) of lights, fans, smart speakers and other devices, which don't have a built-in power meter.
-* [OpenEMS](https://github.com/OpenEMS/openems) ⭐ 1,559 | 🐛 64 | 🌐 Java | 📅 2026-09-19 - Open Source Energy Management System.
+* [PowerCalc](https://github.com/bramstroker/homeassistant-powercalc) ⭐ 1,580 | 🐛 18 | 🌐 Python | 📅 2026-09-20 - Custom component for Home Assistant to estimate the power consumption (as virtual meters) of lights, fans, smart speakers and other devices, which don't have a built-in power meter.
+* [OpenEMS](https://github.com/OpenEMS/openems) ⭐ 1,560 | 🐛 59 | 🌐 Java | 📅 2026-09-19 - Open Source Energy Management System.
 * [Emoncms](https://github.com/emoncms/emoncms) ⭐ 1,322 | 🐛 62 | 🌐 PHP | 📅 2026-09-16 - A powerful open source web application for processing, logging and visualizing energy, temperature and other environmental data.
 * [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) ⭐ 1,270 | 🐛 12 | 📅 2026-09-14 - Makes a (not so) smart meter without a P1 port easily readable, reading the pulse LED that is always present in most cases and it works with ESPHome!
-* [Home Assistant Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) ⭐ 1,008 | 🐛 53 | 🌐 Python | 📅 2026-09-19 - Bring your Octopus Energy details into Home Assistant to help you towards a more energy efficient (and or cheaper) home.
+* [Home Assistant Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) ⭐ 1,008 | 🐛 54 | 🌐 Python | 📅 2026-09-19 - Bring your Octopus Energy details into Home Assistant to help you towards a more energy efficient (and or cheaper) home.
 * [EHMASS](https://github.com/davidusb-geek/emhass) ⭐ 680 | 🐛 51 | 🌐 Python | 📅 2026-09-16 - Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
-* [Sankey Chart Card](https://github.com/MindFreeze/ha-sankey-chart) ⭐ 672 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-17 - A Home Assistant lovelace card to display a sankey chart showing energy, power and water consumption.
+* [Sankey Chart Card](https://github.com/MindFreeze/ha-sankey-chart) ⭐ 672 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-17 - A Home Assistant lovelace card to display a sankey chart showing energy, power and water consumption.
 * [EmonLib](https://github.com/openenergymonitor/EmonLib) ⭐ 629 | 🐛 34 | 🌐 C++ | 📅 2023-05-08 - Arduino Energy Monitoring Library.
 * [emonpi](https://github.com/openenergymonitor/emonpi) ⭐ 279 | 🐛 21 | 🌐 C++ | 📅 2025-10-12 - The OpenEnergyMonitor system has the capability to monitor electrical energy use / generation, temperature and humidity.
 * [opendsm](https://github.com/opendsm/opendsm) ⭐ 239 | 🐛 6 | 🌐 Python | 📅 2026-09-09 (formerly *eemeter*) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
-* [myenergi for Home Assistant](https://github.com/CJNE/ha-myenergi) ⭐ 211 | 🐛 22 | 🌐 Python | 📅 2026-08-14 - Home Assistant integration for MyEnergi renewable energy products and ev chargers.
+* [myenergi for Home Assistant](https://github.com/CJNE/ha-myenergi) ⭐ 212 | 🐛 22 | 🌐 Python | 📅 2026-08-14 - Home Assistant integration for MyEnergi renewable energy products and ev chargers.
 * [FlexMeasures](https://github.com/FlexMeasures/flexmeasures) ⭐ 207 | 🐛 202 | 🌐 Python | 📅 2026-09-18 - A platform for building energy flexibility services with forecasting and scheduling, written in Python & offering a USEF-conform API.
 * [homeassistant-alphaESS](https://github.com/CharlesGillanders/homeassistant-alphaESS) ⭐ 145 | 🐛 57 | 🌐 Python | 📅 2026-09-07 - Monitor your energy generation, storage, and usage data using the official Open API from Alpha ESS.
 * [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) ⭐ 116 | 🐛 160 | 🌐 JavaScript | 📅 2026-09-17 - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter.
@@ -438,13 +438,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help model and perform cost-benefit analysis and investment plans to support decarbonisation and electrification pathways; simulate and optimize energy system operations; and incorporate geospatial information for efficient land planning.
 
-* [PyPSA](https://github.com/PyPSA/PyPSA) ⭐ 2,154 | 🐛 146 | 🌐 Python | 📅 2026-09-19 - A free software toolbox for simulating and optimizing modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
+* [PyPSA](https://github.com/PyPSA/PyPSA) ⭐ 2,155 | 🐛 146 | 🌐 Python | 📅 2026-09-20 - A free software toolbox for simulating and optimizing modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
 
-* [AkkudoktorEOS](https://github.com/Akkudoktor-EOS/EOS) ⭐ 1,664 | 🐛 35 | 🌐 Python | 📅 2026-09-18 - An open-source energy optimization system that integrates renewable energy sources, such as photovoltaic (PV) systems, battery storage, and smart load management solutions.
+* [AkkudoktorEOS](https://github.com/Akkudoktor-EOS/EOS) ⭐ 1,666 | 🐛 35 | 🌐 Python | 📅 2026-09-18 - An open-source energy optimization system that integrates renewable energy sources, such as photovoltaic (PV) systems, battery storage, and smart load management solutions.
 
-* [pandapower](https://github.com/e2nIEE/pandapower) ⭐ 1,273 | 🐛 164 | 🌐 Python | 📅 2026-09-18 - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
+* [pandapower](https://github.com/e2nIEE/pandapower) ⭐ 1,275 | 🐛 165 | 🌐 Python | 📅 2026-09-18 - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 
-* [matpower](https://github.com/MATPOWER/matpower) ⭐ 592 | 🐛 16 | 🌐 MATLAB | 📅 2026-08-04 - A package of M-files for solving power flow, continuation power flow and optimal power flow problems using MATLAB or Octave.
+* [matpower](https://github.com/MATPOWER/matpower) ⭐ 593 | 🐛 16 | 🌐 MATLAB | 📅 2026-08-04 - A package of M-files for solving power flow, continuation power flow and optimal power flow problems using MATLAB or Octave.
 
 * [PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) ⭐ 581 | 🐛 0 | 🌐 Python | 📅 2026-08-13 - A transparent, modular, and open-source Energy Capacity Expansion Model.
 
@@ -472,13 +472,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [energy-py](https://github.com/ADGEfficiency/energy-py) ⭐ 191 | 🐛 1 | 🌐 Python | 📅 2025-05-19 - Reinforcement learning for energy systems.
 
-* [PowSyBl](https://github.com/powsybl/powsybl-core) ⭐ 185 | 🐛 270 | 🌐 Java | 📅 2026-09-18 - An open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
+* [PowSyBl](https://github.com/powsybl/powsybl-core) ⭐ 185 | 🐛 270 | 🌐 Java | 📅 2026-09-19 - An open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
 
 * [tsam](https://github.com/FZJ-IEK3-VSA/tsam) ⭐ 181 | 🐛 26 | 🌐 Python | 📅 2026-09-18 - A Python package which uses different machine learning algorithms for the aggregation of time series.
 
 * [HELICS](https://github.com/GMLC-TDC/HELICS) ⭐ 173 | 🐛 92 | 🌐 C++ | 📅 2026-09-09 - Today the core uses are in the energy domain, where there is extensive and growing support for a wide-range of electric power system, natural gas, communications and control-schemes, transportation, buildings, and related domain tools.
 
-* [PySAM](https://github.com/NatLabRockies/pysam) ⭐ 150 | 🐛 18 | 🌐 C | 📅 2026-09-02 - A Python package for the National Renewable Energy Laboratory’s System Advisor Model.
+* [PySAM](https://github.com/NatLabRockies/pysam) ⭐ 150 | 🐛 20 | 🌐 C | 📅 2026-09-02 - A Python package for the National Renewable Energy Laboratory’s System Advisor Model.
 
 * [oemof](https://github.com/oemof/oemof) ⭐ 146 | 🐛 32 | 🌐 Python | 📅 2025-09-16 - Open Energy Modelling Framework - A Python toolbox for energy system modeling and optimization. A community driven, modular, flexible and generic software project.
 
@@ -494,19 +494,19 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [REopt\_API](https://github.com/NREL/REopt_API) ⭐ 125 | 🐛 55 | 🌐 Python | 📅 2026-09-18 - Offers a subset of features from NREL's more comprehensive REopt model. Both models provide concurrent, multiple technology integration and optimization capabilities to help organizations meet their cost savings and energy performance goals.
 
-* [Temoa](https://github.com/TemoaProject/temoa) ⭐ 114 | 🐛 13 | 🌐 Python | 📅 2026-09-19 - Tools for Energy Model Optimization and Analysis (Temoa) is an open source modeling framework for conducting energy system analysis.
+* [Temoa](https://github.com/TemoaProject/temoa) ⭐ 114 | 🐛 13 | 🌐 Python | 📅 2026-09-20 - Tools for Energy Model Optimization and Analysis (Temoa) is an open source modeling framework for conducting energy system analysis.
 
-* [OpenIPSL](https://github.com/OpenIPSL/OpenIPSL) ⭐ 110 | 🐛 20 | 🌐 Modelica | 📅 2026-09-18 - A library of power system component models written in the Modelica language that can be used for power system dynamic analysis, such as phasor time-domain simulations.
+* [OpenIPSL](https://github.com/OpenIPSL/OpenIPSL) ⭐ 110 | 🐛 20 | 🌐 Modelica | 📅 2026-09-20 - A library of power system component models written in the Modelica language that can be used for power system dynamic analysis, such as phasor time-domain simulations.
 
 * [Dynaωo](https://github.com/dynawo/dynawo) ⭐ 110 | 🐛 264 | 🌐 Modelica | 📅 2026-09-18 - Aims at providing power system stakeholders with a transparent, flexible, interoperable and robust suite of simulation tools that could ease collaboration and cooperation in the power system community.
 
-* [Spine-Toolbox](https://github.com/spine-tools/Spine-Toolbox) ⭐ 102 | 🐛 269 | 🌐 Python | 📅 2026-09-17 - An application to define, manage, and execute various energy system simulation models.
+* [Spine-Toolbox](https://github.com/spine-tools/Spine-Toolbox) ⭐ 103 | 🐛 269 | 🌐 Python | 📅 2026-09-17 - An application to define, manage, and execute various energy system simulation models.
 
-* [PyPowSyBl](https://github.com/powsybl/pypowsybl) ⭐ 102 | 🐛 101 | 🌐 Java | 📅 2026-09-18 - A Python library for modelling and simulating power grids by providing bindings to the powsybl Java framework.
+* [PyPowSyBl](https://github.com/powsybl/pypowsybl) ⭐ 102 | 🐛 102 | 🌐 Java | 📅 2026-09-19 - A Python library for modelling and simulating power grids by providing bindings to the powsybl Java framework.
+
+* [FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 101 | 🐛 89 | 🌐 Python | 📅 2026-09-18 - Provides a framework for modeling, optimizing and assessing energy systems.
 
 * [energy-py-linear](https://github.com/ADGEfficiency/energy-py-linear) ⭐ 101 | 🐛 2 | 🌐 Python | 📅 2026-02-14 - Optimizing energy systems using mixed integer linear programming.
-
-* [FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 100 | 🐛 89 | 🌐 Python | 📅 2026-09-18 - Provides a framework for modeling, optimizing and assessing energy systems.
 
 * [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) ⭐ 95 | 🐛 19 | 🌐 Python | 📅 2026-08-24 - Allows to model a power system at any level of detail e.g. micro-grid, region, country, continent.
 
@@ -522,13 +522,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [SpineOpt.jl](https://github.com/spine-tools/SpineOpt.jl) ⭐ 81 | 🐛 133 | 🌐 Julia | 📅 2026-09-18 - A highly adaptable modelling framework for multi-energy systems written in Julia.
 
-* [Tulipa Energy Model](https://github.com/TulipaEnergy/TulipaEnergyModel.jl) ⭐ 80 | 🐛 29 | 🌐 Julia | 📅 2026-09-16 - An energy system modelling framework for investment (expansion) and dispatch (operations) optimisations using mixed-integer linear programming (MILP) - primarily for informing policy-maker & stakeholder decisions in the energy transition. Focuses on generalized & compact formulations (peer-reviewed publications) and efficient code implementation to handle large-scale problems (i.e. European) while maintaining sufficient granularity.
+* [Tulipa Energy Model](https://github.com/TulipaEnergy/TulipaEnergyModel.jl) ⭐ 80 | 🐛 30 | 🌐 Julia | 📅 2026-09-16 - An energy system modelling framework for investment (expansion) and dispatch (operations) optimisations using mixed-integer linear programming (MILP) - primarily for informing policy-maker & stakeholder decisions in the energy transition. Focuses on generalized & compact formulations (peer-reviewed publications) and efficient code implementation to handle large-scale problems (i.e. European) while maintaining sufficient granularity.
 
 * [AnyMOD.jl](https://github.com/leonardgoeke/AnyMOD.jl) ⭐ 77 | 🐛 4 | 🌐 Julia | 📅 2026-04-26 - Creating large scale energy system models with multiple periods of capacity expansion formulated as linear optimization problems.
 
 * [PSP-UFU](https://github.com/Thales1330/PSP) ⭐ 76 | 🐛 8 | 🌐 C++ | 📅 2026-09-14 - Open-Source Software with advanced GUI features and CAD tools for electrical power system studies.
 
-* [OpenDER](https://github.com/epri-dev/OpenDER) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2025-06-23 - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
+* [OpenDER](https://github.com/epri-dev/OpenDER) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2025-06-23 - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
 
 * [enflow](https://github.com/rebase-energy/enflow) ⭐ 74 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-07 - An open-source Python framework that enables energy data scientists and modellers to write modular and reproducible energy models that solves sequential decision problems.
 
@@ -546,13 +546,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) ⭐ 65 | 🐛 169 | 🌐 Python | 📅 2026-09-16 - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy-related data.
 
-* [openTEPES](https://github.com/IIT-EnergySystemModels/openTEPES) ⭐ 57 | 🐛 3 | 🌐 Python | 📅 2026-09-19 - Determines the investment plans of new facilities (generators, ESS and lines) for supplying the forecasted demand at minimum cost.
+* [openTEPES](https://github.com/IIT-EnergySystemModels/openTEPES) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2026-09-19 - Determines the investment plans of new facilities (generators, ESS and lines) for supplying the forecasted demand at minimum cost.
 
-* [ETM Pro](https://github.com/quintel/etmodel) ⭐ 55 | 🐛 139 | 🌐 CoffeeScript | 📅 2026-09-18 - Professional interface of the Energy Transition model.
+* [ETM Pro](https://github.com/quintel/etmodel) ⭐ 55 | 🐛 140 | 🌐 CoffeeScript | 📅 2026-09-20 - Professional interface of the Energy Transition model.
 
 * [Balmorel](https://github.com/balmorelcommunity/Balmorel) ⭐ 50 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-09 - A bottom-up partial equilibrium energy system model that has traditionally been applied to investigate decarbonisation pathways of sector-coupled energy systems, infrastructure, renewable fuel production and more.
 
-* [Macro](ps://github.com/macroenergy/MacroEnergy.jl) ⭐ 50 | 🐛 25 | 🌐 Julia | 📅 2026-09-16 - Allows you to optimize the design and operations of large multi-sector energy systems.
+* [Macro](ps://github.com/macroenergy/MacroEnergy.jl) ⭐ 50 | 🐛 24 | 🌐 Julia | 📅 2026-09-16 - Allows you to optimize the design and operations of large multi-sector energy systems.
 
 * [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) ⭐ 48 | 🐛 1 | 🌐 Julia | 📅 2026-06-29 - A high performance, open-source energy system optimization modeling tool developed in Julia.
 
@@ -576,7 +576,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [FlexiGIS](https://github.com/FlexiGIS/FlexiGIS) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2024-01-15 - Extracts, filters and categorizes the geo-referenced urban energy infrastructure and allocates the required decentralized storage in urban settings.
 
-* [energyRt](https://github.com/optimal2050/energyRt) ⭐ 27 | 🐛 1 | 🌐 R | 📅 2026-09-15 - Making Energy Systems Modeling as simple as a linear regression in R.
+* [energyRt](https://github.com/optimal2050/energyRt) ⭐ 27 | 🐛 0 | 🌐 R | 📅 2026-09-19 - Making Energy Systems Modeling as simple as a linear regression in R.
 
 * [open-energy-modeling-benchmarks](https://github.com/jump-dev/open-energy-modeling-benchmarks) ⭐ 27 | 🐛 6 | 🌐 MATLAB | 📅 2025-07-21 - The purpose of this repository is to collate a collection of benchmarks related to open energy modeling in JuMP.
 
@@ -590,15 +590,15 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [MUIOGO](https://github.com/EAPD-DRB/MUIOGO) ⭐ 24 | 🐛 91 | 🌐 CSS | 📅 2026-09-03 - The integration project to bring the purely Python-based OG-Core model into MUIO, the GUI for OSeMOSYS (CLEWS).
 
-* [flixOpt](https://github.com/flixOpt/flixOpt) ⭐ 23 | 🐛 61 | 🌐 Python | 📅 2026-09-13 - Python-based optimization framework designed to tackle energy and material flow problems using mixed-integer linear programming (MILP) and provides a powerful platform for both dispatch and investment optimization challenges.
+* [flixOpt](https://github.com/flixOpt/flixOpt) ⭐ 23 | 🐛 61 | 🌐 Python | 📅 2026-09-20 - Python-based optimization framework designed to tackle energy and material flow problems using mixed-integer linear programming (MILP) and provides a powerful platform for both dispatch and investment optimization challenges.
 
-* [PyPSA-SPICE](https://github.com/agoenergy/pypsa-spice) ⭐ 23 | 🐛 8 | 🌐 Python | 📅 2026-09-18 - PyPSA-based Scenario Planning and Integrated Capacity Expansion Model Builder.
+* [PyPSA-SPICE](https://github.com/agoenergy/pypsa-spice) ⭐ 23 | 🐛 8 | 🌐 Python | 📅 2026-09-20 - PyPSA-based Scenario Planning and Integrated Capacity Expansion Model Builder.
 
 * [antaresViz](https://github.com/rte-antares-rpackage/antaresViz) ⭐ 22 | 🐛 2 | 🌐 R | 📅 2025-01-03 - Visualize the results of Antares, an Open Source power system simulator meant to be used by anybody placing value in quantifying the adequacy or the economic performance of interconnected energy systems, at short or remote time horizons.
 
 * [MUIO](https://github.com/OSeMOSYS/MUIO) ⭐ 22 | 🐛 49 | 🌐 CSS | 📅 2026-05-29 - The user interface for the Open Source Energy Modelling System (OSeMOSYS).
 
-* [ETSource](https://github.com/quintel/etsource) ⭐ 21 | 🐛 107 | 🌐 Ruby | 📅 2026-09-18 - Contains the data used by Quintel energy transition modelling applications, allowing you to explore possible future energy systems for your country, region or municipality.
+* [ETSource](https://github.com/quintel/etsource) ⭐ 21 | 🐛 108 | 🌐 Ruby | 📅 2026-09-20 - Contains the data used by Quintel energy transition modelling applications, allowing you to explore possible future energy systems for your country, region or municipality.
 
 * [xl2times](https://github.com/etsap-TIMES/xl2times) ⭐ 21 | 🐛 45 | 🌐 Python | 📅 2026-08-05 - An open source tool to convert TIMES models specified in Excel to a format ready for processing by GAMS.
 
@@ -618,7 +618,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [deflex](https://github.com/reegis/deflex) ⭐ 12 | 🐛 9 | 🌐 Python | 📅 2022-06-27 - Flexible multi-regional energy system model for heat, power and mobility.
 
-* [Electricity Planning Model](https://github.com/ESMAP-World-Bank-Group/EPM) ⭐ 11 | 🐛 38 | 🌐 Python | 📅 2026-09-19 - As power system planning is one of the key activities performed by energy ministries and utilities around the world, the ambition of this tool is to actively inform the operational work of the World Bank's staff and clients and to be an evolving and versatile decision-making tool.
+* [Electricity Planning Model](https://github.com/ESMAP-World-Bank-Group/EPM) ⭐ 11 | 🐛 38 | 🌐 Python | 📅 2026-09-20 - As power system planning is one of the key activities performed by energy ministries and utilities around the world, the ambition of this tool is to actively inform the operational work of the World Bank's staff and clients and to be an evolving and versatile decision-making tool.
 
 * [Rumi](https://github.com/prayas-energy/Rumi) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-12-19 - A generic, open-source energy systems modelling platform developed by Prayas (Energy Group) to aid policy-relevant analysis.
 
@@ -693,15 +693,15 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools help access, standardize, and clean energy data, and provide API endpoints for regional and national scales.
 
 * [entsoe-py](https://github.com/EnergieID/entsoe-py) ⭐ 723 | 🐛 49 | 🌐 Python | 📅 2026-09-04 - A Python client for the ENTSO-E API (European Network of Transmission System Operators for Electricity).
-* [The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) ⭐ 605 | 🐛 506 | 🌐 Python | 📅 2026-09-19 - Makes the US' energy data easier to access and use.
+* [The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) ⭐ 606 | 🐛 552 | 🌐 Python | 📅 2026-09-20 - Makes the US' energy data easier to access and use.
 * [gridstatus](https://github.com/gridstatus/gridstatus) ⭐ 445 | 🐛 35 | 🌐 Python | 📅 2026-09-14 - Provides standardized API to access energy data from the major Independent System Operators in the United States.
 * [energy-data](https://github.com/owid/energy-data) ⭐ 429 | 🐛 0 | 📅 2026-04-27 - Data on global energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 * [Global Power Plant Database](https://github.com/wri/global-power-plant-database) ⭐ 378 | 🐛 26 | 🌐 HTML | 📅 2022-01-26 - A comprehensive, global and open source database of power plants.
 * [PowerGenome](https://github.com/PowerGenome/PowerGenome) ⭐ 235 | 🐛 118 | 🌐 Python | 📅 2026-09-18 - A tool to quickly and easily create inputs for power systems models.
-* [powerplantmatching](https://github.com/PyPSA/powerplantmatching) ⭐ 227 | 🐛 35 | 🌐 Python | 📅 2026-09-14 - A toolset for cleaning, standardizing and combining multiple power plant databases.
+* [powerplantmatching](https://github.com/PyPSA/powerplantmatching) ⭐ 227 | 🐛 33 | 🌐 Python | 📅 2026-09-20 - A toolset for cleaning, standardizing and combining multiple power plant databases.
 * [Global Renewables Watch](https://github.com/microsoft/global-renewables-watch) ⭐ 173 | 🐛 1 | 🌐 Python | 📅 2026-08-27 - A comprehensive global temporal dataset of commercial solar photovoltaic (PV) farms and onshore wind turbines, derived from high-resolution satellite imagery analyzed quarterly from the fourth quarter of 2017 to the second quarter of 2024.
 * [time series](https://github.com/Open-Power-System-Data/time_series) ⭐ 150 | 🐛 6 | 🌐 Python | 📅 2020-10-06 - Contains scripts that compile time series data of the European power system.
-* [open-MaStR](https://github.com/OpenEnergyPlatform/open-MaStR) ⭐ 141 | 🐛 41 | 🌐 Python | 📅 2026-09-17 - Download and process German energy data from BNetzA database Marktstammdatenregister.
+* [open-MaStR](https://github.com/OpenEnergyPlatform/open-MaStR) ⭐ 141 | 🐛 41 | 🌐 Python | 📅 2026-09-20 - Download and process German energy data from BNetzA database Marktstammdatenregister.
 * [Energy System Technology Data](https://github.com/PyPSA/technology-data) ⭐ 130 | 🐛 56 | 🌐 Python | 📅 2026-08-20 - Compilation of assumptions about energy system technologies such as cost, efficiency and lifetime that can be read by energy system modelling software.
 * [eebus-go](https://github.com/enbility/eebus-go) ⭐ 120 | 🐛 41 | 🌐 Go | 📅 2026-07-31 - Enable your products and services to support the energy management protocol EEBUS, the communication interface that enables energy management relevant devices in buildings to connect and interact with each other and with grid and market operators.
 * [MapYourGrid](https://github.com/open-energy-transition/MapYourGrid) ⭐ 99 | 🐛 46 | 🌐 JavaScript | 📅 2026-06-22 - A starter kit for Electrical Transmission Grid Mapping in OpenStreetMap, combining Osmose and Overpass with JOSM.
@@ -767,7 +767,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [RTS-GMLC](https://github.com/GridMod/RTS-GMLC) ⭐ 251 | 🐛 29 | 🌐 HTML | 📅 2025-10-23 - Reliability Test System of the Grid Modernization Lab Consortium.
 * [Power Grid Model](https://github.com/PowerGridModel/power-grid-model) ⭐ 247 | 🐛 118 | 🌐 C++ | 📅 2026-09-18 -  A library for steady-state distribution power system analysis distributed for Python and C.
 * [Egret](https://github.com/grid-parity-exchange/Egret) ⭐ 168 | 🐛 52 | 🌐 Python | 📅 2026-05-29 - A Python-based package for electrical grid optimization based on the Pyomo optimization modeling language.
-* [GElectrical](https://github.com/manuvarkey/GElectrical) ⭐ 145 | 🐛 4 | 🌐 Python | 📅 2025-12-17 - A free and opensource electrical system analysis software for LV/MV electrical distribution networks.
+* [GElectrical](https://github.com/manuvarkey/GElectrical) ⭐ 149 | 🐛 4 | 🌐 Python | 📅 2025-12-17 - A free and opensource electrical system analysis software for LV/MV electrical distribution networks.
 * [SimBench](https://github.com/e2nIEE/simbench) ⭐ 143 | 🐛 7 | 🌐 Python | 📅 2026-04-02 - The objective of the research project SimBench is the development of a benchmark dataset to support research in grid planning and operation.
 * [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) ⭐ 137 | 🐛 16 | 🌐 Julia | 📅 2026-09-16 - Provides all the tools you need to create a dynamic power grid model and analyze it.
 * [Open Modeling Framework](https://github.com/nreca-bts/omf) ⭐ 127 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - A set of Python libraries for simulating power systems behavior with an emphasis on cost-benefit analysis of emerging technologies: distributed generation, storage, networked controls, etc.
@@ -852,7 +852,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) ⭐ 615 | 🐛 255 | 🌐 Python | 📅 2026-09-18 - A Sector-Coupled Open Optimization Model of the European Transmission System.
 * [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) ⭐ 366 | 🐛 344 | 🌐 Python | 📅 2026-09-18 - An Open Optimisation Model of the Earth Energy System.
 * [ReEDS](https://github.com/NREL/ReEDS-2.0) ⚠️ Archived - A capacity planning and dispatch model for the North American electricity system.
-* [pypsa-usa](https://github.com/PyPSA/pypsa-usa) ⭐ 148 | 🐛 114 | 🌐 Python | 📅 2026-09-18 - An open-source power systems model of the bulk transmission systems in the United States.
+* [pypsa-usa](https://github.com/PyPSA/pypsa-usa) ⭐ 148 | 🐛 114 | 🌐 Python | 📅 2026-09-20 - An open-source power systems model of the bulk transmission systems in the United States.
 * [PyPSA-GB](https://github.com/andrewlyden/PyPSA-GB) ⭐ 90 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-07-02 - An open dataset and power dispatch model of the GB transmission network using country-specific data over historical years and for future energy scenarios.
 * [nempy](https://github.com/UNSW-CEEM/nempy) ⭐ 69 | 🐛 9 | 🌐 Python | 📅 2025-10-22 - Aims to enhance the Australian electricity industries modeling and analytical capabilities.
 * [PyPSA-DE](https://github.com/PyPSA/pypsa-de) ⭐ 51 | 🐛 34 | 🌐 Python | 📅 2026-09-16 - High resolution, sector-coupled model of the German Energy System.
@@ -879,10 +879,10 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help model power systems with distributed and renewable energy resources; explore sector coupling options; and faciliate the planning and deployment of renewable energy solutions.
 
-* [atlite](https://github.com/PyPSA/atlite) ⭐ 402 | 🐛 60 | 🌐 Python | 📅 2026-09-15 - Light-weight version of Aarhus RE Atlas for converting weather data to power systems data.
+* [atlite](https://github.com/PyPSA/atlite) ⭐ 402 | 🐛 59 | 🌐 Python | 📅 2026-09-20 - Light-weight version of Aarhus RE Atlas for converting weather data to power systems data.
 * [switch-model](https://github.com/switch-model/switch) ⭐ 156 | 🐛 28 | 🌐 Python | 📅 2025-07-07 - Optimal planning model for power systems with large shares of renewable energy.
-* [reV](https://github.com/NREL/reV) ⭐ 143 | 🐛 22 | 🌐 Python | 📅 2026-08-11 - Enables the efficient and scalable computation of renewable energy generation, levelized cost of energy, application of geospatial exclusion layers, and generation of renewable energy supply curves.
-* [sup3r](https://github.com/NREL/sup3r) ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2026-09-10 - The Super Resolution for Renewable Resource Data software uses generative adversarial networks to create synthetic high-resolution wind and solar spatiotemporal data from coarse low-resolution inputs.
+* [reV](https://github.com/NREL/reV) ⭐ 143 | 🐛 24 | 🌐 Python | 📅 2026-08-11 - Enables the efficient and scalable computation of renewable energy generation, levelized cost of energy, application of geospatial exclusion layers, and generation of renewable energy supply curves.
+* [sup3r](https://github.com/NREL/sup3r) ⭐ 140 | 🐛 5 | 🌐 Python | 📅 2026-09-10 - The Super Resolution for Renewable Resource Data software uses generative adversarial networks to create synthetic high-resolution wind and solar spatiotemporal data from coarse low-resolution inputs.
 * [OPEN](https://github.com/EPGOxford/OPEN) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2021-04-18 - The framework combines distributed energy resource modelling (e.g. for PV generation sources, battery energy storage systems, electric vehicles), energy market modelling, power flow simulation and multi-period optimisation for scheduling flexible energy resources.
 * [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) ⭐ 70 | 🐛 17 | 🌐 Julia | 📅 2026-08-09 - Generates input data for energy models on renewable energy in arbitrary world regions using public datasets.
 * [renewable power plant](https://github.com/Open-Power-System-Data/renewable_power_plants) ⭐ 70 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2020-08-26 - Contains scripts to create lists of renewable power plants in Germany, Denmark, France and Poland, and daily time series of cumulated installed capacity per energy source type for Germany.
@@ -895,7 +895,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [reVX](https://github.com/NREL/reVX) ⭐ 27 | 🐛 15 | 🌐 Python | 📅 2026-05-10 - Renewable Energy Potential(V) eXchange Toot.
 * [SESMG](https://github.com/SESMG/SESMG) ⭐ 25 | 🐛 68 | 🌐 Python | 📅 2026-09-11 - An energy system model generator with the focus on the optimization of urban energy systems.
 * [REHO](https://github.com/IPESE/REHO) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-09-18 - A decision support tool for sustainable urban energy system planning.
-* [REVOL-E-TION](https://github.com/TUMFTM/REVOL-E-TION) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-04-22 - An energy system model toolbox designed to optimize integration of electric vehicle fleets into local energy systems such as mini- and microgrids, company sites, apartment blocks or single homes and estimate the resulting technoeconomic potentials in terms of costs and revenues within the energy.
+* [REVOL-E-TION](https://github.com/TUMFTM/REVOL-E-TION) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-19 - An energy system model toolbox designed to optimize integration of electric vehicle fleets into local energy systems such as mini- and microgrids, company sites, apartment blocks or single homes and estimate the resulting technoeconomic potentials in terms of costs and revenues within the energy.
 * [MTRESS](https://github.com/mtress/mtress) ⭐ 16 | 🐛 6 | 🌐 Python | 📅 2026-07-16 - Facilitates the creation of energy system optimisation models for individual residential and commercial buildings, as well as for neighbourhoods and entire industrial properties.
 * [OnStove](https://github.com/Open-Source-Spatial-Clean-Cooking-Tool/OnStove) ⭐ 15 | 🐛 42 | 🌐 Python | 📅 2026-09-04 - Calculates the net-benefits of different stove options in a given geography and compares all stoves to one another with regards to their net-benefit.
 * [PowerGAMA](https://github.com/powergama/powergama) ⭐ 11 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-10 - A lightweight simulation tool for high level analyses of renewable energy integration in large power systems.
@@ -914,21 +914,21 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools enable building energy planning, management, and control; improve building energy and heating systems performance; and help estimate load curves and usage for optimized home and building stock usage.
 
-* [EnergyPlus](https://github.com/NREL/EnergyPlus) ⭐ 1,570 | 🐛 856 | 🌐 C++ | 📅 2026-09-18 - A whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water usage in buildings.
+* [EnergyPlus](https://github.com/NREL/EnergyPlus) ⭐ 1,570 | 🐛 857 | 🌐 C++ | 📅 2026-09-18 - A whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water usage in buildings.
 * [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) ⭐ 1,484 | 🐛 57 | 🌐 Python | 📅 2026-09-12 - This custom component for Home Assistant will add crucial features to your climate-controlling Thermostatic Radiator Valves to save you the work of creating automations to make it smart.
 * [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) ⭐ 1,179 | 🐛 11 | 🌐 Python | 📅 2026-09-17 - A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management.
-* [NILM](https://github.com/nilmtk/nilmtk) ⭐ 953 | 🐛 129 | 🌐 Python | 📅 2026-07-20 - Non-Intrusive Load Monitoring is the process of estimating the energy consumed by individual appliances given just a whole-house power meter reading.
+* [NILM](https://github.com/nilmtk/nilmtk) ⭐ 952 | 🐛 129 | 🌐 Python | 📅 2026-07-20 - Non-Intrusive Load Monitoring is the process of estimating the energy consumed by individual appliances given just a whole-house power meter reading.
 * [MyEMS](https://github.com/MyEMS/myems) ⭐ 728 | 🐛 2 | 🌐 Python | 📅 2026-09-15 - Suitable for collecting, analyzing, and reporting energy and carbon emissions such as electricity, water, gas, cooling, and heating in buildings.
 * [DSMR-reader](https://github.com/dsmrreader/dsmr-reader) ⭐ 495 | 🐛 6 | 🌐 Python | 📅 2026-08-26 - Used for reading the smart meter DSMR (Dutch Smart Meter Requirements) P1 port yourself at your home.
 * [tespy](https://github.com/oemof/tespy) ⭐ 416 | 🐛 65 | 🌐 Python | 📅 2026-09-18 - Provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.
 * [Brick](https://github.com/BrickSchema/Brick) ⭐ 402 | 🐛 98 | 🌐 Python | 📅 2026-09-18 - An open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
-* [Modelica Buildings library](https://github.com/lbl-srg/modelica-buildings) ⭐ 347 | 🐛 206 | 🌐 Modelica | 📅 2026-09-19 - A free and open source library with dynamic simulation models for building energy and control systems.
+* [Modelica Buildings library](https://github.com/lbl-srg/modelica-buildings) ⭐ 348 | 🐛 206 | 🌐 Modelica | 📅 2026-09-20 - A free and open source library with dynamic simulation models for building energy and control systems.
 * [The Building Data Genome 2 Data-Set](https://github.com/buds-lab/building-data-genome-project-2) ⭐ 308 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-10-14 - Whole building non-residential hourly energy meter data from the Great Energy Predictor III competition.
 * [ModBus Measurement Daemon](https://github.com/volkszaehler/mbmd) ⭐ 280 | 🐛 53 | 🌐 Go | 📅 2026-08-24 - A daemon for collecting measurement data from smart meters and grid inverters over modbus.
 * [City Energy Analyst](https://github.com/architecture-building-systems/CityEnergyAnalyst) ⭐ 274 | 🐛 124 | 🌐 Python | 📅 2026-09-19 - Helps you to analyze the effects of building retrofits, land-use planning, district heating and cooling and renewable energy on the future costs, emissions and energy consumption of neighborhoods and districts.
 * [volkszaehler.org](https://github.com/volkszaehler/volkszaehler.org) ⭐ 235 | 🐛 33 | 🌐 PHP | 📅 2026-09-07 - A free smart meter implementation with focus on data privacy.
 * [Sinergym](https://github.com/ugr-sail/sinergym) ⭐ 235 | 🐛 6 | 🌐 Python | 📅 2026-09-18 - Gym environment for building simulation and control using reinforcement learning.
-* [pythermalcomfort](https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort) ⭐ 224 | 🐛 59 | 🌐 Python | 📅 2026-09-19 - Package to calculate several thermal comfort indices (e.g. PMV, PPD, SET, adaptive) and convert physical variables.
+* [pythermalcomfort](https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort) ⭐ 224 | 🐛 61 | 🌐 Python | 📅 2026-09-19 - Package to calculate several thermal comfort indices (e.g. PMV, PPD, SET, adaptive) and convert physical variables.
 * [AixLib](https://github.com/RWTH-EBC/AixLib) ⭐ 214 | 🐛 70 | 🌐 Modelica | 📅 2026-09-15 - A Modelica model library for building performance simulations.
 * [BOxCrete](https://github.com/facebookresearch/SustainableConcrete) ⭐ 208 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-16 - An open-source Bayesian optimization framework for probabilistic strength curve prediction and sustainable mix design of concrete.
 * [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) ⭐ 199 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-03-30 - A collection of non-residential buildings for performance analysis and algorithm benchmarking.
@@ -955,11 +955,11 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [BOPTEST-Gym](https://github.com/ibpsa/project1-boptest-gym) ⭐ 66 | 🐛 25 | 🌐 Python | 📅 2025-09-06 - The OpenAI-Gym interface of the BOPTEST framework facilitates the assessment and benchmarking of RL algorithms for building energy management.
 * [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) ⭐ 63 | 🐛 4 | 🌐 C# | 📅 2026-09-17 - A program for generating load curves for residential consumers. Agent-based and extremely detailed.
 * [pyBuildingEnergy](https://github.com/EURAC-EEBgroup/pyBuildingEnergy) ⭐ 52 | 🐛 7 | 🌐 HTML | 📅 2026-09-17 - Provides an assessment of building performance through a methodology that must take into account various aspects such as the thermal characteristics of the building, the use of renewable energy sources, building automation and control systems.
-* [ComStock](https://github.com/NREL/ComStock) ⭐ 52 | 🐛 74 | 🌐 Ruby | 📅 2026-09-19 - National scale modeling of the U.S. commercial building stock supported by U.S. DOE, LADWP, and others and maintained by NREL.
+* [ComStock](https://github.com/NREL/ComStock) ⭐ 52 | 🐛 74 | 🌐 Ruby | 📅 2026-09-20 - National scale modeling of the U.S. commercial building stock supported by U.S. DOE, LADWP, and others and maintained by NREL.
 * [BETTER](https://github.com/LBNL-JCI-ICF/better) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2025-12-19 - Building Efficiency Targeting Tool for Energy Retrofits.
 * [BuildSysPro](https://github.com/EDF-Lab/BuildSysPro) ⭐ 47 | 🐛 3 | 🌐 Modelica | 📅 2025-01-16 - EDF's Modelica library for buildings, districts and energy systems modeling.
 * [DHNx](https://github.com/oemof/DHNx) ⭐ 46 | 🐛 35 | 🌐 Python | 📅 2026-09-19 - This package provides an open toolbox for district heating and cooling network optimization and simulation models.
-* [HiSim](https://github.com/FZJ-IEK3-VSA/HiSim) ⭐ 46 | 🐛 44 | 🌐 Python | 📅 2026-09-19 - Simulation and analysis of household scenarios using modern components as alternative to fossil fuel based ones.
+* [HiSim](https://github.com/FZJ-IEK3-VSA/HiSim) ⭐ 46 | 🐛 46 | 🌐 Python | 📅 2026-09-20 - Simulation and analysis of household scenarios using modern components as alternative to fossil fuel based ones.
 * [BEMServer](https://github.com/HIT2GAP-EU-PROJECT/bemserver) ⚠️ Archived - An open source Python server to deploy energy management solutions for buildings.
 * [EUReCA](https://github.com/BETALAB-team/EUReCA) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2026-05-29 - Provides an efficient and reliable Urban Building Energy Modeling platform, entirely developed in Python, aiming at simulating and predicting cities and urban areas energy consumption.
 * [CarboLifeCalc](https://github.com/DavidVeld/CarboLifeCalc) ⭐ 38 | 🐛 0 | 🌐 C# | 📅 2026-09-15 - An embodied carbon calculator for the built environment.
@@ -983,7 +983,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [URBANopt CLI](https://github.com/urbanopt/urbanopt-cli) ⭐ 11 | 🐛 23 | 🌐 Ruby | 📅 2026-07-17 - An EnergyPlus- and OpenStudio-based simulation platform for district, campus, and neighborhood-scale energy modeling, including thermal and electrical analysis.
 * [HeatPro](https://github.com/CEA-Liten/HeatPro) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-15 - Finds its roots in the need of using representative heating load curve for the simulation and optimization of various District Heating Network (DHN) production plant.
 * [ConStrain](https://github.com/pnnl/ConStrain) ⭐ 8 | 🐛 22 | 🌐 Python | 📅 2026-07-01 - A data-driven knowledge-integrated framework that automatically verifies that building system controls function as intended.
-* [GridWorks SpaceHeat SCADA](https://github.com/thegridelectric/gridworks-scada) ⭐ 7 | 🐛 47 | 🌐 Python | 📅 2026-09-18 - Intended for running a heat pump thermal storage space heating system in a house, and doing this transactively.
+* [GridWorks SpaceHeat SCADA](https://github.com/thegridelectric/gridworks-scada) ⭐ 7 | 🐛 47 | 🌐 Python | 📅 2026-09-20 - Intended for running a heat pump thermal storage space heating system in a house, and doing this transactively.
 * [Hotmaps](https://github.com/HotMaps/Hotmaps-toolbox-service) ⭐ 6 | 🐛 22 | 🌐 Python | 📅 2022-07-06 - The open source mapping and planning tool for heating and cooling.
 * [Home Energy Assessment Database](https://github.com/climate-cooperative/home-energy-assessment-database) ⭐ 3 | 🐛 11 | 🌐 TypeScript | 📅 2024-09-12 - Documentation, conversions, and data supporting Climate Cooperative's home energy audit and calculation tools.
 * [HPXML to Home Energy Score Translator](https://github.com/NREL/hescore-hpxml) - This translator script takes an HPXML file or directory of files as an input and generates HEScore inputs from it.
@@ -1000,9 +1000,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools help simulate and optimize fleet operations; facilitate access and use of ride- and vehicle-sharing; predict human mobility; and provide datasets, firmware, and models of electrical charging.
 
 * [A/B Street](https://github.com/a-b-street/abstreet) ⭐ 8,179 | 🐛 234 | 🌐 Rust | 📅 2025-09-10 - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
-* [EVCC](https://github.com/evcc-io/evcc) ⭐ 7,272 | 🐛 150 | 🌐 Go | 📅 2026-09-19 - An extensible EV Charge Controller with PV integration implemented in Go.
-* [Transportr](https://github.com/grote/Transportr) ⭐ 1,175 | 🐛 114 | 🌐 Kotlin | 📅 2026-05-28 - The public transport companion that respects your privacy and your freedom.
-* [SteVe](https://github.com/steve-community/steve) ⭐ 1,126 | 🐛 89 | 🌐 Java | 📅 2026-09-18 - Provides basic functions for the administration of charge points, user data and RFID cards for user authentication and was tested successfully in operation.
+* [EVCC](https://github.com/evcc-io/evcc) ⭐ 7,275 | 🐛 154 | 🌐 Go | 📅 2026-09-20 - An extensible EV Charge Controller with PV integration implemented in Go.
+* [Transportr](https://github.com/grote/Transportr) ⭐ 1,174 | 🐛 114 | 🌐 Kotlin | 📅 2026-05-28 - The public transport companion that respects your privacy and your freedom.
+* [SteVe](https://github.com/steve-community/steve) ⭐ 1,126 | 🐛 92 | 🌐 Java | 📅 2026-09-19 - Provides basic functions for the administration of charge points, user data and RFID cards for user authentication and was tested successfully in operation.
 * [ocpp](https://github.com/mobilityhouse/ocpp) ⭐ 1,043 | 🐛 21 | 🌐 Python | 📅 2026-07-19 - Python implementation of the Open Charge Point Protocol.
 * [CityFlow](https://github.com/cityflow-project/CityFlow/) ⭐ 1,017 | 🐛 47 | 🌐 C++ | 📅 2025-08-19 - A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario.
 * [WoBike](https://github.com/ubahnverleih/WoBike) ⭐ 1,014 | 🐛 102 | 📅 2026-03-01 - Public transport and multimodal routing apps could benefit from showing nearby bikes from bikesharing services. So here's a list showing the APIs of a few of these platforms.
@@ -1013,13 +1013,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CoopCycle](https://github.com/coopcycle/coopcycle-web) ⭐ 601 | 🐛 464 | 🌐 PHP | 📅 2026-09-19 - A self-hosted platform to order meals in your neighborhood and get them delivered by bike couriers.
 * [OneBusAway](https://github.com/OneBusAway/onebusaway-android) ⭐ 569 | 🐛 113 | 🌐 Kotlin | 📅 2026-09-14 - The Open Source platform for Real Time Transit Info.
 * [node-gtfs](https://github.com/BlinkTagInc/node-gtfs) ⭐ 505 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - Import GTFS transit data into SQLite and query routes, stops, times, fares and more.
-* [Public Transport Enabler](https://github.com/schildbach/public-transport-enabler) ⭐ 452 | 🐛 222 | 🌐 Java | 📅 2026-09-10 - Unleash public transport data in your Java project.
+* [Public Transport Enabler](https://github.com/schildbach/public-transport-enabler) ⭐ 453 | 🐛 222 | 🌐 Java | 📅 2026-09-10 - Unleash public transport data in your Java project.
 * [stplanr](https://github.com/ropensci/stplanr) ⭐ 443 | 🐛 26 | 🌐 R | 📅 2025-04-28 - A package for sustainable transport planning with R.
 * [Gym Electric Motor](https://github.com/upb-lea/gym-electric-motor) ⭐ 427 | 🐛 34 | 🌐 Python | 📅 2025-12-19 - An OpenAI Gym Environment for Electric Motors.
-* [Bike Index](https://github.com/bikeindex/bike_index) ⭐ 308 | 🐛 31 | 🌐 Ruby | 📅 2026-09-19 - Bike registration that works: online, powerful, free.
+* [Bike Index](https://github.com/bikeindex/bike_index) ⭐ 308 | 🐛 32 | 🌐 Ruby | 📅 2026-09-20 - Bike registration that works: online, powerful, free.
 * [CyclOSM](https://github.com/cyclosm/cyclosm-cartocss-style) ⭐ 278 | 🐛 88 | 🌐 CartoCSS | 📅 2026-08-20 - A CartoCSS map style designed with cycling in mind.
 * [EVMap](https://github.com/ev-map/EVMap) ⭐ 278 | 🐛 52 | 🌐 Kotlin | 📅 2026-09-05 - Android app to access the goingelectric.de electric vehicle charging station directory.
-* [EVerest](https://github.com/EVerest/everest) ⭐ 265 | 🐛 315 | 🌐 C++ | 📅 2026-09-19 - An open source software stack for EV charging infrastructure from firmware to cloud: OCPP, ISO 15118, SunSpec, Modbus, energy management and load balancing and an entire flexible middle-ware framework based on MQTT. Part of the Linux Foundation Energy ecosystem.
+* [EVerest](https://github.com/EVerest/everest) ⭐ 265 | 🐛 315 | 🌐 C++ | 📅 2026-09-20 - An open source software stack for EV charging infrastructure from firmware to cloud: OCPP, ISO 15118, SunSpec, Modbus, energy management and load balancing and an entire flexible middle-ware framework based on MQTT. Part of the Linux Foundation Energy ecosystem.
 * [RISE-V2G](https://github.com/SwitchEV/RISE-V2G) ⭐ 260 | 🐛 22 | 🌐 Java | 📅 2025-12-19 - The only fully-featured reference implementation of the Vehicle-2-Grid communication interface ISO 15118.
 * [icare](https://github.com/diowa/icare) ⭐ 250 | 🐛 36 | 🌐 Ruby | 📅 2025-11-25 - An open source carpooling platform used as a basis for our commercial product Company Carpool.
 * [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) ⭐ 234 | 🐛 84 | 🌐 Java | 📅 2026-09-18 - A free and open source model to compute noise maps.
@@ -1028,13 +1028,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [goat](https://github.com/plan4better/goat) ⭐ 166 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18 - A tool capable of modeling walking and cycling accessibility.
 * [DeepMove](https://github.com/vonfeng/DeepMove) ⭐ 156 | 🐛 6 | 🌐 Python | 📅 2025-01-23 - Predicting Human Mobility with Attentional Recurrent Networks.
 * [OpenEVSE](https://github.com/OpenEVSE/open_evse) ⭐ 152 | 🐛 6 | 🌐 C | 📅 2026-09-07 - Firmware for OpenEVSE: Open Source Hardware J1772 Electric Vehicle Supply Equipment.
-* [BEAM](https://github.com/LBNL-UCB-STI/beam) ⭐ 148 | 🐛 149 | 🌐 Jupyter Notebook | 📅 2026-09-15 - The Framework for Modeling Behavior, Energy, Autonomy, and Mobility in Transportation Systems.
-* [Open Charge Map](https://github.com/openchargemap/ocm-system) ⭐ 147 | 🐛 45 | 🌐 C# | 📅 2026-09-18 - The global public registry of electric vehicle charging locations.
+* [Open Charge Map](https://github.com/openchargemap/ocm-system) ⭐ 148 | 🐛 45 | 🌐 C# | 📅 2026-09-18 - The global public registry of electric vehicle charging locations.
+* [BEAM](https://github.com/LBNL-UCB-STI/beam) ⭐ 148 | 🐛 149 | 🌐 Jupyter Notebook | 📅 2026-09-19 - The Framework for Modeling Behavior, Energy, Autonomy, and Mobility in Transportation Systems.
 * [Vehicle Energy Dataset](https://github.com/gsoh/VED) ⭐ 140 | 🐛 2 | 📅 2022-01-26 - A large-scale dataset for vehicle energy consumption research.
 * [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture) ⭐ 135 | 🐛 74 | 🌐 Java | 📅 2026-09-04 - Android App dedicated to the measurement of environmental noise.
 * [osm2gtfs](https://github.com/grote/osm2gtfs) ⭐ 104 | 🐛 32 | 🌐 Python | 📅 2024-04-04 - Turn OpenStreetMap data and schedule information into GTFS.
 * [gtfs-router](https://github.com/UrbanAnalyst/gtfsrouter) ⭐ 104 | 🐛 15 | 🌐 R | 📅 2026-09-01 - An R package for routing with GTFS (General Transit Feed Specification) data.
-* [Carpoolear](https://github.com/STS-Rosario/carpoolear) ⭐ 101 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-18 - The first Argentine Facebook app that allows the users of this social network to share car trips with other users.
+* [Carpoolear](https://github.com/STS-Rosario/carpoolear) ⭐ 101 | 🐛 42 | 🌐 JavaScript | 📅 2026-09-20 - The first Argentine Facebook app that allows the users of this social network to share car trips with other users.
 * [enviroCar](https://github.com/enviroCar/enviroCar-app) ⭐ 88 | 🐛 81 | 🌐 Java | 📅 2026-07-27 - An Android App for collecting car sensor data for the enviroCar platform.
 * [tesla\_powerwall](https://github.com/jrester/tesla_powerwall) ⭐ 83 | 🐛 3 | 🌐 Python | 📅 2026-07-21 - Python Tesla Powerwall API for consuming a local endpoint.
 * [OpenEVSE WiFi gateway](https://github.com/OpenEVSE/ESP8266_WiFi_v2.x) ⭐ 80 | 🐛 22 | 🌐 C | 📅 2025-01-17 - Uses an ESP8266 (ESP-12) which communicates with the OpenEVSE controller via serial utilizing the existing RAPI API serial interface.
@@ -1063,12 +1063,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 <!--lint ignore awesome-spell-check-->
 
 * [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) ⭐ 2,742 | 🐛 143 | 🌐 Java | 📅 2026-09-18 - An open source multi-modal trip planner, focusing on travel by scheduled public transportation in combination with bicycling, walking, and mobility services including bike share and ride hailing.
-* [nammayatri](https://github.com/nammayatri/nammayatri) ⭐ 2,569 | 🐛 1,418 | 🌐 Haskell | 📅 2026-09-19 - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
-* [ha-evcc](https://github.com/marq24/ha-evcc) ⭐ 467 | 🐛 0 | 🌐 Python | 📅 2026-09-18 - Home Assistant integration for evcc optimized charging of electric vehicles, connecting your EV charger with your PV system.
+* [nammayatri](https://github.com/nammayatri/nammayatri) ⭐ 2,569 | 🐛 1,415 | 🌐 Haskell | 📅 2026-09-20 - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+* [ha-evcc](https://github.com/marq24/ha-evcc) ⭐ 468 | 🐛 1 | 🌐 Python | 📅 2026-09-18 - Home Assistant integration for evcc optimized charging of electric vehicles, connecting your EV charger with your PV system.
 * [3Dstreet](https://github.com/3DStreet/3dstreet) ⭐ 334 | 🐛 275 | 🌐 JavaScript | 📅 2026-09-19 - Creates 3D visualizations of your 2D Streetmix.net streets.
-* [EV2Gym](https://github.com/StavrosOrf/EV2Gym) ⭐ 235 | 🐛 7 | 🌐 Python | 📅 2026-09-15 - A V2G Simulation Environment for large scale EV charging optimization.
-* [motulator](https://github.com/aalto-electric-drives/motulator) ⭐ 228 | 🐛 5 | 🌐 Python | 📅 2026-09-13 - Simulation models for an induction motor, a synchronous reluctance motor, and a permanent-magnet synchronous motor.
-* [Transitland](https://github.com/transitland/transitland-atlas) ⭐ 198 | 🐛 45 | 🌐 Python | 📅 2026-09-19 -  An open data platform that collects GTFS, GTFS Realtime, and other open data feeds from transit providers around the world.
+* [EV2Gym](https://github.com/StavrosOrf/EV2Gym) ⭐ 237 | 🐛 5 | 🌐 Python | 📅 2026-09-15 - A V2G Simulation Environment for large scale EV charging optimization.
+* [motulator](https://github.com/aalto-electric-drives/motulator) ⭐ 228 | 🐛 4 | 🌐 Python | 📅 2026-09-20 - Simulation models for an induction motor, a synchronous reluctance motor, and a permanent-magnet synchronous motor.
+* [Transitland](https://github.com/transitland/transitland-atlas) ⭐ 198 | 🐛 44 | 🌐 Python | 📅 2026-09-20 -  An open data platform that collects GTFS, GTFS Realtime, and other open data feeds from transit providers around the world.
 * [lowtrip](https://github.com/XavB64/lowtrip) ⭐ 72 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-15 - A web app to compute travel CO2eq for different means of transport worldwide.
 * [accessibility](https://github.com/ipeaGIT/accessibility) ⭐ 67 | 🐛 6 | 🌐 R | 📅 2026-08-23 - Given a pre-computed travel cost matrix and a land use dataset (containing the location of jobs, healthcare and population, for example), the package allows one to calculate accessibility levels and accessibility poverty and inequality.
 * [Mobility](https://github.com/mobility-team/mobility) ⭐ 32 | 🐛 89 | 🌐 Python | 📅 2026-09-17 - An open-source solution to compute the carbon emissions due to the mobility of a local population.
@@ -1096,7 +1096,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help simulate and optimize the energy efficiency of current and alternative industrial processes, and facilitate fuel switching scenarios.
 
-* [OpenModelica](https://github.com/OpenModelica/OpenModelica) ⭐ 1,407 | 🐛 2,253 | 🌐 Modelica | 📅 2026-09-19 - An open source Modelica-based modeling and simulation environment intended for industrial and academic usage.
+* [OpenModelica](https://github.com/OpenModelica/OpenModelica) ⭐ 1,408 | 🐛 2,258 | 🌐 Modelica | 📅 2026-09-20 - An open source Modelica-based modeling and simulation environment intended for industrial and academic usage.
 * [CalTRACK](https://github.com/opendsm/caltrack) ⭐ 59 | 🐛 2 | 🌐 Dockerfile | 📅 2023-05-18 - Methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 * [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) ⚠️ Archived - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
 * [AMO-Tools-Desktop](https://github.com/ORNL-AMO/AMO-Tools-Desktop) ⭐ 52 | 🐛 391 | 🌐 TypeScript | 📅 2026-09-18 -  An energy efficiency calculation application for use with industrial equipment such as pumps, furnaces, fans, and motors, as well as for industrial systems such as steam.
@@ -1109,9 +1109,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools help estimate and monitor the energy and water consumption and carbon emissions of software and digital infrastructure; optimize where and when to run computing jobs to minimize energy usage and carbon intensity; and facilitate more sustainable developer and operations workflows on local and cloud platforms.
 
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,973 | 🐛 101 | 🌐 Rust | 📅 2026-07-19 - An open source software agent to track energy consumption of ICT services from the servers.
-* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,918 | 🐛 185 | 🌐 Python | 📅 2026-09-19 - Track emissions from Compute and recommend ways to reduce their impact on the environment.
+* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,919 | 🐛 185 | 🌐 Python | 📅 2026-09-19 - Track emissions from Compute and recommend ways to reduce their impact on the environment.
 * [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,567 | 🐛 41 | 🌐 Go | 📅 2026-09-16 - Uses eBPF to probe energy related system stats and exports as Prometheus metrics.
-* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,376 | 🐛 55 | 🌐 Go | 📅 2026-09-02 - A Kubernetes operator to reduce CO2 footprint of your clusters.
+* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,376 | 🐛 56 | 🌐 Go | 📅 2026-09-02 - A Kubernetes operator to reduce CO2 footprint of your clusters.
 * [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,050 | 🐛 206 | 🌐 TypeScript | 📅 2026-04-23 - A tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 * [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) ⭐ 713 | 🐛 12 | 🌐 C | 📅 2023-10-12 - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game.
 * [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk/) ⭐ 594 | 🐛 2 | 🌐 HTML | 📅 2026-08-25 - Helps you build the carbon aware software solutions with the intelligence to use the greenest energy sources.
@@ -1119,14 +1119,14 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [carbontracker](https://github.com/saintslab/carbontracker) ⭐ 483 | 🐛 12 | 🌐 Python | 📅 2026-08-27 - Track and predict the energy consumption and carbon footprint of training deep learning models.
 * [Zeus](https://github.com/ml-energy/zeus) ⭐ 374 | 🐛 10 | 🌐 Python | 📅 2026-09-08 - A Framework for Deep Learning Energy Measurement and Optimization.
 * [CPU Energy Meter](https://github.com/sosy-lab/cpu-energy-meter) ⭐ 346 | 🐛 2 | 🌐 C | 📅 2026-05-26 - A Linux tool that allows to monitor power consumption of Intel CPUs at fine time intervals.
-* [EcoLogits](https://github.com/genai-impact/ecologits) ⭐ 332 | 🐛 19 | 🌐 Python | 📅 2026-08-09 - Tracks the energy consumption and environmental impacts of using generative AI models through APIs.
+* [EcoLogits](https://github.com/genai-impact/ecologits) ⭐ 332 | 🐛 17 | 🌐 Python | 📅 2026-09-20 - Tracks the energy consumption and environmental impacts of using generative AI models through APIs.
 * [Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/sci) ⭐ 297 | 🐛 14 | 🌐 HTML | 📅 2026-01-05 - A specification that describes how to calculate a carbon intensity for software applications.
 * [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) ⚠️ Archived - Meant to be a simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
 * [GreenFrame](https://github.com/marmelab/greenframe-cli) ⭐ 284 | 🐛 15 | 🌐 TypeScript | 📅 2024-08-22 - A tool to measure the carbon footprint of a user scenario on a given website application. GreenFrame is able to measure CPU, memory and network usage of Docker or Kubernetes containers. By measuring resource consumption of dockerized E2E tests, GreenFrame allows to compare the consumption of an app between its different versions.
 * [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) ⭐ 280 | 🐛 4 | 🌐 Python | 📅 2025-03-10 - A Python library which accumulates statistics about power consumption and CO2 emission during running code.
 * [Power Monitor](https://github.com/SAP/power-monitoring-tool-for-macos) ⭐ 277 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-15 - An application that measures and reports the power consumption of a Mac, giving you real-time insight into your device's energy consumption and carbon footprint based on your location.
 * [impact](https://github.com/mlco2/impact/) ⭐ 270 | 🐛 12 | 🌐 HTML | 📅 2026-04-13 - Compute your ML model's emissions with our calculator and add the results to your paper with our generated LaTeX template.
-* [Green Metrics Tool](https://github.com/green-coding-solutions/green-metrics-tool) ⭐ 254 | 🐛 59 | 🌐 Python | 📅 2026-09-19 - An open source suite to measure, display and compare software energy and CO2 consumption for containerized software. External power meters as well as RAPL and also ML-estimation models are supported.
+* [Green Metrics Tool](https://github.com/green-coding-solutions/green-metrics-tool) ⭐ 253 | 🐛 59 | 🌐 Python | 📅 2026-09-19 - An open source suite to measure, display and compare software energy and CO2 consumption for containerized software. External power meters as well as RAPL and also ML-estimation models are supported.
 * [PowerAPI](https://github.com/powerapi-ng/powerapi) ⭐ 252 | 🐛 6 | 🌐 Python | 📅 2026-09-15 - A middleware toolkit for building software-defined power meters.
 * [The Low Impact Website](https://github.com/Organic-Basics/ob-low-impact-website) ⭐ 227 | 🐛 17 | 🌐 Vue | 📅 2023-01-26 - Reduces data transfer by up to 70% in comparison to our regular website.
 * [ecoCode](https://github.com/green-code-initiative/creedengo-rules-specifications) ⭐ 216 | 🐛 64 | 🌐 Java | 📅 2026-09-13 - Reduce the environmental footprint of your programs with this cutting-edge SonarQube plugin.
@@ -1172,7 +1172,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [Carbon Tools](https://github.com/dvelasquez/carbon-tools) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-19 - A set of CO2 footprint tools to measure the impact of the code we ship.
 * [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2025-11-12 - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
 * [Quell](https://github.com/rollthecloudinc/quell) ⭐ 13 | 🐛 389 | 🌐 TypeScript | 📅 2026-02-18 - The Content Management Software that combats climate change stopping web carbon production in its tracks.
-* [EECO](https://github.com/we3lab/eeco) ⭐ 11 | 🐛 12 | 🌐 Python | 📅 2026-09-17 - A package for calculating electricity-related emissions and costs for optimization problem formulation and other computational analyses.
+* [EECO](https://github.com/we3lab/eeco) ⭐ 11 | 🐛 12 | 🌐 Python | 📅 2026-09-20 - A package for calculating electricity-related emissions and costs for optimization problem formulation and other computational analyses.
 * [Ecoindex browser plugin](https://github.com/cnumr/EcoIndex_browser-plugin) ⭐ 8 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-18 - This tool provides an easy way to analyze websites with Ecoindex from your local browser.
 * [wlc-scenario-explorer](https://github.com/mroeck/wlc-scenario-explorer) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-04 - A open source tool that enables selection, comparison, and analysis of various combinations of carbon reduction and/or removal strategies that could be applied across building stocks to affect whole life cycle impacts from buildings and construction.
 * [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
@@ -1185,20 +1185,20 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools help simulate, predict, and optimize for agricultural demand and yield; enable access to food and agriculture databases; encourage sustainable eating; and facilitate efficient and resilient farm management and planning.
 
 * [OpenFarm](https://github.com/openfarmcc/OpenFarm) ⚠️ Archived - A free and open database and web application for farming and gardening knowledge.
-* [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) ⭐ 1,284 | 🐛 623 | 🌐 Ruby | 📅 2026-09-18 - An online marketplace for local food. It enables a network of independent online food stores that connects farmers and food hubs with individuals and local businesses.
-* [openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,156 | 🐛 1,824 | 🌐 HTML | 📅 2026-09-19 - Open Food Facts is a collaborative, free and open database of food products from around the world.
+* [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) ⭐ 1,284 | 🐛 622 | 🌐 Ruby | 📅 2026-09-18 - An online marketplace for local food. It enables a network of independent online food stores that connects farmers and food hubs with individuals and local businesses.
+* [openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,157 | 🐛 1,829 | 🌐 HTML | 📅 2026-09-20 - Open Food Facts is a collaborative, free and open database of food products from around the world.
 * [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) ⭐ 972 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-17 - Humanity's open-source CNC farming machine.
 * [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 899 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-09-09 - Can develop rich geospatial insights for agriculture and sustainability.
 * [Trefle](https://github.com/treflehq/trefle-api) ⭐ 586 | 🐛 57 | 🌐 Ruby | 📅 2026-09-16 - A botanical JSON REST API for plants species, allowing you to search and query over all the registered species, and build the next gardening apps and farming robots.
 * [Is-Vegan](https://github.com/hmontazeri/is-vegan) ⭐ 490 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - Helps you to find out which food ingredients are vegan / non-vegan.
-* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 475 | 🐛 125 | 🌐 Ruby | 📅 2026-09-19 - Open source and open data platform that can predict when your plantings will be ready to harvest.
+* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 475 | 🐛 121 | 🌐 Ruby | 📅 2026-09-20 - Open source and open data platform that can predict when your plantings will be ready to harvest.
 * [Karrot](https://github.com/karrot-dev/karrot-frontend) ⚠️ Archived - Web application for organization of foodsaving groups worldwide.
-* [HappyPlants](https://github.com/morkro/happy-plants) ⭐ 296 | 🐛 56 | 🌐 Vue | 📅 2026-02-15 - Creating your own plant database in a visual way.
+* [HappyPlants](https://github.com/morkro/happy-plants) ⭐ 297 | 🐛 56 | 🌐 Vue | 📅 2026-02-15 - Creating your own plant database in a visual way.
 * [PCSE](https://github.com/ajwdewit/pcse) ⭐ 286 | 🐛 3 | 🌐 Python | 📅 2026-09-01 - A framework developed for implementing crop simulation models developed in Wageningen.
 * [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR) ⭐ 273 | 🐛 29 | 🌐 R | 📅 2024-05-24 - A Tool to Analyze Images From Agricultural Field Trials and Lab in R.
 * [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 242 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-18 - A platform joining farmers and scientists togethehttps\://github.com/open-energy-transition/solver-benchmarkr for participatory assessment of social, environmental and economic outputs of farming systems.
 * [CropHarvest](https://github.com/nasaharvest/cropharvest) ⭐ 240 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2024-04-30 - Collects data from a variety of agricultural land use datasets and remote sensing products.
-* [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) ⭐ 234 | 🐛 56 | 🌐 Fortran | 📅 2026-09-15 - Has been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
+* [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) ⭐ 235 | 🐛 56 | 🌐 Fortran | 📅 2026-09-15 - Has been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
 * [EuroCrops](https://github.com/maja601/EuroCrops) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-03-11 - A dataset collection combining all publicly available self-declared crop reporting datasets from countries of the European Union.
 * [BreizhCrops](https://github.com/dl4sits/BreizhCrops) ⭐ 223 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2022-05-11 - A Satellite Time Series Dataset for Crop Type Identification.
 * [ApsimX](https://github.com/APSIMInitiative/ApsimX) ⭐ 215 | 🐛 515 | 🌐 Jupyter Notebook | 📅 2026-09-18 - An agricultural modeling framework used extensively worldwide.
@@ -1211,7 +1211,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [S4A](https://github.com/Orion-AI-Lab/S4A) ⭐ 115 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-11-06 - A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning.
 * [PyAEZ](https://github.com/gicait/PyAEZ) ⭐ 106 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2026-02-10 - A Python package consisted of many algorithms related to Agro-ecological zoning (AEZ) framework.
 * [powerplant](https://github.com/Ecohackerfarm/powerplant) ⭐ 94 | 🐛 51 | 🌐 JavaScript | 📅 2023-01-03 - Provides intelligent planting suggestions which maximize positive crop interaction for the mutual benefit of all your crops.
-* [Veganify](https://github.com/frontendnetwork/veganify) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-13 - A multilingual Progressive Web App, which scans the EAN or UPC codes of over 3.000.000 food- or non-food-products and simply tells you if it they're vegan or not.
+* [Veganify](https://github.com/frontendnetwork/veganify) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-19 - A multilingual Progressive Web App, which scans the EAN or UPC codes of over 3.000.000 food- or non-food-products and simply tells you if it they're vegan or not.
 * [plantFEM](https://github.com/kazulagi/plantFEM) ⭐ 46 | 🐛 6 | 🌐 Fortran | 📅 2026-04-13 - A plant simulator based on Finite Element Method, which targets crops in fields. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
 * [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) ⭐ 38 | 🐛 0 | 🌐 C++ | 📅 2026-09-09 - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
 * [monica](https://github.com/zalf-rpm/monica) ⭐ 33 | 🐛 11 | 🌐 C++ | 📅 2026-09-16 - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems.
@@ -1238,9 +1238,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 <!--lint ignore awesome-spell-check-->
 
 * [The Farmer Journal](https://github.com/usetania/tania-core) ⭐ 820 | 🐛 37 | 🌐 Go | 📅 2026-03-03 - A farm management software for the hobbyist and smallholder farmer.
-* [AgIsoStack-plus-plus](https://github.com/Open-Agriculture/AgIsoStack-plus-plus) ⭐ 389 | 🐛 64 | 🌐 C++ | 📅 2026-09-19 - ISO-11783 stack for smart agricultural machinery communication.
-* [AgML](https://github.com/Project-AgML/AgML) ⭐ 339 | 🐛 13 | 🌐 Python | 📅 2026-09-16 - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
-* [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) ⭐ 223 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-19 - This simple app helps you avoid forgetting to consume foods that are about to expire.
+* [AgIsoStack-plus-plus](https://github.com/Open-Agriculture/AgIsoStack-plus-plus) ⭐ 389 | 🐛 61 | 🌐 C++ | 📅 2026-09-19 - ISO-11783 stack for smart agricultural machinery communication.
+* [AgML](https://github.com/Project-AgML/AgML) ⭐ 340 | 🐛 13 | 🌐 Python | 📅 2026-09-16 - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
+* [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) ⭐ 223 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-20 - This simple app helps you avoid forgetting to consume foods that are about to expire.
 * [Broccoli](https://github.com/flauschtrud/broccoli) ⭐ 157 | 🐛 66 | 🌐 Java | 📅 2026-09-16 - A free eco-friendly recipe app for building your recipe collection, distraction free cooking and seasonal ingredients.
 * [WorldCereal](https://github.com/WorldCereal/worldcereal-classification) ⭐ 99 | 🐛 37 | 🌐 Python | 📅 2026-09-17 - An efficient, agile and robust EO based system for timely global crop monitoring at field scale.
 * [Teikei](https://github.com/teikei/teikei) ⭐ 66 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-18 - A web application and API that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.
@@ -1248,7 +1248,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [AgML](https://github.com/WUR-AI/AgML-CY-Bench) ⭐ 54 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2026-07-20 - Aspires to identify key research gaps and opportunities at the intersection of agricultural modelling and machine learning research and support enhanced collaboration and engagement between experts in these disciplines.
 * [rnassqs](https://github.com/ropensci/rnassqs) ⭐ 47 | 🐛 2 | 🌐 R | 📅 2025-09-22 - Allows users to access the USDA's National Agricultural Statistics Service Quick Stats data through their API.
 * [Cropbox.jl](https://github.com/cropbox/Cropbox.jl) ⭐ 25 | 🐛 6 | 🌐 Julia | 📅 2026-09-16 - Provides a domain specific language for developing crop models.
-* [Carob](https://github.com/carob-data/carob) ⭐ 23 | 🐛 17 | 🌐 R | 📅 2026-09-16 - Create reproducible workflows that reshape primary agricultural research data from experiments and surveys into a standard format, and to aggregate individual data sets into larger collections that can be used in further research.
+* [Carob](https://github.com/carob-data/carob) ⭐ 23 | 🐛 18 | 🌐 R | 📅 2026-09-16 - Create reproducible workflows that reshape primary agricultural research data from experiments and surveys into a standard format, and to aggregate individual data sets into larger collections that can be used in further research.
 * [PyCrop2ML](https://github.com/AgriculturalModelExchangeInitiative/PyCrop2ML) ⭐ 21 | 🐛 29 | 🌐 Python | 📅 2026-09-17 - A free, open-source library for defining and sharing CropML models used to represent the various biological processes involved in crop models.
 * [MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM) ⭐ 17 | 🐛 0 | 🌐 Fortran | 📅 2026-07-30 - A mechanistic model of maize growth, development and yield.
 * [fiboa](https://github.com/fiboa/specification) ⭐ 17 | 🐛 4 | 📅 2025-08-27 - The Field Boundaries for Agriculture project is focused on making field boundary data openly available in a unified format on a global scale.
@@ -1262,11 +1262,11 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [PASTIS](https://github.com/VSainteuf/pastis-benchmark) ⭐ 291 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-08-20 - A benchmark dataset for panoptic and semantic segmentation of agricultural parcels from satellite time series.
 * [Fields of The World](https://github.com/fieldsoftheworld/ftw-baselines) ⭐ 160 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2026-08-19 -  A comprehensive benchmark dataset designed to enhance the development of machine learning models for instance segmentation of agricultural field boundaries.
-* [CSA Admin](https://github.com/csa-admin-org/csa-admin) ⭐ 80 | 🐛 0 | 🌐 Ruby | 📅 2026-09-18 - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
+* [CSA Admin](https://github.com/csa-admin-org/csa-admin) ⭐ 80 | 🐛 0 | 🌐 Ruby | 📅 2026-09-20 - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
 * [Landbruget.dk](https://github.com/Klimabevaegelsen/landbruget.dk) ⭐ 39 | 🐛 39 | 🌐 Python | 📅 2026-09-14 - Organizes data from 18+ Danish government sources into a single, queryable platform to collect, clean, and publish agricultural, environmental, and regulatory data so that journalists, researchers, and citizens can hold the industry accountable.
-* [HarvestStat](https://github.com/HarvestStat/HarvestStat-Africa) ⭐ 35 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-02 - Contains cleaned and harmonized subnational global crop production data from various sources, including the Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).
+* [HarvestStat](https://github.com/HarvestStat/HarvestStat-Africa) ⭐ 36 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-02 - Contains cleaned and harmonized subnational global crop production data from various sources, including the Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).
+* [EuroCropsML](https://github.com/dida-do/eurocropsml) ⭐ 31 | 🐛 18 | 🌐 Python | 📅 2026-01-16 - A pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
 * [Holos](https://github.com/holos-aafc/holos) ⭐ 31 | 🐛 66 | 🌐 C# | 📅 2026-09-18 - A whole-farm model and software program that estimates greenhouse gas emissions based on information entered for individual farms.
-* [EuroCropsML](https://github.com/dida-do/eurocropsml) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-01-16 - A pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
 * [Land Griffon](https://github.com/Vizzuality/landgriffon) ⭐ 19 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2025-09-08 - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
 * [street2sat](https://github.com/nasaharvest/street2sat) ⭐ 12 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-07-06 - A framework for obtaining large data sets of geo-referenced crop type labels obtained from vehicle mounted cameras that can be extended to other applications.
 * [Lychen](https://github.com/lychen-lab/lychen) ⭐ 12 | 🐛 1 | 🌐 PHP | 📅 2026-09-19 - An environmental and agricultural symbiosis platform aiming to connect diverse actors across the local territory.
@@ -1331,7 +1331,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help quantify and verify greenhouse gas reduction programmes, for instance, through documenting the process lifecycle of carbon credits; assessing forest carbon potential; and facilitating the access and transparency of carbon removal projects and carbon trading data.
 
-* [Guardian](https://github.com/hashgraph/guardian) ⭐ 146 | 🐛 225 | 🌐 TypeScript | 📅 2026-09-19 - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
+* [Guardian](https://github.com/hashgraph/guardian) ⭐ 146 | 🐛 227 | 🌐 TypeScript | 📅 2026-09-20 - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
 * [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) ⭐ 105 | 🐛 13 | 📅 2026-05-30 - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 * [National Carbon Credit Registry](https://github.com/undp/undp-national-carbon-registry) ⭐ 90 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-12 - As an online database using national and international standards for quantifying and verifying greenhouse gas emissions reductions by programmes.
 * [forest-risks](https://github.com/carbonplan/forest-risks) ⭐ 36 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-09-14 - Statistical models of forest carbon potential and risks.
@@ -1351,7 +1351,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [GEOS](https://github.com/GEOS-DEV/GEOS) ⭐ 287 | 🐛 308 | 🌐 C++ | 📅 2026-09-19 - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 * [ThermoPack](https://github.com/thermotools/thermopack) ⭐ 103 | 🐛 6 | 🌐 Fortran | 📅 2026-02-26 - A thermodynamic model library for fluid properties and pressure-volume-temperature property calculations.
-* [OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl) ⭐ 80 | 🐛 41 | 🌐 Julia | 📅 2026-09-18 - A tool to study the effectiveness and impacts of ocean carbon dioxide removal strategies.
+* [OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl) ⭐ 80 | 🐛 42 | 🌐 Julia | 📅 2026-09-20 - A tool to study the effectiveness and impacts of ocean carbon dioxide removal strategies.
 * [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) ⭐ 73 | 🐛 20 | 🌐 Julia | 📅 2026-08-17 - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
 * [FOQUS](https://github.com/CCSI-Toolset/FOQUS) ⭐ 49 | 🐛 23 | 🌐 Python | 📅 2026-03-12 - Framework for Optimization and Quantification of Uncertainty and Surrogates.<!--lint ignore awesome-spell-check-->
 * [C-Star](https://github.com/CWorthy-ocean/C-Star) ⭐ 21 | 🐛 26 | 🌐 Python | 📅 2026-09-18 - A python package for setting up and running ocean model simulations, with a particular focus on marine carbon dioxide removal applications.
@@ -1421,7 +1421,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [Emissions Modeling Framework](https://github.com/USEPA/emf) ⭐ 7 | 🐛 60 | 🌐 Java | 📅 2026-08-28 - A client-server system designed to store information related to emissions modeling, with integrated quality control processes.
 * [OpenMethane](https://github.com/openmethane/openmethane-prior) ⭐ 7 | 🐛 24 | 🌐 Python | 📅 2026-09-17 - Method to calculate a gridded, prior emissions estimate for methane across Australia.
 * [OpenGHG Inversions](https://github.com/openghg/openghg_inversions) ⭐ 7 | 🐛 152 | 🌐 Python | 📅 2026-09-18 - A Python package that is being developed as part of the OpenGHG project with the aim of merging the data-processing and simulation modelling capabilities of OpenGHG with the atmospheric Bayesian inverse models developed by the Atmospheric Chemistry Research Group at the University of Bristol.
-* [SINDBAD](https://github.com/LandEcosystems/Sindbad.jl) ⭐ 7 | 🐛 24 | 🌐 Julia | 📅 2026-09-19 - A model data integration framework that encompasses the biogeochemical cycles of water and carbon, allowing for extensive and flexible integration of parsimonious models with a diverse set of observational data streams.
+* [SINDBAD](https://github.com/LandEcosystems/Sindbad.jl) ⭐ 7 | 🐛 24 | 🌐 Julia | 📅 2026-09-20 - A model data integration framework that encompasses the biogeochemical cycles of water and carbon, allowing for extensive and flexible integration of parsimonious models with a diverse set of observational data streams.
 * [Fossil Shipment Tracker](https://github.com/energyandcleanair/fossil_shipment_tracker_r) ⚠️ Archived - A data platform that provides decision-makers, journalists and campaigning organizations with information that helps identify fossil fuel shipments from Russia.
 * [Clean Air Markets API Portal](https://github.com/USEPA/cam-api-portal) ⭐ 5 | 🐛 41 | 🌐 JavaScript | 📅 2026-03-31 - A suite of API's that EPA's Clean Air Markets Division provides to access the data collected to run programs designed to reduce air pollution from power plants.
 * [The Global Registry of Fossil Fuels](https://github.com/fossilfuelregistry/portal-v2) ⭐ 3 | 🐛 8 | 🌐 TypeScript | 📅 2022-12-20 - Open Source database of oil, gas and coal production and reserves globally, expressed in CO2-equivalent.
@@ -1459,11 +1459,11 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [carculator](https://github.com/Laboratory-for-Energy-Systems-Analysis/carculator) ⭐ 54 | 🐛 4 | 🌐 Python | 📅 2026-04-29 - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
 * [timex\_lca](https://github.com/TimoDiepers/timex) ⭐ 53 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-18 - A Python package for time-explicit Life Cycle Assessment that helps you assess the environmental impacts of products and processes over time.
 * [ecobalyse](https://github.com/MTES-MCT/ecobalyse) ⭐ 52 | 🐛 203 | 🌐 Elm | 📅 2026-09-19 - Ecobalyse makes it possible to understand and calculate the ecological impacts of the products distributed in France.
+* [QSDsan](https://github.com/QSD-Group/QSDsan) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-09-16 - A package for the quantitative sustainable design of sanitation and resource recovery systems.
 * [Wurst](https://github.com/polca/wurst) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2025-11-09 - A python package for linking and modifying industrial ecology models, with a focus on sparse matrices in life cycle assessment.
-* [QSDsan](https://github.com/QSD-Group/QSDsan) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-16 - A package for the quantitative sustainable design of sanitation and resource recovery systems.
 * [fedelemflowlist](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) ⭐ 40 | 🐛 21 | 🌐 Python | 📅 2026-08-25 - A Python package that generates and provides a standardized elementary flow list for use in life cycle assessment (LCA) data as well as mappings to convert data from other sources.
 * [IfcLCA](https://github.com/IfcLCA/IfcLCA) ⭐ 39 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-15 - Provides access to environmental impact material data sourced from open data published by Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren.
-* [pulpo](https://github.com/flechtenberg/pulpo) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2026-08-11 - A Python-based optimization tool for life cycle assessment (LCA) that aims to import, optimize, solve, retrieve, save, and summarize LCA results.
+* [pulpo](https://github.com/flechtenberg/pulpo) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2026-09-19 - A Python-based optimization tool for life cycle assessment (LCA) that aims to import, optimize, solve, retrieve, save, and summarize LCA results.
 * [Trase](https://github.com/Vizzuality/trase) ⭐ 35 | 🐛 0 | 🌐 Ruby | 📅 2024-01-25 - Brings unprecedented transparency to commodity supply chains revealing new pathways towards achieving a deforestation-free economy.
 * [flowsa](https://github.com/USEPA/flowsa) ⭐ 35 | 🐛 26 | 🌐 Python | 📅 2026-01-09 - Library that attributes resource use, waste, emissions, and loss to economic sectors.
 * [uslci-content](https://github.com/uslci-admin/uslci-content) ⭐ 32 | 🐛 13 | 📅 2026-07-27 - Supplementary content for the U.S. Life Cycle Inventory Database.
@@ -1479,7 +1479,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [BioSTEAM\_LCA](https://github.com/scyjth/biosteam_lca) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2021-08-30 - An agile life cycle assessment platform that enables a fast and flexible evaluation of the life cycle environmental impacts of biorefineries under uncertainty.
 * [Doughnut Biotool](https://github.com/NFrancart/doughnut-biotool) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-04-30 - A tool to calculate a building project's impacts on biodiversity over the entire life cycle.
 * [saleos](https://github.com/Bonface-Osoro/saleos) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-04-29 - Sustainability Analytics for Low Earth Orbit Satellites.
-* [Volca](https://github.com/ccomb/volca) ⭐ 6 | 🐛 5 | 🌐 Haskell | 📅 2026-09-19 - An open-source toolkit for inspecting and working with life-cycle inventory databases through CLI, desktop, API/server, Python, and MCP interfaces.
+* [Volca](https://github.com/ccomb/volca) ⭐ 6 | 🐛 5 | 🌐 Haskell | 📅 2026-09-20 - An open-source toolkit for inspecting and working with life-cycle inventory databases through CLI, desktop, API/server, Python, and MCP interfaces.
 * [EOS-AYCE](https://gitlab.com/eaternity/eos) - Eaternity's software platform serving as an open-source environmental operating system (EOS) for all you can eat (AYCE) for climate.
 * [Global LCA Data Access Network](https://www.globallcadataaccess.org/) - Gathers life cycle dataset providers and other stakeholders who share the goal of improving sustainability-related decisions through enhanced, interoperable and global access to LCA datasets.
 * [Federal LCA Commons](https://www.lcacommons.gov/) - A central point of access to a collection of data repositories for use in Life Cycle Assessment.
@@ -1523,7 +1523,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [RecycleNet](https://github.com/sangminwoo/RecycleNet) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2021-01-04 - Effective trash classification model using only a small number of annotated images.
 * [The Clothing Loop](https://github.com/the-clothing-loop/website) ⭐ 39 | 🐛 153 | 🌐 TypeScript | 📅 2026-09-18 - An initiative that offers an easy way for people to swap clothes with others in their own neighborhood.
 * [e-Manifest](https://github.com/USEPA/e-manifest) ⭐ 34 | 🐛 5 | 🌐 HTML | 📅 2026-07-13 - The purpose of e-Manifest is to establish a national information technology system that will enable the Agency and the hazardous waste program's industry and state stakeholders to transition the manifest system from one that is paper-intensive and burdensome to a system that is much more efficient.
-* [open-dpp](https://github.com/open-dpp/open-dpp) ⭐ 32 | 🐛 183 | 🌐 TypeScript | 📅 2026-09-19 - An open-source platform for managing digital product passports.
+* [open-dpp](https://github.com/open-dpp/open-dpp) ⭐ 32 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-20 - An open-source platform for managing digital product passports.
 * [restarters.net](https://github.com/TheRestartProject/restarters.net) ⭐ 28 | 🐛 13 | 🌐 PHP | 📅 2026-09-17 - A suite of software for the repair community.
 * [SwolfPy](https://github.com/SwolfPy-Project/swolfpy) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2024-03-04 - A free, multi-platform, Python-based, open-source, SWM LCA optimization framework with built-in parametric and Monte Carlo sensitivity and uncertainty analysis capabilities.
 * [Surfrider Plastic Origins](https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project) ⭐ 25 | 🐛 1 | 📅 2023-05-03 - A citizen science project that uses AI to map plastic pollution in European rivers and share its data publicly.
@@ -1532,7 +1532,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [plasticparcels](https://github.com/OceanParcels/plasticparcels) ⭐ 19 | 🐛 9 | 🌐 Python | 📅 2026-09-14 - A Python package for simulating the transport and dispersion of plastics in the ocean.
 * [Open Repair Data](https://github.com/openrepair/data) ⭐ 19 | 🐛 0 | 📅 2026-03-22 - Source of the Open Repair Alliance downloadable datasets.
 * [ADVECT](https://github.com/TheOceanCleanupAlgorithms/ADVECT) ⭐ 18 | 🐛 4 | 🌐 Python | 📅 2022-04-12 - A whole-ocean marine debris transport model which is built to handle millions of particles and terabytes of data.
-* [TrashMob](https://github.com/TrashMob-eco/TrashMob) ⭐ 18 | 🐛 19 | 🌐 C# | 📅 2026-09-14 - A website dedicated to organizing groups of people to clean up the world we live in. Users create cleanup events, publicize them, and recruit people to join up, as well as ask for assistance from communities and partners.
+* [TrashMob](https://github.com/TrashMob-eco/TrashMob) ⭐ 18 | 🐛 22 | 🌐 C# | 📅 2026-09-20 - A website dedicated to organizing groups of people to clean up the world we live in. Users create cleanup events, publicize them, and recruit people to join up, as well as ask for assistance from communities and partners.
 * [Ecobricks](https://github.com/gea-ecobricks/ecobricks-org) ⭐ 13 | 🐛 8 | 🌐 PHP | 📅 2026-09-16 - Ecobrick is a plastic bottle packed with used plastic to a set density, a way to take advantage of plastic's pros while protecting against its cons.
 * [Plastics Prototype](https://github.com/SchmidtDSE/plastics-prototype) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2025-08-05 - This tool explores different policy interventions both regionally and globally to help countries exploring ways to reduce the impact of plastic.
 * [CircuLaw](https://github.com/Dark-Matter-Labs/circulaw) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17 - A knowledge platform dedicated to enabling the transition to a circular economy by identifying opportunities in current law to support a circular future.
@@ -1552,7 +1552,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help model and monitor bird populations and trajectories; assess risks to birds; and facilitate access to datasets on various species of birds.
 
-* [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) ⭐ 1,710 | 🐛 83 | 🌐 Python | 📅 2026-09-08 - A deep learning solution for avian diversity monitoring.
+* [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) ⭐ 1,711 | 🐛 83 | 🌐 Python | 📅 2026-09-08 - A deep learning solution for avian diversity monitoring.
 * [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) ⭐ 1,019 | 🐛 18 | 🌐 R | 📅 2024-09-19 - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 * [auk](https://github.com/CornellLabofOrnithology/auk) ⭐ 160 | 🐛 10 | 🌐 R | 📅 2026-03-20 - eBird Data Extraction and Processing in R.
 * [birdnet](https://github.com/birdnet-team/birdnet) ⭐ 152 | 🐛 6 | 🌐 Python | 📅 2026-09-02 - The library is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
@@ -1575,7 +1575,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help detect, process, segment, identify, classify, and analyze sounds and soundscapes collected from various sources such as acoustic environmental sensors.
 
-* [BirdNET-Go](https://github.com/tphakala/birdnet-go) ⭐ 2,141 | 🐛 191 | 🌐 Go | 📅 2026-09-19 - Realtime BirdNET soundscape analyzer.
+* [BirdNET-Go](https://github.com/tphakala/birdnet-go) ⭐ 2,152 | 🐛 190 | 🌐 Go | 📅 2026-09-20 - Realtime BirdNET soundscape analyzer.
 * [whoBIRD](https://github.com/woheller69/whoBIRD) ⭐ 911 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-02 - Identify bird sounds in real time with this Android version of BirdNET, a Bird sound recognition for more than 6,000 species worldwide.
 * [Perch](https://github.com/google-research/perch) ⭐ 392 | 🐛 12 | 🌐 Python | 📅 2026-09-18 - A bioacoustics research project that produces a bird species classifier, trained on over 10k species.
 * [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) ⭐ 221 | 🐛 95 | 🌐 Python | 📅 2026-09-19 - A free and open source Python utility library analyzing bioacoustic data.
@@ -1591,7 +1591,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [AVEX](https://github.com/earthspecies/avex) ⭐ 43 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - An API for model loading and inference, and a Python-based system for training and evaluating bioacoustics representation learning models.
 * [birdnetR](https://github.com/birdnet-team/birdnetR) ⭐ 32 | 🐛 6 | 🌐 R | 📅 2026-05-22 - Is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
 * [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) ⭐ 19 | 🐛 3 | 🌐 R | 📅 2026-09-18 - An R package for environmental sensor data management and analytics.
-* [Project Echo](https://github.com/DataBytes-Organisation/Project-Echo) ⭐ 14 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-09-19 - Develop an AI/ML solution to detect and classify the density of noisy animals in rainforests, providing conservationists with an efficient and non-invasive tool to monitor threatened animal populations over time.
+* [Project Echo](https://github.com/DataBytes-Organisation/Project-Echo) ⭐ 14 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-09-20 - Develop an AI/ML solution to detect and classify the density of noisy animals in rainforests, providing conservationists with an efficient and non-invasive tool to monitor threatened animal populations over time.
 * [baRulho](https://github.com/maRce10/baRulho) ⭐ 10 | 🐛 2 | 🌐 HTML | 📅 2026-07-21 - An R package to quantify habitat-induced degradation of (animal) acoustic signals.
 * [Arbimon](https://github.com/rfcx/arbimon) - Ecoacoustic analysis platform empowering conservationists to analyze acoustic data and to derive insights about the ecosystem at scale.
 
@@ -1623,7 +1623,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [Biodiverse](https://github.com/shawnlaffan/biodiverse) ⭐ 82 | 🐛 62 | 🌐 Perl | 📅 2026-09-16 - A tool for the spatial analysis of diversity using indices based on taxonomic, phylogenetic, trait and matrix-based relationships, as well as related environmental and temporal variations.
 * [biodivMapR](https://github.com/jbferet/biodivMapR) ⭐ 65 | 🐛 0 | 🌐 R | 📅 2026-09-08 - An R package for α- and β-diversity mapping using remotely-sensed images.
-* [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) ⭐ 52 | 🐛 17 | 🌐 R | 📅 2026-09-19 - Efficient analysis of spatial biodiversity datasets for global portfolios.
+* [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) ⭐ 52 | 🐛 17 | 🌐 R | 📅 2026-09-20 - Efficient analysis of spatial biodiversity datasets for global portfolios.
 * [ENMTML](https://github.com/andrefaa/ENMTML) ⭐ 49 | 🐛 12 | 🌐 R | 📅 2023-11-09 - An R package for an integrated construction of Ecological Niche Models.
 * [ade4](https://github.com/sdray/ade4) ⭐ 45 | 🐛 12 | 🌐 R | 📅 2026-03-21 - Analysis of Ecological Data for Exploratory and Euclidean Methods in Environmental Sciences.
 * [fundiversity](https://github.com/funecology/fundiversity) ⭐ 45 | 🐛 9 | 🌐 R | 📅 2026-08-20 - Provides a lightweight package to compute common functional diversity indices.
@@ -1655,14 +1655,14 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help identify plants and animals and coordinate citizen science projects.
 
-* [iNaturalist](https://github.com/inaturalist/inaturalist) ⭐ 856 | 🐛 559 | 🌐 JavaScript | 📅 2026-09-18 - Helps you identify the plants and animals around you.
-* [pyinaturalist](https://github.com/pyinat/pyinaturalist) ⭐ 185 | 🐛 8 | 🌐 Python | 📅 2026-09-06 - Python client for iNaturalist, a community science platform that helps people get involved in the natural world by observing and identifying the living things around them.
-* [iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative) ⭐ 132 | 🐛 94 | 🌐 Fluent | 📅 2026-09-19 - Official iNaturalist client written in React Native that will eventually replace our existing iOS and Android apps.
+* [iNaturalist](https://github.com/inaturalist/inaturalist) ⭐ 856 | 🐛 559 | 🌐 JavaScript | 📅 2026-09-19 - Helps you identify the plants and animals around you.
+* [pyinaturalist](https://github.com/pyinat/pyinaturalist) ⭐ 185 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Python client for iNaturalist, a community science platform that helps people get involved in the natural world by observing and identifying the living things around them.
+* [iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative) ⭐ 132 | 🐛 94 | 🌐 Fluent | 📅 2026-09-20 - Official iNaturalist client written in React Native that will eventually replace our existing iOS and Android apps.
 * [Panoptes](https://github.com/zooniverse/Panoptes) ⭐ 114 | 🐛 115 | 🌐 Ruby | 📅 2026-09-18 - Zooniverse API to support user defined volunteer research projects.
-* [Naturtag](https://github.com/pyinat/naturtag) ⭐ 55 | 🐛 63 | 🌐 Python | 📅 2026-09-16 - A tool for nature photographers that adds useful metadata to describe the organisms in your photos.
-* [Arena](https://github.com/openforis/arena) ⭐ 27 | 🐛 180 | 🌐 JavaScript | 📅 2026-09-19 - A cloud-based platform that enables fast, flexible setup and data entry for various field surveys, including biophysical, socio-economic, and biodiversity inventories.
+* [Naturtag](https://github.com/pyinat/naturtag) ⭐ 55 | 🐛 64 | 🌐 Python | 📅 2026-09-19 - A tool for nature photographers that adds useful metadata to describe the organisms in your photos.
+* [Arena](https://github.com/openforis/arena) ⭐ 27 | 🐛 181 | 🌐 JavaScript | 📅 2026-09-20 - A cloud-based platform that enables fast, flexible setup and data entry for various field surveys, including biophysical, socio-economic, and biodiversity inventories.
 * [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) ⭐ 26 | 🐛 73 | 🌐 TypeScript | 📅 2026-07-01 - A free and Open Source web solution for citizen science projects for biodiversity data collection.
-* [Green Goods](https://github.com/greenpill-dev-guild/green-goods) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-19 - Measures, tracks, and rewards the impact on gardens with a simple Progressive Web App.
+* [Green Goods](https://github.com/greenpill-dev-guild/green-goods) ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-20 - Measures, tracks, and rewards the impact on gardens with a simple Progressive Web App.
 * [DigiVol](https://github.com/AtlasOfLivingAustralia/volunteer-portal) ⭐ 16 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-17 - Harness the power of online volunteers to digitise biodiversity data that is locked up in biodiversity collections, field notebooks and survey sheets.
 * [biocollect](https://github.com/AtlasOfLivingAustralia/biocollect) ⭐ 13 | 🐛 401 | 🌐 Groovy | 📅 2026-08-25 - An advanced, but simple-to-use data collection tool for biodiversity science.
 * [Gottesanbeterin Gesucht](https://github.com/opendata-apps/mantis) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-09 - An interactive web application to track Mantis Religiosa sightings in Brandenburg.
@@ -1684,12 +1684,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [Open Tree of Life](https://github.com/OpenTreeOfLife/opentree) ⭐ 127 | 🐛 304 | 🌐 JavaScript | 📅 2026-06-09 - Constructs a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data.
 * [spocc](https://github.com/ropensci/spocc) ⭐ 126 | 🐛 19 | 🌐 R | 📅 2025-12-06 - An R package to query and collect species occurrence data from many sources.
 * [wildflow](https://github.com/wildflowai/platform) ⭐ 121 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-26 - Open marine biodiversity data platform aiming to protect oceans by accelerating research and conservation.
-* [TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks) ⭐ 117 | 🐛 816 | 🌐 Ruby | 📅 2026-09-18 - An integrated web-based workbench for taxonomists and biodiversity scientists.
-* [specify7](https://github.com/specify/specify7) ⭐ 100 | 🐛 1,061 | 🌐 TypeScript | 📅 2026-09-18 - A biological collections data management platform.
+* [TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks) ⭐ 117 | 🐛 817 | 🌐 Ruby | 📅 2026-09-18 - An integrated web-based workbench for taxonomists and biodiversity scientists.
+* [specify7](https://github.com/specify/specify7) ⭐ 100 | 🐛 1,061 | 🌐 TypeScript | 📅 2026-09-20 - A biological collections data management platform.
 * [rinat](https://github.com/ropensci/rinat) ⭐ 70 | 🐛 14 | 🌐 R | 📅 2025-08-30 - R wrapper for iNaturalist APIs for accessing the observations.
 * [pybioclip](https://github.com/Imageomics/pybioclip) ⭐ 67 | 🐛 17 | 🌐 Python | 📅 2026-08-15 - Python package that simplifies using the BioCLIP foundation model.
 * [rredlist](https://github.com/ropensci/rredlist) ⭐ 65 | 🐛 1 | 🌐 R | 📅 2025-09-04 - An R client for the IUCN Red List of threatened and endangered species.
-* [Symbiota](https://github.com/Symbiota/Symbiota) ⭐ 55 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-18 - A library of webtools to aid biologists in establishing specimen based virtual floras and faunas.
+* [Symbiota](https://github.com/Symbiota/Symbiota) ⭐ 55 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-19 - A library of webtools to aid biologists in establishing specimen based virtual floras and faunas.
 * [PortalData](https://github.com/weecology/PortalData) ⭐ 52 | 🐛 6 | 🌐 R | 📅 2026-09-17 - Provides access to a long-term study of a Chihuahuan desert ecosystem.
 * [galah](https://github.com/AtlasOfLivingAustralia/galah-R) ⭐ 49 | 🐛 19 | 🌐 R | 📅 2026-09-18 - An R interface to biodiversity data hosted by the living atlases; a set of organisations that share a common codebase, and act as nodes of the Global Biodiversity Information Facility.
 * [robis](https://github.com/iobis/robis/) ⭐ 48 | 🐛 23 | 🌐 R | 📅 2026-07-24 - Build and maintain a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life.
@@ -1710,7 +1710,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [BioCube](https://github.com/BioDT/bfm-data) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-09-10 - Contains the code used to engineer BioCube: A Multimodal Dataset for Biodiversity Research.
 * [b3gbi](https://github.com/b-cubed-eu/b3gbi) ⭐ 9 | 🐛 1 | 🌐 R | 📅 2026-09-14 - Analyze biodiversity trends and spatial patterns from GBIF data cubes, using flexible indicators like richness, evenness, and more.
 * [rvertnet](https://github.com/ropensci/rvertnet) ⭐ 7 | 🐛 0 | 🌐 R | 📅 2024-10-19 - An R Wrapper to the VertNet API, a collaborative project that makes biodiversity data free and available on the web.
-* [CafriplotsR](https://github.com/umr-amap/cafriplotsR) ⭐ 5 | 🐛 0 | 🌐 R | 📅 2026-09-19 - Provides tools for querying a PostgreSQL database containing forest inventories data from Tropical Africa.
+* [CafriplotsR](https://github.com/umr-amap/cafriplotsR) ⭐ 5 | 🐛 0 | 🌐 R | 📅 2026-09-20 - Provides tools for querying a PostgreSQL database containing forest inventories data from Tropical Africa.
 * [GFBio Data Submission and Brokerage System](https://github.com/gfbio/gfbio-data-submission) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - Provides the central entry point for the submission services provided by GFBio e.V. for the long-term data archival and publication of biodiversity, ecology and environmental science data.
 * [EcoReleve](https://gitlab.com/natural-solutions/reneco/ecoreleve-data) - A free and open source biodiversity data entry software.
 * [OpenDataBio](https://gitlab.com/opendatabio/opendatabio) - A system for storing and retrieving biological data - floristics, ecology and monitoring.
@@ -1729,7 +1729,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [Global Names Verifier](https://github.com/gnames/gnverifier) ⭐ 40 | 🐛 16 | 🌐 Go | 📅 2026-06-06 - Verifies scientific names against more than 100 biodiversity databases.
 * [bdc](https://github.com/brunobrr/bdc) ⭐ 25 | 🐛 9 | 🌐 R | 📅 2026-08-27 - A toolkit for standardizing, integrating, and cleaning biodiversity data.
 * [GBIF Name Parser](https://github.com/gbif/name-parser) ⭐ 20 | 🐛 53 | 🌐 Java | 📅 2026-08-25 - The core GBIF scientific name parser library.
-* [Bionomia](https://github.com/bionomia/bionomia) ⭐ 19 | 🐛 55 | 🌐 Haml | 📅 2026-09-17 - Parse people names from biodiversity occurrence data, apply basic regular expressions and heuristics to disambiguate them, and to make these occurrence records as entities that can be claimed by people via ORCID.
+* [Bionomia](https://github.com/bionomia/bionomia) ⭐ 19 | 🐛 55 | 🌐 Haml | 📅 2026-09-20 - Parse people names from biodiversity occurrence data, apply basic regular expressions and heuristics to disambiguate them, and to make these occurrence records as entities that can be claimed by people via ORCID.
 * [ABIS](https://github.com/AusBIGG/abis) ⭐ 7 | 🐛 10 | 🌐 Python | 📅 2026-08-10 - Australian Biodiversity Information Standard.
 * [BIRDS](https://github.com/GreenswayAB/BIRDS) ⭐ 5 | 🐛 6 | 🌐 HTML | 📅 2023-10-17 - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
 * [BeeBDC](https://github.com/jbdorey/BeeBDC/) ⭐ 4 | 🐛 2 | 🌐 R | 📅 2026-07-29 - Bee Biodiversity Data Cleaning.
@@ -1776,18 +1776,18 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [whisp](https://github.com/forestdatapartnership/whisp) ⭐ 38 | 🐛 50 | 🌐 Python | 📅 2026-09-15 - The Forest Data Partnership promotes a Convergence of Evidence approach for Forest and Commodities Monitoring.
 * [UDef-ARP](https://github.com/ClarkCGA/UDef-ARP) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-06-26 - Facilitate implementation of the Verra tool, VT0007 Unplanned Deforestation Allocation.
 * [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) ⭐ 34 | 🐛 3 | 🌐 R | 📅 2023-08-02 - Quantify carbon sequestration in naturally regenerating forests around the world.
-* [Tree Mapper App](https://github.com/Plant-for-the-Planet-org/treemapper) ⭐ 32 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-17 - Tree Mapper extends the Plant-for-the-Planet App and allows on site coordinate submission during plantation.
+* [Tree Mapper App](https://github.com/Plant-for-the-Planet-org/treemapper) ⭐ 32 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-20 - Tree Mapper extends the Plant-for-the-Planet App and allows on site coordinate submission during plantation.
 * [forestatrisk](https://github.com/ghislainv/forestatrisk-tropics) ⭐ 30 | 🐛 0 | 🌐 R | 📅 2023-12-04 - Modelling and forecasting deforestation in the tropics.
 * [riskmapjnr](https://github.com/ghislainv/riskmapjnr) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-07-12 - Obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input.
 * [gfcanalysis](https://github.com/azvoleff/gfcanalysis) ⭐ 21 | 🐛 3 | 🌐 R | 📅 2023-10-09 - Tools for working with Global Forest Change dataset.
 * [Climate Change Informed Species Selection](https://github.com/bcgov/CCISS_ShinyApp) ⭐ 19 | 🐛 30 | 🌐 HTML | 📅 2026-09-10 - A Biogeoclimatic Ecosystem Classification-based analysis framework built to anticipate the change climate implications to tree species environmental suitability at a site specific level.
 * [Tree Tracker](https://github.com/protect-earth/tree-tracker-ios) ⭐ 13 | 🐛 7 | 🌐 Swift | 📅 2025-07-08 - Used by people who plant trees so they don't have to manually type coordinates with pictures they took.
-* [MapBiomas](https://github.com/mapbiomas/user-toolkit) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-19 - A comprehensive set of scripts and tools for downloading land use and cover data across various biomes in South America and Indonesia.
-* [Terraware Web](https://github.com/terraware/terraware-web) ⭐ 10 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-19 - The web app provides seed inventory management capabilities - with two main areas of focus: the seed processing workflow and monitoring of a seed bank's physical infrastructure.
+* [MapBiomas](https://github.com/mapbiomas/user-toolkit) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-20 - A comprehensive set of scripts and tools for downloading land use and cover data across various biomes in South America and Indonesia.
+* [Terraware Web](https://github.com/terraware/terraware-web) ⭐ 10 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-20 - The web app provides seed inventory management capabilities - with two main areas of focus: the seed processing workflow and monitoring of a seed bank's physical infrastructure.
 * [se.plan](https://github.com/sepal-contrib/se.plan) ⭐ 10 | 🐛 19 | 🌐 Python | 📅 2026-09-03 - This mapping tool combines ecological data on forest restoration with data on restoration’s benefits, costs, and risks.
 * [Whisp](https://github.com/forestdatapartnership/whisp-app) ⭐ 9 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-19 - Geospatial Analysis Tool for Zero-Deforestation Claims.
 * [Seedlot Selection Tool](https://github.com/consbio/seedlot-selection-tool) ⭐ 6 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-11 - A GIS mapping program designed to help forest managers match seedlots with planting sites based on climatic information.
-* [Planting Optimisation Tool](https://github.com/Chameleon-company/Planting-Optimisation-Tool) ⭐ 4 | 🐛 76 | 🌐 Jupyter Notebook | 📅 2026-09-19 - A data-driven recommendation system designed to support sustainable reforestation and agroforestry planning in Timor-Leste.
+* [Planting Optimisation Tool](https://github.com/Chameleon-company/Planting-Optimisation-Tool) ⭐ 4 | 🐛 76 | 🌐 Jupyter Notebook | 📅 2026-09-20 - A data-driven recommendation system designed to support sustainable reforestation and agroforestry planning in Timor-Leste.
 
 ### Ecological and Environmental Modeling
 
@@ -1795,13 +1795,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools facilitate the spatial analysis and modelling of ecological systems, such as simulating and forecasting population dynamics.
 
-* [vegan](https://github.com/vegandevs/vegan) ⭐ 544 | 🐛 35 | 🌐 R | 📅 2026-09-15 - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
-* [PEcAn](https://github.com/PecanProject/pecan) ⭐ 244 | 🐛 457 | 🌐 R | 📅 2026-09-19 - The Predictive Ecosystem Analyzer is an integrated ecological bioinformatics toolbox.
+* [vegan](https://github.com/vegandevs/vegan) ⭐ 544 | 🐛 35 | 🌐 R | 📅 2026-09-20 - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
+* [PEcAn](https://github.com/PecanProject/pecan) ⭐ 244 | 🐛 456 | 🌐 R | 📅 2026-09-20 - The Predictive Ecosystem Analyzer is an integrated ecological bioinformatics toolbox.
 * [mvgam](https://github.com/nicholasjclark/mvgam) ⭐ 183 | 🐛 26 | 🌐 R | 📅 2026-09-18 - Dynamic generalised additive models for forecasting discrete ecological time series.
 * [spatialEco](https://github.com/jeffreyevans/spatialEco) ⭐ 124 | 🐛 4 | 🌐 R | 📅 2026-05-19 - R package for spatial analysis and modelling of ecological systems.
 * [NicheMapR](https://github.com/mrke/NicheMapR) ⭐ 89 | 🐛 1 | 🌐 HTML | 📅 2026-09-19 - Modelling the thermodynamic constraints on life.
 * [ctmm](https://github.com/ctmm-initiative/ctmm) ⭐ 59 | 🐛 12 | 🌐 R | 📅 2026-08-01 - Continuous-Time Movement Modeling functions for identifying, fitting, and applying continuous-space, continuous-time stochastic movement models to animal tracking data.
-* [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) ⭐ 46 | 🐛 7 | 🌐 Julia | 📅 2026-09-19 - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
+* [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) ⭐ 46 | 🐛 7 | 🌐 Julia | 📅 2026-09-20 - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
 * [moveHMM](https://github.com/TheoMichelot/moveHMM) ⭐ 44 | 🐛 0 | 🌐 R | 📅 2025-10-05 - R package which implements hidden Markov models and associated tools (state decoding, model selection, model checking, etc.) tailored to animal movement modelling.
 * [Rpath](https://github.com/NOAA-EDAB/Rpath) ⭐ 43 | 🐛 8 | 🌐 R | 📅 2026-09-18 - An implementation of the Ecopath (mass-balance) and Ecosim (dynamic simulation) methods for the modeling of food webs.
 * [gen3sis](https://github.com/project-gen3sis/R-package) ⭐ 37 | 🐛 10 | 🌐 R | 📅 2025-09-01 - A spatially-explicit eco-evolutionary mechanistic model with a modular implementation that allows exploring the consequences of ecological and macroevolutionary processes across realistic or theoretical spatio-temporal landscapes.
@@ -1830,7 +1830,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [iLand](https://github.com/edfm-tum/iland-model) ⭐ 30 | 🐛 2 | 🌐 C++ | 📅 2026-09-10 - A forest landscape model and simulates how individual trees grow, compete, die, and regenerate under various climate, disturbance, and management scenarios.
 * [Our Forests Tomorrow](https://github.com/developmentseed/our-forests-tomorrow) ⭐ 26 | 🐛 3 | 🌐 TypeScript | 📅 2024-03-21 - Visualizing European forests future.
 * [LandR](https://github.com/PredictiveEcology/LandR/) ⭐ 20 | 🐛 26 | 🌐 R | 📅 2026-09-19 - These models simulate forest vegetation dynamics based on LANDIS-II, and incorporate fire and insect disturbance, as well as other important ecological processes.
-* [medfate](https://github.com/emf-creaf/medfate) ⭐ 14 | 🐛 2 | 🌐 C++ | 📅 2026-09-17 - Functions to simulate Mediterranean forest functioning and dynamics using cohort-based description of vegetation.
+* [medfate](https://github.com/emf-creaf/medfate) ⭐ 14 | 🐛 2 | 🌐 C++ | 📅 2026-09-19 - Functions to simulate Mediterranean forest functioning and dynamics using cohort-based description of vegetation.
 * [Bristlecone](https://github.com/AndrewIOM/bristlecone) ⭐ 12 | 🐛 20 | 🌐 F# | 📅 2026-09-16 - An F# library for model-fitting model-selection (MFMS) of ecological models to observational data. The library was developed for tree ring analysis, but can be used for other time-series modelling problems.
 * [fellingdater](https://github.com/hanecakr/fellingdater) ⭐ 9 | 🐛 1 | 🌐 R | 📅 2026-08-06 - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 * [dfoliatR](https://github.com/chguiterman/dfoliatR) ⭐ 7 | 🐛 8 | 🌐 R | 📅 2023-08-09 - Provide dendrochronologists with tools for identifying and analyzing the signatures of insect defoliators preserved in tree rings.
@@ -1872,7 +1872,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help process and extract meaningful information from aerial imagery such as RGB, hyperspectral, laser scanner, and LiDAR measurements.
 
-* [DeepForest](https://github.com/weecology/DeepForest) ⭐ 773 | 🐛 101 | 🌐 Python | 📅 2026-08-30 - Python Package for Tree Crown Detection in Airborne RGB imagery.
+* [DeepForest](https://github.com/weecology/DeepForest) ⭐ 774 | 🐛 101 | 🌐 Python | 📅 2026-08-30 - Python Package for Tree Crown Detection in Airborne RGB imagery.
 * [lidR](https://github.com/r-lidar/lidR) ⭐ 710 | 🐛 16 | 🌐 R | 📅 2026-09-04 - An R package for airborne LiDAR data manipulation and visualization for forestry application.
 * [DetecTree](https://github.com/martibosch/detectree) ⭐ 281 | 🐛 6 | 🌐 Python | 📅 2026-09-14 - A Pythonic library to classify tree/non-tree pixels from aerial imagery.
 * [Detectree2](https://github.com/PatBall1/detectree2) ⭐ 264 | 🐛 32 | 🌐 Python | 📅 2026-03-16 - Automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN.
@@ -1887,7 +1887,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [TreeLS](https://github.com/tiagodc/TreeLS) ⭐ 99 | 🐛 23 | 🌐 C++ | 📅 2025-06-11 - High performance R functions for forest data processing based on Terrestrial Laser Scanning (but not only) point clouds.
 * [pyfor](https://github.com/brycefrank/pyfor) ⭐ 99 | 🐛 11 | 🌐 Python | 📅 2026-09-11 - Tools for analyzing aerial point clouds of forest data.
 * [3DFin](https://github.com/3DFin/3DFin) ⭐ 99 | 🐛 23 | 🌐 Python | 📅 2025-12-05 - A free software for automatic computation of tree parameters in terrestrial point clouds.
-* [3D Forest](https://github.com/VUKOZ-OEL/3d-forest) ⭐ 95 | 🐛 8 | 🌐 C++ | 📅 2026-09-13 - Visualization, processing and analysis of Lidar point clouds, mainly focused on forest environment.
+* [3D Forest](https://github.com/VUKOZ-OEL/3d-forest) ⭐ 95 | 🐛 8 | 🌐 C++ | 📅 2026-09-20 - Visualization, processing and analysis of Lidar point clouds, mainly focused on forest environment.
 * [ForestTools](https://github.com/andrew-plowright/ForestTools) ⭐ 92 | 🐛 2 | 🌐 C++ | 📅 2025-12-24 - Detect and segment individual tree from remotely sensed data.
 * [PyForestScan](https://github.com/iosefa/PyForestScan) ⭐ 88 | 🐛 5 | 🌐 Python | 📅 2026-07-09 - A python package for calculating forest structural metrics from airborne point clouds.
 * [lasR](https://github.com/r-lidar/lasR) ⭐ 87 | 🐛 28 | 🌐 C++ | 📅 2026-08-17 - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
@@ -1902,7 +1902,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [pytreedb](https://github.com/3dgeo-heidelberg/pytreedb) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2026-05-13 - A Python software package providing an object-based library to provide a simple database interface and REST API of vegetation tree objects that were captured as 3D point clouds.
 * [detectreeRGB](https://github.com/shmh40/detectreeRGB) ⭐ 41 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-01-11 - Tree crown delineation from RGB imagery, coupled with methods to delineate tree crowns from LiDAR data.
 * [ForestGapR](https://github.com/carlos-alberto-silva/ForestGapR) ⭐ 33 | 🐛 5 | 🌐 R | 📅 2024-02-11 - An R Package for Airborne Laser Scanning-derived Tropical Forest Gaps Analysis.
-* [FORTLS](https://github.com/Molina-Valero/FORTLS) ⭐ 32 | 🐛 0 | 🌐 R | 📅 2026-09-17 - Detect and segment individual tree from remotely sensed data.
+* [FORTLS](https://github.com/Molina-Valero/FORTLS) ⭐ 33 | 🐛 0 | 🌐 R | 📅 2026-09-17 - Detect and segment individual tree from remotely sensed data.
 * [CspStandSegmentation](https://github.com/JulFrey/CspStandSegmentation) ⭐ 26 | 🐛 0 | 🌐 R | 📅 2026-05-05 - An R-package for the segmentation of single trees from forest point clouds scanned with terrestrial, mobile or unmanned LiDAR systems.
 * [rTwig](https://github.com/aidanmorales/rTwig) ⭐ 22 | 🐛 2 | 🌐 R | 📅 2026-08-22 - A method for correcting unrealistic cylinders in quantitative structure models (QSMs) due to technical limitations of current LiDAR sensor technology in forestry measurements.
 * [FuelDeep3D](https://github.com/venkatasivanaga/FuelDeep3D) ⭐ 22 | 🐛 0 | 🌐 R | 📅 2026-03-04 - Provides tools for processing, feature extraction, and classification of 3D forest point clouds for fuel assessment application.
@@ -1924,7 +1924,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [DAS4Whales](https://github.com/DAS4Whales/DAS4Whales) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - Python library to analyze Distributed Acoustic Sensing data for marine bioacoustics.
 * [Fisheries Stock Assessment](https://github.com/fishR-Core-Team/FSA) ⭐ 76 | 🐛 2 | 🌐 R | 📅 2026-08-27 - Provides R functions to conduct typical introductory fisheries analyses.
 * [CoralNet](https://github.com/coralnet/coralnet) ⭐ 71 | 🐛 165 | 🌐 Python | 📅 2026-09-01 - A repository and resource for benthic image analysis.
-* [OrcaHello](https://github.com/orcasound/aifororcas-livesystem) ⭐ 59 | 🐛 80 | 🌐 C# | 📅 2026-09-19 - A real-time AI-assisted killer whale notification system.
+* [OrcaHello](https://github.com/orcasound/aifororcas-livesystem) ⭐ 59 | 🐛 79 | 🌐 C# | 📅 2026-09-19 - A real-time AI-assisted killer whale notification system.
 * [CoralNet-Toolbox](https://github.com/Jordan-Pierce/CoralNet-Toolbox) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2026-09-18 - Tools for panoptic segmentation and developing machine learning models for benthic imagery.
 * [Aqualink](https://github.com/aqualinkorg/aqualink-app) ⭐ 50 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-13 - A philanthropically funded system to help people manage their local marine ecosystems in the face of increasing Ocean temperatures.
 * [r4ss](https://github.com/r4ss/r4ss) ⭐ 48 | 🐛 144 | 🌐 R | 📅 2026-09-10 - A fisheries stock assessment model written by Rick Methot.
@@ -1946,10 +1946,10 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [FishGlob\_data](https://github.com/AquaAuma/FishGlob_data) ⭐ 27 | 🐛 3 | 🌐 R | 📅 2026-08-28 - An integrated database of fish biodiversity sampled with scientific bottom trawl survey.
 * [OSMOSE](https://github.com/osmose-model/osmose) ⭐ 26 | 🐛 25 | 🌐 Java | 📅 2026-06-30 - A multispecies and individual-based model which focuses on fish species.
 * [WhaleMap](https://github.com/hansenjohnson/WhaleMap) ⭐ 23 | 🐛 20 | 🌐 R | 📅 2026-08-26 - The goal of this software is to rapidly and effectively collect and share whale survey information within and between research, government, industry, and public sectors.
-* [echoSMs](https://github.com/ices-tools-dev/echoSMs) ⭐ 23 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Making acoustic scattering models available to fisheries and plankton scientists.
+* [echoSMs](https://github.com/ices-tools-dev/echoSMs) ⭐ 23 | 🐛 9 | 🌐 Python | 📅 2026-09-19 - Making acoustic scattering models available to fisheries and plankton scientists.
 * [SSMSE](https://github.com/nmfs-fish-tools/SSMSE) ⭐ 21 | 🐛 29 | 🌐 R | 📅 2026-09-16 - R package for performing Management Strategy Evaluation using Stock Synthesis.
 * [RSP](https://github.com/YuriNiella/RSP) ⭐ 20 | 🐛 8 | 🌐 R | 📅 2025-11-25 - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions.
-* [pacea](https://github.com/pbs-assess/pacea) ⭐ 20 | 🐛 45 | 🌐 HTML | 📅 2026-09-19 - An R package of Pacific ecosystem information to help facilitate an ecosystem approach to fisheries management.
+* [pacea](https://github.com/pbs-assess/pacea) ⭐ 20 | 🐛 45 | 🌐 HTML | 📅 2026-09-20 - An R package of Pacific ecosystem information to help facilitate an ecosystem approach to fisheries management.
 * [frasyr](https://github.com/ichimomo/frasyr) ⭐ 18 | 🐛 59 | 🌐 R | 📅 2026-08-19 - The Japanese Fisheries Research Agency provides the method for calculating sustainable yield with R.
 * [aspe](https://github.com/PascalIrz/aspe) ⭐ 17 | 🐛 3 | 🌐 R | 📅 2026-03-02 - An R package to analyse and visualise river fish data in France.
 * [FLCore](https://github.com/flr/FLCore) ⭐ 17 | 🐛 29 | 🌐 R | 📅 2026-08-19 - Contains the core classes and methods for FLR, a framework for fisheries modelling and management strategy simulation in R.
@@ -1991,14 +1991,14 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools facilitate access and visualize plant databases; provide simulation of ecosystem processes, plant parts, and nutrient uptake; analyze vegetation phenology; and aid plant phenotyping.
 
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 824 | 🐛 79 | 🌐 Python | 📅 2026-09-19 - Plant phenotyping using computer vision.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 826 | 🐛 76 | 🌐 Python | 📅 2026-09-19 - Plant phenotyping using computer vision.
 * [greenR](https://github.com/sachit27/greenR) ⭐ 187 | 🐛 0 | 🌐 R | 📅 2026-05-29 - An R package that enables the quantification, analysis, and visualization of urban greenness within city networks.
 * [Deep Plant Phenomics](https://github.com/p2irc/deepplantphenomics) ⭐ 139 | 🐛 0 | 🌐 Python | 📅 2021-03-05 - A platform for plant phenotyping using deep learning.
-* [Helios](https://github.com/PlantSimulationLab/Helios) ⭐ 103 | 🐛 2 | 🌐 C++ | 📅 2026-09-19 - Generate and manipulate plant and other geometric objects, which can feed into biophysical model plug-ins such as radiation transfer, photosynthesis, and evapotranspiration.
+* [Helios](https://github.com/PlantSimulationLab/Helios) ⭐ 103 | 🐛 2 | 🌐 C++ | 📅 2026-09-20 - Generate and manipulate plant and other geometric objects, which can feed into biophysical model plug-ins such as radiation transfer, photosynthesis, and evapotranspiration.
 * [L-Py](https://github.com/openalea/lpy) ⭐ 97 | 🐛 15 | 🌐 C++ | 📅 2026-06-12 - L-systems were conceived as a mathematical framework for modeling growth of plants.
 * [phenofit](https://github.com/eco-hydro/phenofit/) ⭐ 94 | 🐛 3 | 🌐 R | 📅 2026-07-09 - A state-of-the-art remote sensing vegetation phenology extraction package.
 * [CRootBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) ⭐ 76 | 🐛 3 | 🌐 Python | 📅 2026-09-18 - The focus of CRootBox is the simulation of different types of root architecture, and to provide a generic interface for coupling with arbitrary soil/environmental models, e.g., in order to determine the impact of specific root architectures on function.
-* [plant](https://github.com/traitecoevo/plant) ⭐ 55 | 🐛 92 | 🌐 C++ | 📅 2026-09-09 - A package for modeling forest trait ecology and evolution.
+* [plant](https://github.com/traitecoevo/plant) ⭐ 55 | 🐛 90 | 🌐 C++ | 📅 2026-09-09 - A package for modeling forest trait ecology and evolution.
 * [BioCro](https://github.com/biocro/biocro) ⭐ 52 | 🐛 28 | 🌐 C++ | 📅 2026-09-18 - A model that predicts plant growth over time given crop-specific parameters and environmental data as input.
 * [phenor](https://github.com/bluegreen-labs/phenor) ⭐ 51 | 🐛 4 | 🌐 R | 📅 2026-02-10 - The framework leverages measurements of vegetation phenology from four common phenology observation datasets combined with global retrospective and projected climate data.
 * [RBIEN](https://github.com/bmaitner/RBIEN) ⭐ 49 | 🐛 33 | 🌐 HTML | 📅 2026-04-30 - Tools for accessing the Botanical Information and Ecology Network database.
@@ -2030,7 +2030,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [sdmTMB](https://github.com/pbs-assess/sdmTMB/) ⭐ 256 | 🐛 18 | 🌐 R | 📅 2026-09-01 - An R package that fits spatial and spatiotemporal predictive-processes for species distribution models.
 * [Wallace](https://github.com/wallaceEcoMod/wallace) ⭐ 147 | 🐛 64 | 🌐 R | 📅 2026-05-27 - A modular platform for reproducible modeling of species niches and distributions, written in R.
-* [blockCV](https://github.com/rvalavi/blockCV) ⭐ 145 | 🐛 4 | 🌐 R | 📅 2026-07-27 - Suitable for the evaluation of a variety of spatial modelling applications, including classification of remote sensing imagery, soil mapping, and species distribution modelling.
+* [blockCV](https://github.com/rvalavi/blockCV) ⭐ 146 | 🐛 4 | 🌐 R | 📅 2026-07-27 - Suitable for the evaluation of a variety of spatial modelling applications, including classification of remote sensing imagery, soil mapping, and species distribution modelling.
 * [biomod2](https://github.com/biomodhub/biomod2) ⭐ 127 | 🐛 22 | 🌐 R | 📅 2026-09-14 - A computer platform for ensemble forecasting of species distributions, enabling the treatment of a range of methodological uncertainties in models and the examination of species-environment relationships.
 * [ENMTools](https://github.com/danlwarren/ENMTools) ⭐ 114 | 🐛 44 | 🌐 R | 📅 2026-07-10 - This package implements various tests, visualizations, and metrics for use with environmental niche models (ENMs) and species distribution models (SDMs).
 * [s-jSDM](https://github.com/TheoreticalEcology/s-jSDM) ⭐ 79 | 🐛 57 | 🌐 R | 📅 2026-06-11 - A scalable and fast method for estimating joint Species Distribution Models (jSDMs) for big community data, including eDNA data.
@@ -2060,15 +2060,15 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools aid in population analysis, conservation research, and data processing management, such as facilitating camera trap imagery processing and review, and simulating gene flow between terrestrial communities.
 
 * [MegaDetector](https://github.com/microsoft/CameraTraps/) ⭐ 1,075 | 🐛 34 | 🌐 Python | 📅 2026-08-25 - Deep learning tools that accelerate the review of motion-triggered wildlife camera images.
-* [SpeciesNet](https://github.com/google/cameratrapai) ⭐ 569 | 🐛 5 | 🌐 Python | 📅 2026-09-08 - AI models trained to classify species in images from motion-triggered wildlife cameras.
+* [SpeciesNet](https://github.com/google/cameratrapai) ⭐ 569 | 🐛 6 | 🌐 Python | 📅 2026-09-08 - AI models trained to classify species in images from motion-triggered wildlife cameras.
 * [Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) ⭐ 246 | 🐛 29 | 🌐 Python | 📅 2026-06-10 - Tools for detecting wildlife in aerial images using active learning.
 * [WildlifeDatasets](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 200 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-18 - Pipeline for wildlife re-identification including dataset zoo, training tools and trained models.
-* [EcoAssist](https://github.com/PetervanLunteren/EcoAssist) ⭐ 199 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - An open-source application designed to streamline the work of ecologists dealing with camera trap images.
+* [EcoAssist](https://github.com/PetervanLunteren/EcoAssist) ⭐ 199 | 🐛 1 | 🌐 Python | 📅 2026-09-17 - An open-source application designed to streamline the work of ecologists dealing with camera trap images.
 * [Zamba](https://github.com/drivendataorg/zamba) ⭐ 163 | 🐛 66 | 🌐 Python | 📅 2026-08-04 - A Python package for identifying hundreds of kinds of animals, training custom models, and estimating distance from camera trap videos and images.
 * [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) ⭐ 150 | 🐛 6 | 🌐 Julia | 📅 2026-09-11 - Modeling movement and gene flow of plants and animals, as well as identifying areas important for connectivity conservation.
-* [Wildbook](https://github.com/WildMeOrg/Wildbook) ⭐ 143 | 🐛 214 | 🌐 Java | 📅 2026-09-18 - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
+* [Wildbook](https://github.com/WildMeOrg/Wildbook) ⭐ 143 | 🐛 215 | 🌐 Java | 📅 2026-09-18 - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
 * [WildBook-ia](https://github.com/WildMeOrg/wildbook-ia) ⭐ 99 | 🐛 15 | 🌐 Python | 📅 2026-09-06 -  Builds open software and artificial intelligence for the conservation research community; pairs with the Wildbook project.
-* [PAMGuard](https://github.com/PAMGuard/PAMGuard) ⭐ 71 | 🐛 32 | 🌐 Java | 📅 2026-09-16 - World leading software for the Detection, Classification, and Localisation of marine mammal and other animal sounds.
+* [PAMGuard](https://github.com/PAMGuard/PAMGuard) ⭐ 71 | 🐛 33 | 🌐 Java | 📅 2026-09-16 - World leading software for the Detection, Classification, and Localisation of marine mammal and other animal sounds.
 * [amt](https://github.com/jmsigner/amt) ⭐ 48 | 🐛 14 | 🌐 R | 📅 2026-06-23 - Make handling and analyzing animal telemetry data easier by providing functions that simplify common tasks, such as data filtering, calculation of path characteristics and home ranges, and the preparing data for more complex analyse.
 * [TrapTagger](https://github.com/WildEyeConservation/TrapTagger) ⭐ 45 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-18 - AI-Powered Camera-Trap Imagery Processing.
 * [ecoSecrets](https://github.com/naturalsolutions/ecoSecrets) ⭐ 29 | 🐛 16 | 🌐 TypeScript | 📅 2026-03-25 - An open-source web application that aims to facilitate biodiversity studies that use autonomous data collection devices such as camera traps.
@@ -2094,8 +2094,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools help forecast, simulate, prepare for, manage, and recover from wildfires, and facilitate access to fire data and alerts.
 
 * [WindNinja](https://github.com/firelab/windninja) ⭐ 184 | 🐛 106 | 🌐 C++ | 📅 2026-09-18 - Computes spatially-varying wind fields for wildland fire and other applications requiring high-resolution wind predictions in complex terrain.
-* [ForeFire](https://github.com/forefireAPI/firefront) ⭐ 105 | 🐛 12 | 🌐 C++ | 📅 2026-08-18 - An open-source code for wildland fire spread models.
-* [Cell2Fire](https://github.com/cell2fire/Cell2Fire) ⭐ 83 | 🐛 17 | 🌐 Python | 📅 2026-05-15 - A cell-based forest and wildland landscape fire spread simulator.
+* [ForeFire](https://github.com/forefireAPI/firefront) ⭐ 106 | 🐛 12 | 🌐 C++ | 📅 2026-08-18 - An open-source code for wildland fire spread models.
+* [Cell2Fire](https://github.com/cell2fire/Cell2Fire) ⭐ 84 | 🐛 17 | 🌐 Python | 📅 2026-05-15 - A cell-based forest and wildland landscape fire spread simulator.
 * [ELMFIRE](https://github.com/lautenberger/elmfire) ⭐ 70 | 🐛 8 | 🌐 Fortran | 📅 2026-09-16 - An operational wildland fire spread model.
 * [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) ⭐ 67 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-01-13 - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
 * [Pyrovision](https://github.com/pyronear/pyro-vision) ⚠️ Archived - Computer vision library for wildfire detection.
@@ -2130,7 +2130,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [IceNet](https://github.com/tom-andersson/icenet-paper) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2023-10-10 - Code for Seasonal Arctic sea ice forecasting with probabilistic deep learning.
 * [CICE](https://github.com/CICE-Consortium/CICE) ⭐ 79 | 🐛 95 | 🌐 Fortran | 📅 2026-08-18 - A computationally efficient model for simulating the growth, melting, and movement of polar sea ice.
-* [FESOM2](https://github.com/FESOM/fesom2) ⭐ 69 | 🐛 33 | 🌐 Fortran | 📅 2026-09-18 - Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids.
+* [FESOM2](https://github.com/FESOM/fesom2) ⭐ 69 | 🐛 38 | 🌐 Fortran | 📅 2026-09-20 - Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids.
 * [ClimaOcean.jl](https://github.com/CliMA/ClimaOcean.jl) ⭐ 66 | 🐛 142 | 🌐 Julia | 📅 2026-09-18 - A framework for realistic ocean-only and coupled ocean + sea-ice simulations driven by prescribed atmospheres and based on Oceananigans and ClimaSeaIce.
 * [COSIMA](https://github.com/COSIMA/cosima-recipes) ⭐ 64 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2026-09-08 - Ocean and sea-ice model analysis tools and examples.
 * [Sea ice drift](https://github.com/nansencenter/sea_ice_drift) ⭐ 49 | 🐛 5 | 🌐 Python | 📅 2023-05-24 - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking.
@@ -2151,10 +2151,10 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help model and simulate glacier and ice sheet dynamics, such as velocities, flow, surface areas, concentrations, temperatures, and thicknesses; facilitate access and ease of working with ice data; and map and visualize glaciers and ice sheets regionally and globally.
 
-* [MPAS-Albany](https://github.com/sandialabs/Albany) ⭐ 332 | 🐛 77 | 🌐 C++ | 📅 2026-09-18 - Houses the land-ice component of the U.S. Department of Energy's Energy Exascale Earth System Model known as MPAS-Albany Land Ice.
-* [OGGM](https://github.com/OGGM/oggm) ⭐ 264 | 🐛 249 | 🌐 Python | 📅 2026-09-08 - A modular open source model for glacier dynamics.
+* [MPAS-Albany](https://github.com/sandialabs/Albany) ⭐ 332 | 🐛 76 | 🌐 C++ | 📅 2026-09-20 - Houses the land-ice component of the U.S. Department of Energy's Energy Exascale Earth System Model known as MPAS-Albany Land Ice.
+* [OGGM](https://github.com/OGGM/oggm) ⭐ 264 | 🐛 250 | 🌐 Python | 📅 2026-09-08 - A modular open source model for glacier dynamics.
 * [icepyx](https://github.com/icesat2py/icepyx) ⭐ 259 | 🐛 113 | 🌐 Python | 📅 2026-09-14 - Python tools for obtaining and working with ICESat-2 data.
-* [PISM](https://github.com/pism/pism) ⭐ 123 | 🐛 34 | 🌐 C++ | 📅 2026-09-18 - The Parallel Ice Sheet Model is an open source, parallel, high-resolution ice sheet model.
+* [PISM](https://github.com/pism/pism) ⭐ 123 | 🐛 34 | 🌐 C++ | 📅 2026-09-20 - The Parallel Ice Sheet Model is an open source, parallel, high-resolution ice sheet model.
 * [icepack](https://github.com/icepack/icepack) ⭐ 101 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-01 - A library for modeling the flow of ice sheets and glaciers using the finite element method.
 * [IGM](https://github.com/instructed-glacier-model/igm) ⭐ 93 | 🐛 7 | 🌐 Python | 📅 2026-09-18 - Source code of the Instructed Glacier Model (IGM).
 * [ODINN.jl](https://github.com/ODINN-SciML/ODINN.jl) ⭐ 92 | 🐛 60 | 🌐 Julia | 📅 2026-09-14 - Global glacier model using Universal Differential Equations for climate-glacier interactions.
@@ -2165,7 +2165,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [ITS\_LIVE](https://github.com/nasa-jpl/its_live) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2025-10-09 - Provide automated, low latency, global glacier flow and elevation change datasets.
 * [PyTrx](https://github.com/PennyHow/PyTrx) ⭐ 48 | 🐛 3 | 🌐 Python | 📅 2026-04-15 - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
 * [QGreenland](https://github.com/nsidc/qgreenland) ⭐ 48 | 🐛 93 | 🌐 Python | 📅 2026-04-30 - A free mapping tool to support interdisciplinary Greenland-focused research, teaching, decision making, and collaboration.
-* [ISSM](https://github.com/ISSMteam/ISSM) ⭐ 47 | 🐛 1 | 🌐 C++ | 📅 2026-09-18 - A large-scale thermo-mechanical 2D/3D parallelized multi-purpose finite-element software dedicated to ice sheet and sea-level modeling.
+* [ISSM](https://github.com/ISSMteam/ISSM) ⭐ 47 | 🐛 1 | 🌐 C++ | 📅 2026-09-19 - A large-scale thermo-mechanical 2D/3D parallelized multi-purpose finite-element software dedicated to ice sheet and sea-level modeling.
 * [DeepBedMap](https://github.com/weiji14/deepbedmap) ⭐ 46 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-06-17 - Using a deep neural network to better resolve the bed topography of Antarctica.
 * [ALPGM](https://github.com/JordiBolibar/ALPGM) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2024-11-06 - Regional glacier evolution model based on deep learning and parametrizations.
 * [Glacier Mapping From Satellite Imagery](https://github.com/krisrs1128/glacier_mapping) ⭐ 44 | 🐛 6 | 🌐 Python | 📅 2023-08-14 - Use computer vision to automatically segment debris and ice glaciers from satellite images.
@@ -2181,12 +2181,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [pypromice](https://github.com/GEUS-Glaciology-and-Climate/pypromice) ⭐ 21 | 🐛 39 | 🌐 Python | 📅 2026-09-18 - Deliver data about the mass balance of the Greenland ice sheet in near real-time.
 * [Yelmo](https://github.com/palma-ice/yelmo) ⭐ 20 | 🐛 4 | 🌐 Fortran | 📅 2026-05-17 - A 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system.
 * [freshwater](https://github.com/GEUS-Glaciology-and-Climate/freshwater) ⭐ 19 | 🐛 10 | 🌐 TeX | 📅 2026-07-02 - Greenland liquid water runoff from 1958 through 2019.
-* [Glacier Velocity Tracker](https://github.com/cryologger/glacier-velocity-tracker) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2026-09-18 - A low-cost, open-source glacier velocity measurement system intended for use with Precise Point Positioning techniques.
+* [Glacier Velocity Tracker](https://github.com/cryologger/glacier-velocity-tracker) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2026-09-20 - A low-cost, open-source glacier velocity measurement system intended for use with Precise Point Positioning techniques.
 * [SIS2](https://github.com/NOAA-GFDL/SIS2) ⭐ 16 | 🐛 17 | 🌐 Fortran | 📅 2026-07-27 - Calculates the concentration, thickness, temperature, brine content and snow cover of an arbitrary number of ice thickness categories (including open water) as well as the motion of the complete pack.
 * [Iceberg Tracking Beacon](https://github.com/cryologger/ice-tracking-beacon) ⭐ 10 | 🐛 0 | 🌐 C++ | 📅 2026-09-10 - A low-cost, robust, and user-friendly ice drift tracking beacon based on the open-source electronics Arduino platform capable of providing long-term cryospheric observations.
 * [LIVVkit](https://github.com/LIVVkit/LIVVkit) ⭐ 9 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-21 - The land ice verification and validation toolkit.
 * [GrIML](https://github.com/GEUS-Glaciology-and-Climate/GrIML) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-26 -  Investigating Greenland's ice-marginal lakes under a changing climate.
-* [Iceberg Locations](https://github.com/Joel-hanson/Iceberg-locations) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-09-19 - Antarctic large iceberg positions derived from ASCAT and OSCAT-2.
+* [Iceberg Locations](https://github.com/Joel-hanson/Iceberg-locations) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-09-20 - Antarctic large iceberg positions derived from ASCAT and OSCAT-2.
 * [SICE](https://github.com/GEUS-SICE/SICE) ⭐ 6 | 🐛 18 | 🌐 Shell | 📅 2024-08-16 - An automated open source processing chain to determine daily albedo and other surface properties of glaciated areas.
 * [GlaThiDa](https://gitlab.com/wgms/glathida) - Glacier Thickness Database.
 * [SICOPOLIS](https://gitlab.awi.de/sicopolis/sicopolis) - A 3-d dynamic/thermodynamic model that simulates the evolution of large ice sheets and ice caps.
@@ -2232,11 +2232,11 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [RiverREM](https://github.com/OpenTopography/RiverREM) ⭐ 247 | 🐛 2 | 🌐 Python | 📅 2025-05-16 - Make river relative elevation models and REM visualizations from an input digital elevation model.
 * [WaterDetect](https://github.com/cordmaur/WaterDetect) ⭐ 220 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-05-10 - End-to-end algorithm to generate open water cover mask, specially conceived for L2A Sentinel 2 imagery from MAJA1 processor, without any a priori knowledge on the scene.
 * [ParFlow](https://github.com/parflow/parflow) ⭐ 212 | 🐛 146 | 🌐 C | 📅 2026-09-15 - An open-source, modular, parallel watershed flow model.
-* [HydroShare](https://github.com/hydroshare/hydroshare) ⭐ 199 | 🐛 342 | 🌐 Python | 📅 2026-09-18 - A collaborative website for better access to data and models in the hydrologic sciences.
+* [HydroShare](https://github.com/hydroshare/hydroshare) ⭐ 199 | 🐛 342 | 🌐 Python | 📅 2026-09-20 - A collaborative website for better access to data and models in the hydrologic sciences.
 * [Badlands](https://github.com/badlands-model/badlands) ⭐ 192 | 🐛 10 | 🌐 Python | 📅 2026-05-01 - Basin and Landscape Dynamics is a long-term surface evolution model built to simulate landscape development, sediment transport and sedimentary basins formation from upstream regions down to marine environments.
 * [pyOpenRiverCam](https://github.com/localdevices/pyorc) ⭐ 188 | 🐛 22 | 🌐 Python | 📅 2026-09-17 - Surface velocity, object tracking, and river flow measurements in an open-source API.
 * [Wflow](https://github.com/Deltares/Wflow.jl) ⭐ 164 | 🐛 134 | 🌐 Julia | 📅 2026-09-18 - A Julia package that provides a hydrological modeling framework, as well as several different vertical and lateral concepts that can be used to run hydrological simulations.
-* [PCR-GLOBWB\_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) ⭐ 148 | 🐛 28 | 🌐 Python | 📅 2026-09-14 - A large-scale hydrological model intended for global to regional studies.
+* [PCR-GLOBWB\_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) ⭐ 148 | 🐛 29 | 🌐 Python | 📅 2026-09-14 - A large-scale hydrological model intended for global to regional studies.
 * [LISF](https://github.com/NASA-LIS/LISF) ⭐ 134 | 🐛 96 | 🌐 Fortran | 📅 2026-09-18 - A software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products.
 * [Lekan](https://github.com/vcloarec/ReosProject) ⭐ 120 | 🐛 24 | 🌐 C++ | 📅 2026-09-10 - Provide a software that assists the user doing hydrological and hydraulic studies for flood mapping and forecasting, hydraulic structure design, or other tasks linked to natural surface flow.
 * [HydroMT](https://github.com/Deltares/hydromt) ⭐ 120 | 🐛 125 | 🌐 Python | 📅 2026-09-16 - An open-source Python package that facilitates the process of building and analyzing spatial geoscientific models with a focus on water system model.
@@ -2260,7 +2260,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [Download Water Data](https://github.com/mentaljam/download_water_data) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2023-07-12 - Downloader for the Global Surface Water Data of the Copernicus Programme.
 * [pywatershed](https://github.com/EC-USGS/pywatershed) ⭐ 54 | 🐛 30 | 🌐 Fortran | 📅 2026-09-12 - A sustainable integrated, hydrologic modeling framework for the U.S. Geological Survey.
 * [Centerline-Width](https://github.com/cyschneck/centerline-width) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2026-07-28 - A Python package to find the centerline and width of rivers based on the latitude and longitude of the right and left bank.
-* [Amanzi](https://github.com/amanzi/amanzi) ⭐ 51 | 🐛 103 | 🌐 C++ | 📅 2026-09-17 - Provides a flexible and extensible parallel flow and reactive transport simulation capability for environmental applications.
+* [Amanzi](https://github.com/amanzi/amanzi) ⭐ 51 | 🐛 103 | 🌐 C++ | 📅 2026-09-20 - Provides a flexible and extensible parallel flow and reactive transport simulation capability for environmental applications.
 * [timflow](https://github.com/timflow-org/timflow) ⭐ 51 | 🐛 54 | 🌐 Python | 📅 2026-09-18 - A Python package for the modeling of multi-layer groundwater flow with analytic elements.
 * [HydPy](https://github.com/hydpy-dev/hydpy) ⭐ 50 | 🐛 68 | 🌐 Python | 📅 2026-09-19 - An interactive framework for developing and applying different types of hydrological models, originally developed at the Ruhr-University Bochum for specific research purposes.
 * [HSPsquared](https://github.com/respec/HSPsquared) ⭐ 50 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2026-05-22 - A Python port of the Hydrological Simulation Program - FORTRAN, which has been used worldwide for more than 40 years to support water resources planning and management.
@@ -2270,7 +2270,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [nlmod](https://github.com/gwmod/nlmod) ⭐ 44 | 🐛 73 | 🌐 Python | 📅 2026-09-18 - Python package to build, run and visualize MODFLOW 6 groundwater models in the Netherlands.
 * [The Canadian Hydrological Model](https://github.com/Chrismarsh/CHM) ⭐ 43 | 🐛 26 | 🌐 C++ | 📅 2026-09-03 - A novel modular unstructured mesh based approach for hydrological modelling.
 * [eWaterCycle](https://github.com/eWaterCycle/ewatercycle) ⭐ 41 | 🐛 63 | 🌐 Python | 📅 2026-09-16 - Makes it easier to use hydrological models without having intimate knowledge about how to install and run the models.
-* [imod](https://github.com/Deltares/imod-python) ⭐ 41 | 🐛 191 | 🌐 Python | 📅 2026-09-17 - An open source project to make working with MODFLOW groundwater models in Python easier.
+* [imod](https://github.com/Deltares/imod-python) ⭐ 41 | 🐛 192 | 🌐 Python | 📅 2026-09-20 - An open source project to make working with MODFLOW groundwater models in Python easier.
 * [Raven](https://github.com/Ouranosinc/raven) ⭐ 39 | 🐛 17 | 🌐 Python | 📅 2026-09-19 - Made to help scientists run hydrological modeling experiments with climate change projections.
 * [rabpro](https://github.com/VeinsOfTheEarth/rabpro) ⭐ 38 | 🐛 11 | 🌐 Python | 📅 2026-08-17 - Delineating watershed basins and computing attribute statistics using Google Earth Engine.
 * [Xanthos](https://github.com/JGCRI/xanthos) ⭐ 38 | 🐛 19 | 🌐 Python | 📅 2024-08-15 - An open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.
@@ -2293,7 +2293,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [HydroMap](https://github.com/peterson-tim-j/HydroMap) ⭐ 19 | 🐛 1 | 🌐 R | 📅 2024-02-09 - Mapping of groundwater level for realistic flow flowpaths using semi-automated kriging.
 * [SWIM](https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl) ⭐ 19 | 🐛 1 | 🌐 Julia | 📅 2026-09-15 - An open-source software package for static modeling and prediction of surface water and urban flooding based on analysis of terrain topography.
 * [SWATprepR](https://github.com/biopsichas/SWATprepR) ⭐ 17 | 🐛 1 | 🌐 R | 📅 2025-11-27 - Developed to re-use water and nutrients in small agricultural catchments across different soil-climatic regions in Europe.
-* [basin3d](https://github.com/BASIN-3D/basin3d) ⭐ 17 | 🐛 54 | 🌐 Python | 📅 2026-09-18 - A generalized data synthesis model that applies across a variety of earth science observation types (hydrology, geochemistry, climate etc.).
+* [basin3d](https://github.com/BASIN-3D/basin3d) ⭐ 17 | 🐛 54 | 🌐 Python | 📅 2026-09-19 - A generalized data synthesis model that applies across a variety of earth science observation types (hydrology, geochemistry, climate etc.).
 * [WATex](https://github.com/earthai-tech/watex) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-02-25 - A Python-based library primarily designed for Groundwater Exploration.
 * [LAGOSNE](https://github.com/cont-limno/LAGOSNE) ⭐ 15 | 🐛 3 | 🌐 R | 📅 2026-02-20 - Interface to the LAke multi-scaled GeOSpatial & temporal database.
 * [ReWaterGAP](https://github.com/HydrologyFrankfurt/ReWaterGAP) ⭐ 15 | 🐛 9 | 🌐 Python | 📅 2026-09-16 - A global-scale hydrological simulation software for quantifying water flows and storages on all continents of the Earth.
@@ -2301,7 +2301,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [hydroscoper](https://github.com/ropensci/hydroscoper) ⭐ 13 | 🐛 0 | 🌐 R | 📅 2026-09-19 - An R interface to the Greek National Data Bank for Hydrometeorological Information.
 * [Pywr-DRB](https://github.com/Pywr-DRB/Pywr-DRB) ⭐ 13 | 🐛 10 | 🌐 Python | 📅 2026-08-04 - An open-source Python model for exploring the role of reservoir operations, transbasin diversions, minimum flow targets, and other regulatory rules on water availability and drought risk in the Delaware River Basin.
 * [fwapg](https://github.com/smnorris/fwapg) ⭐ 12 | 🐛 37 | 🌐 PLpgSQL | 📅 2026-07-13 - Extends British Columbia's Freshwater Atlas with PostgreSQL/PostGIS.
-* [fluvgeo](https://github.com/FluvialGeomorph/fluvgeo) ⭐ 12 | 🐛 16 | 🌐 R | 📅 2026-09-18 - An R Package for Performing Fluvial Geomrphology Analysis.
+* [fluvgeo](https://github.com/FluvialGeomorph/fluvgeo) ⭐ 12 | 🐛 16 | 🌐 R | 📅 2026-09-19 - An R Package for Performing Fluvial Geomrphology Analysis.
 * [Groundwater Accounting Platform](https://github.com/esassoc/qanat-community) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-29 - Enables water managers, landowners, and water users to track groundwater availability and usage with user-friendly dashboards and workflows.
 * [RUBEM](https://github.com/LabSid-USP/RUBEM) ⭐ 9 | 🐛 8 | 🌐 Python | 📅 2026-09-19 - A distributed hydrological model to calculate monthly flows with changes in land use over time.
 * [hspfbintoolbox](https://github.com/timcera/hspfbintoolbox) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-21 - A Python script and library of functions to read Hydrological Simulation Program Fortran (HSPF) binary files and print to screen.
@@ -2324,11 +2324,11 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools implement numerical ocean models using physics and fluid dynamics; help interface with ocean modelling tools workflows; and facilitate downloading, reading, and manipulating observed and simulated ocean data.
 
-* [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,412 | 🐛 371 | 🌐 Julia | 📅 2026-09-19 - Fast and friendly fluid dynamics on CPUs and GPUs.
+* [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,413 | 🐛 371 | 🌐 Julia | 📅 2026-09-20 - Fast and friendly fluid dynamics on CPUs and GPUs.
 * [MITgcm](https://github.com/MITgcm/MITgcm) ⭐ 407 | 🐛 154 | 🌐 Fortran | 📅 2026-09-06 - A flexible non-hydrostatic formulation that efficiently simulates fluid phenomena over a wide range of scales.
 * [Veros](https://github.com/team-ocean/veros) ⭐ 400 | 🐛 27 | 🌐 Python | 📅 2026-09-15 - Powerful tool that makes high-performance ocean modeling approachable and fun.
 * [pyroms](https://github.com/ESMG/pyroms) ⭐ 158 | 🐛 28 | 🌐 Python | 📅 2023-12-13 - A collection of tools to process input and output files from the Regional Ocean Modeling System.
-* [ROMS](https://github.com/myroms/roms) ⭐ 143 | 🐛 3 | 🌐 Fortran | 📅 2026-09-18 - A free-surface, terrain-following, primitive equations ocean model widely used by the scientific community for a diverse range of applications.
+* [ROMS](https://github.com/myroms/roms) ⭐ 144 | 🐛 3 | 🌐 Fortran | 📅 2026-09-18 - A free-surface, terrain-following, primitive equations ocean model widely used by the scientific community for a diverse range of applications.
 * [Clawpack](https://github.com/clawpack/geoclaw) ⭐ 92 | 🐛 122 | 🌐 Fortran | 📅 2026-09-14 - 2d depth-averaged shallow water equations for flow over varying topography.
 * [MOM5](https://github.com/mom-ocean/MOM5) ⭐ 89 | 🐛 72 | 🌐 Fortran | 📅 2024-09-17 - A numerical ocean model based on the hydrostatic primitive equations.
 * [Mohid](https://github.com/Mohid-Water-Modelling-System/Mohid) ⭐ 87 | 🐛 13 | 🌐 Fortran | 📅 2026-06-23 - A modular finite volumes water-modeling system written in ANSI-Fortran95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing.
@@ -2345,7 +2345,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CDFTOOLS](https://github.com/meom-group/CDFTOOLS) ⭐ 37 | 🐛 33 | 🌐 Fortran | 📅 2026-05-21 - A Fortran package for analysis and diagnostics on NEMO ocean model output.
 * [SSN2](https://github.com/USEPA/SSN2) ⭐ 26 | 🐛 0 | 🌐 R | 📅 2025-11-13 - An R package for spatial statistical modeling and prediction on stream networks, including models based on in-stream distance.
 * [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) ⭐ 25 | 🐛 39 | 🌐 Fortran | 📅 2026-09-14 - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
-* [MOHID-Lagrangian](https://github.com/Mohid-Water-Modelling-System/MOHID-Lagrangian) ⭐ 25 | 🐛 6 | 🌐 C | 📅 2026-09-15 - Mainly developed for oceanographic and fluvial modeling, application to atmospheric and other planetary settings should be trivial.
+* [MOHID-Lagrangian](https://github.com/Mohid-Water-Modelling-System/MOHID-Lagrangian) ⭐ 25 | 🐛 6 | 🌐 C | 📅 2026-09-20 - Mainly developed for oceanographic and fluvial modeling, application to atmospheric and other planetary settings should be trivial.
 * [xoa](https://github.com/shom-fr/xoa) ⭐ 9 | 🐛 9 | 🌐 Python | 📅 2026-09-17 - Intended to help reading and manipulating observed and simulated ocean data.
 * [SalishSeaNowcast](https://github.com/SalishSeaCast/SalishSeaNowcast) ⭐ 7 | 🐛 31 | 🌐 Python | 📅 2026-09-14 - A collection of Python modules associated with running the SalishSeaCast ocean models system of daily nowcasts and forecasts.
 * [NEMO](https://forge.nemo-ocean.eu/nemo/nemo) - Nucleus for European Modelling of the Ocean is a state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences.
@@ -2360,10 +2360,10 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [leaflet-velocity](https://github.com/onaci/leaflet-velocity) ⭐ 665 | 🐛 27 | 🌐 JavaScript | 📅 2023-10-19 - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
 * [parcels](https://github.com/OceanParcels/parcels) ⭐ 363 | 🐛 113 | 🌐 Python | 📅 2026-09-14 - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
-* [OpenDrift](https://github.com/OpenDrift/opendrift) ⭐ 323 | 🐛 100 | 🌐 Python | 📅 2026-09-11 - A software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
+* [OpenDrift](https://github.com/OpenDrift/opendrift) ⭐ 324 | 🐛 100 | 🌐 Python | 📅 2026-09-11 - A software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
 * [PyFES](https://github.com/CNES/aviso-fes) ⭐ 140 | 🐛 1 | 🌐 C++ | 📅 2026-09-16 - The prediction of tides is based on the principle of harmonic analysis, a method developed into a practical application by Sir William Thomson (Lord Kelvin) around 1867.
+* [wavespectra](https://github.com/wavespectra/wavespectra) ⭐ 109 | 🐛 1 | 🌐 Python | 📅 2026-09-04 - An open source project for working with ocean wave spectral data.
 * [eo-tides](https://github.com/GeoscienceAustralia/eo-tides) ⭐ 109 | 🐛 13 | 🌐 Python | 📅 2026-08-05 - Provides powerful parallelized tools for integrating satellite Earth observation data with tide modelling.
-* [wavespectra](https://github.com/wavespectra/wavespectra) ⭐ 108 | 🐛 1 | 🌐 Python | 📅 2026-09-04 - An open source project for working with ocean wave spectral data.
 * [dorado](https://github.com/passaH2O/dorado) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-07 - Simulating passive Lagrangian particle transport over flow-fields from any 2D shallow-water hydrodynamic model using a weighted random walk methodology.
 * [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) ⭐ 30 | 🐛 24 | 🌐 Julia | 📅 2024-12-04 - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
 * [dnora](https://github.com/MET-OM/dnora) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-08-10 - A software for dynamical downscaling of wave products i.e., NORA3 wave hindcast and WW3 wave forecast from Norwegian Meteorological Institute and ERA5 from ECMWF.
@@ -2407,9 +2407,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CoastSat](https://github.com/kvos/CoastSat) ⭐ 897 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-06-05 - Enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years of publicly available satellite imagery.
 * [HyperCoast](https://github.com/opengeos/HyperCoast) ⭐ 289 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - A Python package for visualizing and analyzing hyperspetral data in coastal regions.
 * [OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D) ⭐ 253 | 🐛 27 | 🌐 MATLAB | 📅 2026-08-18 - Precise distance-based two-dimensional automated mesh generation toolbox intended for coastal ocean/shallow water flow models.
-* [OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD) ⭐ 220 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-21 - A low-cost, open-source CTD designed for budget-restricted scientists, educators, and researchers working in nearshore coastal ecosystems.
-* [COAWST](https://github.com/DOI-USGS/COAWST) ⭐ 156 | 🐛 178 | 🌐 Fortran | 📅 2026-09-15 - Combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts.
-* [REEF3D](https://github.com/REEF3D/REEF3D) ⭐ 130 | 🐛 10 | 🌐 C++ | 📅 2026-09-18 - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
+* [OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD) ⭐ 221 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-21 - A low-cost, open-source CTD designed for budget-restricted scientists, educators, and researchers working in nearshore coastal ecosystems.
+* [COAWST](https://github.com/DOI-USGS/COAWST) ⭐ 158 | 🐛 178 | 🌐 Fortran | 📅 2026-09-15 - Combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts.
+* [REEF3D](https://github.com/REEF3D/REEF3D) ⭐ 130 | 🐛 10 | 🌐 C++ | 📅 2026-09-20 - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
 * [OSMCoastline](https://github.com/osmcode/osmcoastline) ⭐ 125 | 🐛 2 | 🌐 C++ | 📅 2026-09-08 - Extracts the coastline data from an OSM planet file and assembles all the pieces into polygons for use in map renderers.
 * [CoastSeg](https://github.com/SatelliteShorelines/CoastSeg) ⭐ 91 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-18 - An interactive browser-based program that aims to broaden the adoption of satellite-derived shoreline detection and coastal landcover mapping workflows among coastal scientists and coastal resource management practitioners.
 * [Thetis](https://github.com/thetisproject/thetis) ⭐ 82 | 🐛 34 | 🌐 Python | 📅 2026-09-07 - An unstructured grid coastal ocean model built using the Firedrake finite element framework.
@@ -2458,7 +2458,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [OpenDCS](https://github.com/opendcs/opendcs) ⭐ 51 | 🐛 424 | 🌐 Java | 📅 2026-09-18 - Open Data Collection System for Hydro/Meteorologic Data.
 * [hddtools](https://github.com/ropensci/hddtools) ⚠️ Archived - An open source project designed to facilitate access to a variety of online open data sources relevant for hydrologists and, in general, environmental scientists and practitioners.
 * [STOQS](https://github.com/stoqs/stoqs) ⭐ 45 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-06-12 - Geospatial database visualization software for oceanographic measurement data.
-* [Ocean Data and Information System](https://github.com/iodepo/odis-arch) ⭐ 45 | 🐛 282 | 🌐 Jupyter Notebook | 📅 2026-09-13 - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
+* [Ocean Data and Information System](https://github.com/iodepo/odis-arch) ⭐ 45 | 🐛 282 | 🌐 Jupyter Notebook | 📅 2026-09-20 - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
 * [CopernicusMarine](https://github.com/pepijn-devries/CopernicusMarine) ⭐ 38 | 🐛 2 | 🌐 R | 📅 2026-08-31 - Subset and download marine data from the EU Copernicus Marine Service Information to import data on the physical and biogeochemical state of the oceans without the need for external software.
 * [Hydrocron](https://github.com/podaac/hydrocron) ⭐ 35 | 🐛 36 | 🌐 Python | 📅 2026-09-18 - An API that repackages hydrology datasets from the Surface Water and Ocean Topography satellite into formats that make time-series analysis easier.
 * [grundwasser-data](https://github.com/correctiv/grundwasser-data) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-15 - A Germany-wide analysis of groundwater levels between 1990 and 2021.
@@ -2498,9 +2498,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These projects implement atmospheric circulation models, and help simulate various aspects of atmospheric interactions.
 
-* [Aurora](https://github.com/microsoft/aurora) ⭐ 1,016 | 🐛 68 | 🌐 Python | 📅 2026-09-14 - An atmospheric foundation machine learning model initially trained on vast amounts of data to predict atmospheric variables like temperature, which can then be adapted to specialized atmospheric forecasting tasks with relatively little additional data.
-* [Project Horus](https://github.com/projecthorus/radiosonde_auto_rx) ⭐ 612 | 🐛 26 | 🌐 C | 📅 2026-09-19 - A Amateur Radio High Altitude Ballooning project.
-* [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl) ⭐ 569 | 🐛 100 | 🌐 Julia | 📅 2026-09-18 - A global spectral atmospheric model with simple physics which is developed as a research playground with an everything-flexible attitude as long as it is speedy.
+* [Aurora](https://github.com/microsoft/aurora) ⭐ 1,017 | 🐛 68 | 🌐 Python | 📅 2026-09-14 - An atmospheric foundation machine learning model initially trained on vast amounts of data to predict atmospheric variables like temperature, which can then be adapted to specialized atmospheric forecasting tasks with relatively little additional data.
+* [Project Horus](https://github.com/projecthorus/radiosonde_auto_rx) ⭐ 612 | 🐛 27 | 🌐 C | 📅 2026-09-19 - A Amateur Radio High Altitude Ballooning project.
+* [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl) ⭐ 569 | 🐛 104 | 🌐 Julia | 📅 2026-09-18 - A global spectral atmospheric model with simple physics which is developed as a research playground with an everything-flexible attitude as long as it is speedy.
 * [SHARPpy](https://github.com/sharppy/SHARPpy) ⭐ 274 | 🐛 64 | 🌐 Python | 📅 2023-04-07 - A collection of open source sounding and hodograph analysis routines, a sounding plotting package, and an interactive, cross-platform application for analyzing real-time soundings all written in Python.
 * [ACE](https://github.com/ai2cm/ace) ⭐ 242 | 🐛 180 | 🌐 Python | 📅 2026-09-19 - A 200M-parameter, autoregressive machine learning emulator of an existing comprehensive 100-km resolution global atmospheric model.
 * [ACT](https://github.com/ARM-DOE/ACT) ⭐ 190 | 🐛 21 | 🌐 Python | 📅 2026-09-14 - The Atmospheric data Community Toolkit is an open source Python toolkit for working with atmospheric time-series datasets of varying dimensions.
@@ -2510,12 +2510,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) ⭐ 129 | 🐛 112 | 🌐 Julia | 📅 2026-09-19 - A library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools.
 * [FastEddy](https://github.com/NCAR/FastEddy-model) ⭐ 128 | 🐛 5 | 🌐 C | 📅 2026-08-28 - Leverage fast, energy-efficient GPU computing to expand LES use in research and enable microscale and multiscale turbulence-resolving boundary-layer modeling for local weather prediction and practical science and engineering applications.
 * [pyglow](https://github.com/timduly4/pyglow) ⭐ 117 | 🐛 29 | 🌐 Fortran | 📅 2023-05-02 - A Python module that wraps several upper atmosphere climatological models written in FORTRAN.
-* [LROSE](https://github.com/ncar/lrose-core) ⭐ 117 | 🐛 24 | 🌐 C++ | 📅 2026-09-19 - The Lidar Radar Open Software Environment for Atmospheric Science.
-* [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) ⭐ 87 | 🐛 120 | 🌐 Julia | 📅 2026-09-19 - Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.
+* [LROSE](https://github.com/ncar/lrose-core) ⭐ 117 | 🐛 24 | 🌐 C++ | 📅 2026-09-20 - The Lidar Radar Open Software Environment for Atmospheric Science.
+* [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) ⭐ 87 | 🐛 120 | 🌐 Julia | 📅 2026-09-20 - Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.
 * [Mission Support System](https://github.com/Open-MSS/MSS) ⭐ 80 | 🐛 187 | 🌐 Python | 📅 2026-09-16 - A collaboration server to plan atmospheric research flights.
 * [SounderPy](https://github.com/kylejgillett/sounderpy) ⭐ 79 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-09-10 - A Python package that helps you to access and plot vertical profile data for meteorological analysis.
 * [typhon](https://github.com/atmtools/typhon) ⭐ 62 | 🐛 12 | 🌐 Python | 📅 2026-08-11 - A collection of tools for atmospheric research with Python 3.
-* [xinvert](https://github.com/miniufo/xinvert) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2026-09-19 - A Python package to invert or solve many classical problems in atmospheric sciences and physical oceanography.
+* [xinvert](https://github.com/miniufo/xinvert) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2026-09-20 - A Python package to invert or solve many classical problems in atmospheric sciences and physical oceanography.
 * [CIS](https://github.com/cedadev/cis) ⭐ 46 | 🐛 18 | 🌐 Python | 📅 2023-11-02 - An open source command-line tool for easy collocation, visualization, analysis, and comparison of diverse gridded and ungridded datasets used in the atmospheric science.
 * [AtmoRep](https://github.com/clessig/atmorep) ⭐ 44 | 🐛 46 | 🌐 Python | 📅 2025-03-10 - A stochastic model of atmosphere dynamics using large scale representation learning.
 * [WaveBreaking](https://github.com/skaderli/WaveBreaking) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2024-11-25 -  A Python package that provides detection, classification and tracking of Rossby Wave Breaking in weather and climate data.
@@ -2572,7 +2572,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [tobac](https://github.com/tobac-project/tobac) ⭐ 144 | 🐛 79 | 🌐 Python | 📅 2026-09-01 - A Python package for identifiying, tracking and analysing of clouds and other meteorological phenomena in different types of gridded datasets.
 * [PyFLEXTRKR](https://github.com/FlexTRKR/PyFLEXTRKR) ⭐ 112 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A Flexible Feature Tracking Python Software for Convective Cloud Analysis.
 * [F0AM](https://github.com/AirChem/F0AM) ⭐ 84 | 🐛 0 | 🌐 MATLAB | 📅 2025-11-13 - Framework for 0-D Atmospheric Modeling.
-* [AtChem2](https://github.com/AtChem/AtChem2) ⭐ 72 | 🐛 40 | 🌐 Fortran | 📅 2026-02-03 - Primarily designed to use the Master Chemical Mechanism, a near-explicit chemical mechanism which describes the gas-phase oxidation of volatile organic compounds in the lower atmosphere.
+* [AtChem2](https://github.com/AtChem/AtChem2) ⭐ 72 | 🐛 41 | 🌐 Fortran | 📅 2026-02-03 - Primarily designed to use the Master Chemical Mechanism, a near-explicit chemical mechanism which describes the gas-phase oxidation of volatile organic compounds in the lower atmosphere.
 * [CloudMicrophysics.jl](https://github.com/CliMA/CloudMicrophysics.jl) ⭐ 56 | 🐛 38 | 🌐 Julia | 📅 2026-09-18 - Provides a library of cloud microphysics and aerosol parameterizations for the CliMA Earth System Model.
 * [CloudnetPy](https://github.com/actris-cloudnet/cloudnetpy) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2026-09-18 - A Python software designed for producing vertical profiles of cloud properties from ground-based remote sensing measurements.
 * [MONET](https://github.com/noaa-oar-arl/MONET) ⭐ 48 | 🐛 6 | 🌐 Python | 📅 2026-08-13 - An open-source project and Python package that aims to create a common platform for atmospheric composition data analysis for weather and air quality models.
@@ -2584,7 +2584,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CLEO](https://github.com/yoctoyotta1024/CLEO) ⭐ 24 | 🐛 11 | 🌐 C++ | 📅 2026-09-09 - A library for Super-Droplet Model (SDM) cloud microphysics.
 * [MUSICA](https://github.com/NCAR/musica) ⭐ 20 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2026-09-17 - A collection of modeling software, tools, and grids, that allow for robust modeling of chemistry in Earth's atmosphere.
 * [CAMP](https://github.com/open-atmos/camp) ⭐ 19 | 🐛 7 | 🌐 Fortran | 📅 2026-07-13 - Allows a given chemical mechanism to be solved in atmospheric models with different aerosol representations.
-* [APCEMM](https://github.com/MIT-LAE/APCEMM) ⭐ 18 | 🐛 23 | 🌐 C++ | 📅 2026-08-21 - Aims to assess the chemical and microphysical perturbations introduced by a conventional aircraft, equipped with gas turbine engines.
+* [APCEMM](https://github.com/MIT-LAE/APCEMM) ⭐ 19 | 🐛 23 | 🌐 C++ | 📅 2026-08-21 - Aims to assess the chemical and microphysical perturbations introduced by a conventional aircraft, equipped with gas turbine engines.
 * [EUREC4A Intake catalogue](https://github.com/eurec4a/eurec4a-intake) ⭐ 17 | 🐛 13 | 🌐 Python | 📅 2026-08-06 - Access to data from the EUREC4A field campaign, which aims to improve the understanding of the interplay between clouds, convection and circulation and their role in climate change.
 * [Particula](https://github.com/uncscode/particula) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - An Python-based aerosol simulator. Particula captures gas-particle interactions, transformations, and dynamics to power predictive aerosol science.
 * [dwarf-p-cloudsc](https://github.com/ecmwf-ifs/dwarf-p-cloudsc) ⭐ 11 | 🐛 9 | 🌐 Fortran | 📅 2026-09-02 - Standalone mini-app of the ECMWF cloud microphysics parameterization.
@@ -2598,26 +2598,26 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help forecast and model meteorological phenomena; visualize and display meteorological data; and run diagnostics and verifications for weather models.
 
-* [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,431 | 🐛 109 | 🌐 Kotlin | 📅 2026-09-13 - A feature-rich weather app with good visualizations and more than 50 sources.
-* [GraphCast](https://github.com/google-deepmind/graphcast) ⭐ 7,682 | 🐛 79 | 🌐 Python | 📅 2026-09-04 - Learning skillful medium-range global weather forecasting.
-* [Open-Meteo](https://github.com/open-meteo/open-meteo) ⭐ 6,217 | 🐛 141 | 🌐 Swift | 📅 2026-09-18 - Global weather API for non-commercial use with hourly weather forecast.
-* [WRF-ARW](https://github.com/wrf-model/WRF) ⭐ 1,763 | 🐛 216 | 🌐 Fortran | 📅 2026-09-09 - The official repository for the Weather Research and Forecasting model.
+* [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,442 | 🐛 112 | 🌐 Kotlin | 📅 2026-09-19 - A feature-rich weather app with good visualizations and more than 50 sources.
+* [GraphCast](https://github.com/google-deepmind/graphcast) ⭐ 7,683 | 🐛 79 | 🌐 Python | 📅 2026-09-04 - Learning skillful medium-range global weather forecasting.
+* [Open-Meteo](https://github.com/open-meteo/open-meteo) ⭐ 6,222 | 🐛 142 | 🌐 Swift | 📅 2026-09-20 - Global weather API for non-commercial use with hourly weather forecast.
+* [WRF-ARW](https://github.com/wrf-model/WRF) ⭐ 1,764 | 🐛 216 | 🌐 Fortran | 📅 2026-09-09 - The official repository for the Weather Research and Forecasting model.
 * [MetPy](https://github.com/Unidata/MetPy) ⭐ 1,442 | 🐛 381 | 🌐 Python | 📅 2026-09-14 - A collection of tools in Python for reading, visualizing and performing calculations with weather data.
-* [Herbie](https://github.com/blaylockbk/Herbie) ⭐ 790 | 🐛 104 | 🌐 Python | 📅 2026-09-15 - A Python package that downloads recent and archived numerical weather prediction model output from different cloud archive sources.
+* [Herbie](https://github.com/blaylockbk/Herbie) ⭐ 790 | 🐛 104 | 🌐 Python | 📅 2026-09-20 - A Python package that downloads recent and archived numerical weather prediction model output from different cloud archive sources.
 * [WeatherBench 2](https://github.com/google-research/weatherbench2) ⭐ 637 | 🐛 87 | 🌐 Python | 📅 2026-09-10 - A framework for evaluating and comparing data-driven and traditional numerical weather forecasting models.
 * [Py-ART](https://github.com/ARM-DOE/pyart) ⭐ 601 | 🐛 48 | 🌐 Python | 📅 2026-09-17 - A data model driven interactive toolkit for working with weather radar data.
 * [wrf-python](https://github.com/NCAR/wrf-python) ⭐ 498 | 🐛 71 | 🌐 Python | 📅 2026-08-03 - A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting Model.
 * [wetterdienst](https://github.com/earthobservations/wetterdienst) ⭐ 455 | 🐛 26 | 🌐 Python | 📅 2026-09-18 - Trying to make access to weather data in Python feel like a warm summer breeze.
-* [PyCINRAD](https://github.com/CyanideCN/PyCINRAD) ⭐ 438 | 🐛 14 | 🌐 Python | 📅 2026-06-26 - Decode CINRAD (China New Generation Weather Radar) data and visualize.
+* [PyCINRAD](https://github.com/CyanideCN/PyCINRAD) ⭐ 439 | 🐛 14 | 🌐 Python | 📅 2026-06-26 - Decode CINRAD (China New Generation Weather Radar) data and visualize.
 * [brightsky](https://github.com/jdemaeyer/brightsky) ⭐ 420 | 🐛 33 | 🌐 Python | 📅 2026-04-27 - A JSON API for Germany's meteorological service as part of their Open Data program.
 * [OpenCastKit](https://github.com/HFAiLab/OpenCastKit) ⭐ 384 | 🐛 25 | 🌐 Python | 📅 2023-04-18 - Open-source solutions of global data-driven high-resolution weather forecasting.
 * [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) ⭐ 381 | 🐛 0 | 🌐 Java | 📅 2026-09-19 - GIS and scientific computation environment for meteorological community.
 * [windrose](https://github.com/python-windrose/windrose) ⭐ 360 | 🐛 26 | 🌐 Python | 📅 2026-09-14 - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
-* [dwd\_weather](https://github.com/FL550/dwd_weather) ⭐ 356 | 🐛 9 | 🌐 Python | 📅 2026-09-18 - Deutscher Wetterdienst integration for Home-Assistant.
+* [dwd\_weather](https://github.com/FL550/dwd_weather) ⭐ 357 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - Deutscher Wetterdienst integration for Home-Assistant.
 * [wradlib](https://github.com/wradlib/wradlib) ⭐ 319 | 🐛 7 | 🌐 Python | 📅 2026-09-03 - Designed to assist you in the most important steps of processing weather radar data.
-* [MetNet](https://github.com/openclimatefix/metnet) ⭐ 305 | 🐛 35 | 🌐 Python | 📅 2026-09-14 - A neural network that forecasts precipitation up to 8 hours into the future at the high spatial resolution of 1 km² and at the temporal resolution of 2 minutes with a latency in the order of second.
 * [Graph Weather](https://github.com/openclimatefix/graph_weather) ⭐ 305 | 🐛 101 | 🌐 Python | 📅 2026-09-14 - Data-driven approach for forecasting global weather using graph neural network.
-* [Neural-LAM](https://github.com/mllam/neural-lam) ⭐ 294 | 🐛 134 | 🌐 Python | 📅 2026-09-17 - A repository of graph-based neural weather prediction models for Limited Area Modeling.
+* [MetNet](https://github.com/openclimatefix/metnet) ⭐ 304 | 🐛 35 | 🌐 Python | 📅 2026-09-14 - A neural network that forecasts precipitation up to 8 hours into the future at the high spatial resolution of 1 km² and at the temporal resolution of 2 minutes with a latency in the order of second.
+* [Neural-LAM](https://github.com/mllam/neural-lam) ⭐ 294 | 🐛 135 | 🌐 Python | 📅 2026-09-17 - A repository of graph-based neural weather prediction models for Limited Area Modeling.
 * [eccodes](https://github.com/ecmwf/eccodes) ⭐ 268 | 🐛 24 | 🌐 C++ | 📅 2026-09-18 -  The primary GRIB encoding/decoding package used at European Centre for Medium-Range Weather Forecasts used in meteorology to store historical and forecast weather data.
 * [Skyrim](https://github.com/secondlaw-ai/skyrim) ⭐ 255 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-04-05 - Allows you to run any large weather model with a consumer grade GPU.
 * [stationaRy](https://github.com/rich-iannone/stationaRy) ⭐ 251 | 🐛 4 | 🌐 R | 📅 2021-07-07 - Get hourly meteorological data from one of thousands of global stations.
@@ -2629,10 +2629,10 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [WeatherLayers GL](https://github.com/weatherlayers/weatherlayers-gl) ⭐ 161 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-14 - Weather Visualization Layers and Controls for deck.gl.
 * [metR](https://github.com/eliocamp/metR) ⭐ 158 | 🐛 21 | 🌐 R | 📅 2026-05-18 - Several functions and utilities that make R better for handling meteorological data in the tidy data paradigm.
 * [Metview Python bindings](https://github.com/ecmwf/metview-python) ⭐ 147 | 🐛 23 | 🌐 Python | 📅 2026-07-02 - Python interface to Metview, a meteorological workstation and batch system for accessing, examining, manipulating and visualising meteorological data.
-* [WeatherGenerator](https://github.com/ecmwf/WeatherGenerator) ⭐ 142 | 🐛 597 | 🌐 Python | 📅 2026-09-19 - A machine learning-based Earth system models that is trained on a wide range of datasets, including reanalyses, forecast data and observations, to provide a robust and versatile model for the dynamics.
+* [WeatherGenerator](https://github.com/ecmwf/WeatherGenerator) ⭐ 142 | 🐛 597 | 🌐 Python | 📅 2026-09-20 - A machine learning-based Earth system models that is trained on a wide range of datasets, including reanalyses, forecast data and observations, to provide a robust and versatile model for the dynamics.
 * [xradar](https://github.com/openradar/xradar) ⭐ 140 | 🐛 51 | 🌐 Python | 📅 2026-09-01 - A tool to work in weather radar data in xarray.
 * [IMPROVER](https://github.com/metoppv/improver) ⭐ 128 | 🐛 65 | 🌐 Python | 📅 2026-09-19 - A library of algorithms for meteorological post-processing and verification.
-* [Extreme Weather Bench](https://github.com/brightbandtech/ExtremeWeatherBench) ⭐ 126 | 🐛 21 | 🌐 Python | 📅 2026-09-10 - Builds on the successful work of WeatherBench and introduces a set of high-impact weather events, spanning across multiple spatial and temporal scales and different parts of the weather spectrum.
+* [Extreme Weather Bench](https://github.com/brightbandtech/ExtremeWeatherBench) ⭐ 126 | 🐛 21 | 🌐 Python | 📅 2026-09-20 - Builds on the successful work of WeatherBench and introduces a set of high-impact weather events, spanning across multiple spatial and temporal scales and different parts of the weather spectrum.
 * [METplus](https://github.com/dtcenter/METplus) ⭐ 121 | 🐛 156 | 🌐 Python | 📅 2026-09-18 - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
 * [CRA5](https://github.com/taohan10200/CRA5) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2024-10-19 - Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer.
 * [weathercan](https://github.com/ropensci/weathercan) ⭐ 118 | 🐛 6 | 🌐 R | 📅 2026-08-31 - This package makes it easier to search for and download multiple months/years of historical weather data from the Environment and Climate Change Canada (ECCC) website.
@@ -2641,7 +2641,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CREDIT](https://github.com/NCAR/miles-credit) ⭐ 104 | 🐛 41 | 🌐 Python | 📅 2026-09-15 - An open software platform to train and deploy AI atmospheric prediction model.
 * [Verif](https://github.com/WFRT/verif) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2026-06-30 - A command-line tool that lets you verify the quality of weather forecasts for point locations.
 * [StationBench](https://github.com/juaAI/stationbench) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2025-07-01 - A Python library for benchmarking weather forecasts against weather station data. It provides tools to calculate metrics, visualize results, and compare different forecast models.
-* [Weather Stations](https://github.com/meteostat/weather-stations) ⭐ 85 | 🐛 11 | 🌐 Python | 📅 2026-09-13 - A list of public weather stations everyone can edit and share.
+* [Weather Stations](https://github.com/meteostat/weather-stations) ⭐ 85 | 🐛 11 | 🌐 Python | 📅 2026-09-20 - A list of public weather stations everyone can edit and share.
 * [GEMPAK](https://github.com/Unidata/gempak) ⭐ 83 | 🐛 50 | 🌐 C | 📅 2026-07-01 - Analysis and product generation for meteorological data.
 * [rdwd](https://github.com/brry/rdwd) ⭐ 80 | 🐛 1 | 🌐 R | 📅 2026-07-05 - An R package to select, download and read climate data from the German Weather Service.
 * [PostWRF](https://github.com/anikfal/PostWRF) ⭐ 77 | 🐛 6 | 🌐 NCL | 📅 2025-11-03 - Visualization and postprocessing of the WRF and ERA5 data.
@@ -2654,7 +2654,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [riem](https://github.com/ropensci/riem) ⭐ 47 | 🐛 4 | 🌐 R | 📅 2025-10-21 - Allows to get weather data from ASOS airports stations all around the globe.
 * [imdlib](https://github.com/iamsaswata/imdlib) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2026-09-17 - Download and handle binary grided data from Indian Meterological department.
 * [forest](https://github.com/MetOffice/forest) ⚠️ Archived - Forecast and Observation Research and Evaluation Survey Tool.
-* [reformatters](https://github.com/dynamical-org/reformatters) ⭐ 40 | 🐛 33 | 🌐 Python | 📅 2026-09-19 - Reformat weather datasets into Zarr.
+* [reformatters](https://github.com/dynamical-org/reformatters) ⭐ 40 | 🐛 32 | 🌐 Python | 📅 2026-09-19 - Reformat weather datasets into Zarr.
 * [MEWS](https://github.com/sandialabs/MEWS) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2026-05-05 - A Python package designed to add extreme weather events to existing weather data or projections.
 * [flux-data-qaqc](https://github.com/Open-ET/flux-data-qaqc) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-07-23 - Provides a framework to create reproducible workflows for validation and analysis of eddy covariance data.
 * [ClimWeb](https://github.com/wmo-raf/climweb) ⭐ 37 | 🐛 34 | 🌐 Python | 📅 2026-09-19 - Wagtail based Open Source Content Management System for National Meteorological and Hydrological Services in Africa.
@@ -2683,13 +2683,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help model and solve for radiative transfer, including solar and thermal radiation, radiative fluxes, and general circulation models.
 
-* [radis](https://github.com/radis/radis) ⭐ 280 | 🐛 66 | 🌐 Python | 📅 2026-09-09 - A fast line-by-line code for high-resolution infrared molecular spectra.
+* [radis](https://github.com/radis/radis) ⭐ 281 | 🐛 66 | 🌐 Python | 📅 2026-09-09 - A fast line-by-line code for high-resolution infrared molecular spectra.
 * [Py6S](https://github.com/robintw/Py6S) ⭐ 223 | 🐛 18 | 🌐 Python | 📅 2025-10-22 - A Python interface to the 6S Radiative Transfer Model.
 * [lowtran](https://github.com/space-physics/lowtran) ⭐ 118 | 🐛 8 | 🌐 Python | 📅 2024-12-19 - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
 * [LBLRTM](https://github.com/AER-RC/LBLRTM) ⭐ 102 | 🐛 57 | 🌐 Fortran | 📅 2024-12-03 - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
 * [Eradiate](https://github.com/eradiate/eradiate) ⭐ 97 | 🐛 8 | 🌐 Python | 📅 2026-09-16 - A next-generation radiative transfer model for Earth observation applications.
 * [ARTS](https://github.com/atmtools/arts) ⭐ 94 | 🐛 12 | 🌐 C++ | 📅 2026-09-18 - A radiative transfer model for the millimeter and sub-millimeter spectral range.
-* [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) ⭐ 90 | 🐛 12 | 🌐 Fortran | 📅 2026-08-31 - A set of codes for computing radiative fluxes in planetary atmospheres.
+* [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) ⭐ 89 | 🐛 12 | 🌐 Fortran | 📅 2026-08-31 - A set of codes for computing radiative fluxes in planetary atmospheres.
 * [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl) ⭐ 69 | 🐛 3 | 🌐 Julia | 📅 2026-09-14 - A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.
 * [vSmartMOM.jl](https://github.com/RemoteSensingTools/vSmartMOM.jl) ⭐ 58 | 🐛 13 | 🌐 Julia | 📅 2026-09-09 - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
 * [ECRAD](https://github.com/ecmwf-ifs/ecrad) ⭐ 53 | 🐛 18 | 🌐 Fortran | 📅 2026-09-15 - A radiation scheme suitable for use in atmospheric weather and climate models.
@@ -2697,7 +2697,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [PAMTRA](https://github.com/igmk/pamtra) ⭐ 26 | 🐛 11 | 🌐 Fortran | 📅 2026-09-01 - Solve the passive and active microwave radiative transfer in a plan parallel horizontally homogeneous atmosphere with hydrometeors.
 * [pyOSOAA](https://github.com/fnemina/pyOSOAA) ⭐ 25 | 🐛 22 | 🌐 Python | 📅 2026-01-27 - A Python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 * [konrad](https://github.com/atmtools/konrad) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - A one-dimensional radiative-convective equilibrium model.
-* [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) ⭐ 16 | 🐛 2 | 🌐 C | 📅 2026-09-17 - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
+* [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) ⭐ 16 | 🐛 2 | 🌐 C | 📅 2026-09-20 - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
 * [RT1](https://github.com/TUW-GEO/rt1) ⭐ 16 | 🐛 10 | 🌐 Python | 📅 2024-02-23 - A first order radiative transfer model for soil- and vegetation related parameter retrievals from radar-data.
 * [SASKTRAN2](https://github.com/usask-arg/sasktran2) ⭐ 5 | 🐛 11 | 🌐 C++ | 📅 2026-09-16 -  A user-friendly atmospheric radiative transfer model from the University of Saskatchewan, redesigned for efficient hyperspectral calculations and full weighting function support.
 * [reflective-potential](https://github.com/ReflectiveEarth/reflective-potential) ⭐ 4 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-06-30 - An empirical analysis of Earth's annual-average surface reflectivity potential.
@@ -2715,14 +2715,14 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools enable the building, execution, and scientific interpretation of Earth and climate models.
 
 * [Earth2Studio](https://github.com/NVIDIA/earth2studio) ⭐ 1,138 | 🐛 42 | 🌐 Python | 📅 2026-09-19 - A Python-based package designed to get users up and running with AI weather and climate models fast. Our mission is to enable everyone to build, research and explore AI driven meteorology.
-* [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,036 | 🐛 302 | 🌐 Python | 📅 2026-09-17 -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
+* [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,036 | 🐛 308 | 🌐 Python | 📅 2026-09-17 -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
 * [NeuralGCM](https://github.com/google-research/neuralgcm) ⭐ 1,018 | 🐛 67 | 🌐 Python | 📅 2026-09-09 - A package for building hybrid ML+Physics atmospheric models for weather and climate simulations.
 * [pangeo](https://github.com/pangeo-data/pangeo) ⭐ 718 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-09-03 - A community platform for Big Data geoscience.
-* [ClimaX](https://github.com/microsoft/climax) ⭐ 708 | 🐛 12 | 🌐 Python | 📅 2023-09-30 - The first foundation model for weather and climate science.
+* [ClimaX](https://github.com/microsoft/climax) ⭐ 707 | 🐛 12 | 🌐 Python | 📅 2023-09-30 - The first foundation model for weather and climate science.
 * [The Community Earth System Model](https://github.com/ESCOMP/CESM) ⭐ 491 | 🐛 42 | 🌐 Python | 📅 2026-09-18 - Composed of separate models simultaneously simulating the Earth's atmosphere, ocean, land, river run-off, land-ice, and sea-ice, plus one central coupler/moderator component, it allows researchers to conduct fundamental research into the Earth's past, present, and future climate states.
 * [Earthformer](https://github.com/amazon-science/earth-forecasting-transformer) ⭐ 469 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16 - A space-time Transformer for Earth system forecasting that applies Deep Learning for various Earth system forecasting task.
-* [SCREAM](https://github.com/E3SM-Project/E3SM/tree/master/components/eamxx) ⭐ 441 | 🐛 650 | 🌐 Fortran | 📅 2026-09-19 - A global atmosphere model targeted towards 3 km ('cloud resolving') resolution.
-* [E3SM](https://github.com/E3SM-Project/E3SM) ⭐ 441 | 🐛 650 | 🌐 Fortran | 📅 2026-09-19 - A state-of-the-art fully coupled model of the Earth's climate including important biogeochemical and cryospheric processes.
+* [SCREAM](https://github.com/E3SM-Project/E3SM/tree/master/components/eamxx) ⭐ 441 | 🐛 649 | 🌐 Fortran | 📅 2026-09-20 - A global atmosphere model targeted towards 3 km ('cloud resolving') resolution.
+* [E3SM](https://github.com/E3SM-Project/E3SM) ⭐ 441 | 🐛 649 | 🌐 Fortran | 📅 2026-09-20 - A state-of-the-art fully coupled model of the Earth's climate including important biogeochemical and cryospheric processes.
 * [CTSM](https://github.com/escomp/ctsm) ⭐ 352 | 🐛 1,015 | 🌐 Fortran | 📅 2026-09-18 - The Community Land Model is the land model for the Community Earth System Model, which formalises and quantifies concepts of ecological climatology.
 * [Dinosaur](https://github.com/google-research/dinosaur) ⭐ 336 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-08 - A spectral dynamical core for global atmospheric modeling written in JAX.
 * [MPAS](https://github.com/MPAS-Dev/MPAS-Model) ⭐ 314 | 🐛 188 | 🌐 Fortran | 📅 2026-09-14 - The Model for Prediction Across Scales is a collaborative project for developing atmosphere, ocean, and other earth-system simulation components for use in climate, regional climate, and weather studies.
@@ -2735,7 +2735,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CliMT](https://github.com/CliMT/climt) ⭐ 184 | 🐛 40 | 🌐 Fortran | 📅 2026-08-18 - A Toolkit for building Earth system models in Python.
 * [CMIP6\_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs) ⭐ 184 | 🐛 10 | 🌐 Python | 📅 2026-09-10 - Core Controlled Vocabularies for use in CMIP6.
 * [FAIR](https://github.com/OMS-NetZero/FAIR) ⭐ 161 | 🐛 31 | 🌐 Python | 📅 2026-08-27 - Finite Amplitude Impulse-Response simple climate-carbon-cycle model.
-* [atlas](https://github.com/ecmwf/atlas) ⭐ 152 | 🐛 26 | 🌐 C++ | 📅 2026-09-18 - A library for numerical weather prediction and climate modeling.
+* [atlas](https://github.com/ecmwf/atlas) ⭐ 152 | 🐛 27 | 🌐 C++ | 📅 2026-09-20 - A library for numerical weather prediction and climate modeling.
 * [Pangeo Docker Images](https://github.com/pangeo-data/pangeo-docker-images) ⭐ 140 | 🐛 34 | 🌐 Dockerfile | 📅 2026-08-24 - The images defined in this repository capture reproducible computing environments used by Pangeo Cloud.
 * [PCMDI Metrics Package](https://github.com/PCMDI/pcmdi_metrics) ⭐ 133 | 🐛 40 | 🌐 Python | 📅 2026-09-18 - Open-source Python package for Systematic Evaluation of Climate and Earth System Models.
 * [ClimODE](https://github.com/Aalto-QuML/ClimODE) ⭐ 129 | 🐛 10 | 🌐 Python | 📅 2025-03-18 - Models precise weather evolution with value-conserving dynamics, learning global weather transport as a neural flow, which also enables estimating the uncertainty in predictions.
@@ -2747,7 +2747,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [global-workflow](https://github.com/NOAA-EMC/global-workflow) ⭐ 101 | 🐛 235 | 🌐 Shell | 📅 2026-09-18 - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
 * [gospl](https://github.com/Geodels/gospl) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2026-08-22 - Global Scalable Paleo Landscape Evolution Model is an library providing a scalable parallelised Python-based numerical model to simulate landscapes and basins reconstruction at global scale.
 * [Urban Weather Generator](https://github.com/ladybug-tools/uwg) ⭐ 85 | 🐛 27 | 🌐 Python | 📅 2024-10-15 - A Python application for modeling the urban heat island effect.
-* [uDALES](https://github.com/uDALES/u-dales) ⭐ 84 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Large-eddy-simulation software for urban flow, dispersion and microclimate modelling.
+* [uDALES](https://github.com/uDALES/u-dales) ⭐ 84 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2026-09-20 - Large-eddy-simulation software for urban flow, dispersion and microclimate modelling.
 * [MDTF-diagnostics](https://github.com/NOAA-GFDL/MDTF-diagnostics) ⭐ 80 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2026-09-18 - Analysis framework and collection of process-oriented diagnostics for weather and climate simulations.
 * [DALES](https://github.com/dalesteam/dales) ⭐ 78 | 🐛 29 | 🌐 Fortran | 📅 2026-09-11 - Dutch Atmospheric Large-Eddy Simulation model.
 * [RegCM](https://github.com/ICTP/RegCM) ⭐ 73 | 🐛 37 | 🌐 Fortran | 📅 2026-09-17 -  This Regional Climate Model can be applied to any region of the World, with grid spacing of up to about 3 km, and for a wide range of studies, from process studies to paleoclimate and future climate simulation.
@@ -2765,12 +2765,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2021-11-15 - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
 * [MESMER](https://github.com/MESMER-group/mesmer) ⭐ 37 | 🐛 49 | 🌐 Python | 📅 2026-09-08 - Stochastically creates Earth System Model-specific spatio-temporally correlated climate variable field realizations at a negligible computational cost.
 * [CMEPS](https://github.com/ESCOMP/CMEPS) ⭐ 36 | 🐛 118 | 🌐 Fortran | 📅 2026-09-18 - The Community Mediator for Earth Prediction Systems (CMEPS) is a NUOPC-compliant Mediator component used for coupling Earth system model component.
-* [XRO](https://github.com/senclimate/XRO) ⭐ 35 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-28 - An eXtended nonlinear Recharge Oscillator model for El Niño-Southern Oscillation (ENSO) and other modes of variability in the global ocean.
-* [SUEWS](https://github.com/UMEP-dev/SUEWS) ⭐ 31 | 🐛 77 | 🌐 Python | 📅 2026-09-19 - Surface Urban Energy and Water Balance Scheme.
+* [XRO](https://github.com/senclimate/XRO) ⭐ 36 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-28 - An eXtended nonlinear Recharge Oscillator model for El Niño-Southern Oscillation (ENSO) and other modes of variability in the global ocean.
+* [SUEWS](https://github.com/UMEP-dev/SUEWS) ⭐ 31 | 🐛 78 | 🌐 Python | 📅 2026-09-20 - Surface Urban Energy and Water Balance Scheme.
 * [The Global Environmental Multiscale Model](https://github.com/ECCC-ASTD-MRD/gem) ⭐ 28 | 🐛 6 | 🌐 Fortran | 📅 2026-09-16 - An integrated forecasting and data assimilation system developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada.
 * [ClimKern](https://github.com/tyfolino/climkern) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-06-13 - This kernels refer to datasets containing the radiative sensitivities of TOA (or surface) radiation to changes in fields such as temperature, specific humidity, and surface albedo.
 * [TSMP](https://github.com/HPSCTerrSys/TSMP) ⭐ 26 | 🐛 4 | 🌐 Fortran | 📅 2026-07-29 - An open source scale-consistent, highly modular, massively parallel regional Earth system model.
-* [CLIMBER-X](https://github.com/cxesmc/climber-x) ⭐ 25 | 🐛 5 | 🌐 Fortran | 📅 2026-09-19 - A comprehensive fast Earth System Model, designed to simulate the evolution of the Earth system on time scales ranging from decades to glacial-interglacial cycles.
+* [CLIMBER-X](https://github.com/cxesmc/climber-x) ⭐ 25 | 🐛 4 | 🌐 Fortran | 📅 2026-09-20 - A comprehensive fast Earth System Model, designed to simulate the evolution of the Earth system on time scales ranging from decades to glacial-interglacial cycles.
 * [ciceroscm](https://github.com/ciceroOslo/ciceroscm) ⭐ 24 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-06-10 - Python version of the CICERO-SCM simple climate model/emulator.
 * [LCZ4r](https://github.com/ByMaxAnjos/LCZ4r) ⭐ 23 | 🐛 2 | 🌐 HTML | 📅 2026-09-18 - An R Package for Local Climate Zones and Urban Heat Island Analysis.
 * [swell](https://github.com/GEOS-ESM/swell) ⭐ 18 | 🐛 129 | 🌐 Python | 📅 2026-09-18 - Used to generate experiments using the JEDI data assimilation system and NASA's Goddard Earth Observing System (GEOS) numerical weather forecast mode.
@@ -2788,9 +2788,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools facilitate projects to be climate data compliant, such as following the conventions of Climate and Forecast (CF) and the Unidata network Common Data Form (netCDF).
 
-* [xarray](https://github.com/pydata/xarray) ⭐ 4,199 | 🐛 1,448 | 🌐 Python | 📅 2026-09-16 - An open source project and Python package that introduces labels in the form of dimensions, coordinates, and attributes on top of raw NumPy-like arrays, which allows for more intuitive, more concise, and less error-prone user experience.
-* [Zarr](https://github.com/zarr-developers/zarr-python) ⭐ 2,056 | 🐛 518 | 🌐 Python | 📅 2026-09-17 -  Provides an efficient, scalable, and flexible way to store and access large, multi-dimensional arrays, the core data format used in climate models and observational datasets.
-* [netcdf-python](https://github.com/Unidata/netcdf4-python) ⭐ 837 | 🐛 156 | 🌐 Cython | 📅 2026-09-16 - The Unidata network Common Data Form (netCDF) in Python is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface.
+* [xarray](https://github.com/pydata/xarray) ⭐ 4,199 | 🐛 1,450 | 🌐 Python | 📅 2026-09-16 - An open source project and Python package that introduces labels in the form of dimensions, coordinates, and attributes on top of raw NumPy-like arrays, which allows for more intuitive, more concise, and less error-prone user experience.
+* [Zarr](https://github.com/zarr-developers/zarr-python) ⭐ 2,057 | 🐛 521 | 🌐 Python | 📅 2026-09-20 -  Provides an efficient, scalable, and flexible way to store and access large, multi-dimensional arrays, the core data format used in climate models and observational datasets.
+* [netcdf-python](https://github.com/Unidata/netcdf4-python) ⭐ 838 | 🐛 156 | 🌐 Cython | 📅 2026-09-16 - The Unidata network Common Data Form (netCDF) in Python is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface.
 * [icechunk](https://github.com/earth-mover/icechunk) ⭐ 685 | 🐛 280 | 🌐 Rust | 📅 2026-09-19 - An open-source transactional storage engine for tensor / ND-array data designed for use on cloud object storage.
 * [netcdf-c](https://github.com/Unidata/netcdf-c) ⭐ 604 | 🐛 286 | 🌐 C | 📅 2026-09-17 - The Unidata network Common Data Form (netCDF) in C is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface.
 * [kerchunk](https://github.com/fsspec/kerchunk) ⭐ 366 | 🐛 131 | 🌐 Python | 📅 2026-09-15 - A library that provides a unified way to represent a variety of chunked, compressed data formats (e.g. NetCDF, HDF5, GRIB), allowing efficient access to the data from traditional file systems or cloud object storage.
@@ -2813,7 +2813,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools facilitate access to climate datasets, for instance by providing programmatic interfaces for regional and national data sources.
 
 * [Meteostat Python](https://github.com/meteostat/meteostat-python) ⭐ 664 | 🐛 16 | 🌐 Python | 📅 2026-09-17 - Access and analyze historical weather and climate data with Python.
-* [Analysis-Ready, Cloud Optimized ERA5](https://github.com/google-research/arco-era5) ⭐ 503 | 🐛 22 | 🌐 Python | 📅 2026-09-17 - A global history of the climate highly accessible in the cloud.
+* [Analysis-Ready, Cloud Optimized ERA5](https://github.com/google-research/arco-era5) ⭐ 504 | 🐛 22 | 🌐 Python | 📅 2026-09-17 - A global history of the climate highly accessible in the cloud.
 * [climetlab](https://github.com/ecmwf/climetlab) ⭐ 390 | 🐛 12 | 🌐 Python | 📅 2024-11-13 - A Python package aiming at simplifying access to climate and meteorological datasets, allowing users to focus on science instead of technical issues such as data access and data formats.
 * [ClimateLearn](https://github.com/aditya-grover/climate-learn) ⭐ 354 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-16 - A Python library for accessing state-of-the-art climate data and machine learning models in a standardized, straightforward way.
 * [rnoaa](https://github.com/ropensci/rnoaa) ⭐ 342 | 🐛 28 | 🌐 R | 📅 2025-02-04 - An R interface to many National Oceanic and Atmospheric Administration data sources.
@@ -2848,7 +2848,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CMIP7 Data Request Software](https://github.com/CMIP-Data-Request/CMIP7_DReq_Software) ⭐ 22 | 🐛 25 | 🌐 Python | 📅 2026-09-15 - Quick user guide for python software to interact with the CMIP7 data request.
 * [rsoi](https://github.com/boshek/rsoi) ⭐ 18 | 🐛 4 | 🌐 R | 📅 2026-05-20 - An R package to download the most up to date climate indices.
 * [HadCRUT5](https://github.com/madrisan/HadCRUT5) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-09-19 - Visualize the HadCRUT5 temperature, a gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period.
-* [amadeus](https://github.com/NIEHS/amadeus) ⭐ 16 | 🐛 43 | 🌐 R | 📅 2026-09-19 - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
+* [amadeus](https://github.com/NIEHS/amadeus) ⭐ 16 | 🐛 43 | 🌐 R | 📅 2026-09-20 - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
 * [ACCESS-NRI Intake Catalog](https://github.com/ACCESS-NRI/access-nri-intake-catalog) ⭐ 14 | 🐛 59 | 🌐 Python | 📅 2026-09-18 - Aims to provide a way for Python users to discover and load data across a broad range of climate data products available on the Australian NCI supercomputer Gadi.
 * [loadeR](https://github.com/SantanderMetGroup/loadeR) ⭐ 13 | 🐛 38 | 🌐 R | 📅 2026-07-01 - An R package for climate data access building on the NetCDF-Java API.
 * [ClimateSERVpy](https://github.com/SERVIR/ClimateSERVpy) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2024-09-09 - Enables access to the ClimateSERV API where many types of climate data can be subset by area of interest, and time range, then either downloaded as tif, or NetCDf files, or the data can be statistically processed to render json values or csv.
@@ -2871,12 +2871,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [Iris](https://github.com/SciTools/iris) ⭐ 724 | 🐛 256 | 🌐 Python | 📅 2026-09-19 - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
 * [cfgrib](https://github.com/ecmwf/cfgrib) ⭐ 463 | 🐛 112 | 🌐 Python | 📅 2026-07-08 - A Python interface to map GRIB files to the NetCDF Common Data Model following the CF Convention using ecCodes.
-* [Climate\_Indices](https://github.com/monocongo/climate_indices) ⭐ 408 | 🐛 144 | 🌐 Python | 📅 2026-09-19 - Contains Python implementations of various climate index algorithms which provide a geographical and temporal picture of the severity of precipitation and temperature anomalies useful for climate monitoring and research.
+* [Climate\_Indices](https://github.com/monocongo/climate_indices) ⭐ 409 | 🐛 145 | 🌐 Python | 📅 2026-09-19 - Contains Python implementations of various climate index algorithms which provide a geographical and temporal picture of the severity of precipitation and temperature anomalies useful for climate monitoring and research.
 * [xclim](https://github.com/Ouranosinc/xclim) ⭐ 404 | 🐛 43 | 🌐 Python | 📅 2026-09-18 - A library of derived climate variables, i.e. climate indicators, based on xarray.
 * [Cylc](https://github.com/cylc/cylc-flow) ⭐ 381 | 🐛 626 | 🌐 Python | 📅 2026-09-18 - A general purpose workflow engine that also manages cycling systems very efficiently, used in production weather, climate, and environmental forecasting on HPC, but is not specialized to those domains.
 * [earthkit](https://github.com/ecmwf/earthkit) ⭐ 313 | 🐛 11 | 🌐 Python | 📅 2026-09-10 - A project led by ECMWF, providing powerful tools for speeding up weather and climate science workflows by simplifying data access, processing, analysis, visualisation and much more.
 * [NCL](https://github.com/NCAR/ncl) ⭐ 276 | 🐛 140 | 🌐 C | 📅 2025-11-24 - The NCAR Command Language is a scripting language for the analysis and visualization of climate and weather data.
-* [climpred](https://github.com/pangeo-data/climpred) ⭐ 259 | 🐛 12 | 🌐 Python | 📅 2026-09-19 - Aims to be the primary package used to analyze output from initialized dynamical forecast models, ranging from short-term weather forecasts to long-term climate forecasts.
+* [climpred](https://github.com/pangeo-data/climpred) ⭐ 259 | 🐛 13 | 🌐 Python | 📅 2026-09-20 - Aims to be the primary package used to analyze output from initialized dynamical forecast models, ranging from short-term weather forecasts to long-term climate forecasts.
 * [xgcm](https://github.com/xgcm/xgcm) ⭐ 255 | 🐛 80 | 🌐 Python | 📅 2026-09-14 - A Python package for analyzing general circulation model output data.
 * [weather-tools](https://github.com/google/weather-tools) ⭐ 252 | 🐛 98 | 🌐 Python | 📅 2026-09-10 - A series of command-line tools to make common data engineering tasks easier for researchers in climate and weather.
 * [xskillscore](https://github.com/xarray-contrib/xskillscore) ⭐ 243 | 🐛 55 | 🌐 Python | 📅 2026-09-18 - An open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
@@ -2908,7 +2908,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [climpact](https://github.com/ARCCSS-extremes/climpact) ⭐ 59 | 🐛 34 | 🌐 R | 📅 2026-09-18 - Calculate the ET-SCI climate extremes indices.
 * [w2w](https://github.com/matthiasdemuzere/w2w) ⭐ 49 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-07 - A WUDAPT-to-WRF Python tool that injects World Urban Database and Access Portal Tools (WUDAPT)'s  Local Climate Zone information into WRF.
 * [hn2016\_falwa](https://github.com/csyhuang/hn2016_falwa) ⭐ 49 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-14 - A Python library for computing Finite-Amplitude Local Wave Activity from climate data.
-* [epwshiftr](https://github.com/ideas-lab-nus/epwshiftr) ⭐ 45 | 🐛 1 | 🌐 R | 📅 2026-09-15 - Create future EnergyPlus Weather files using CMIP6 data.
+* [epwshiftr](https://github.com/ideas-lab-nus/epwshiftr) ⭐ 45 | 🐛 1 | 🌐 R | 📅 2026-09-20 - Create future EnergyPlus Weather files using CMIP6 data.
 * [weatherOz](https://github.com/DPIRD-FSI/weatherOz) ⭐ 39 | 🐛 2 | 🌐 R | 📅 2026-04-09 - Aims to facilitate access and download weather and climate data for Australia from Australian data sources.
 * [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) ⭐ 38 | 🐛 22 | 🌐 Julia | 📅 2026-02-24 - A Julia package offering basic functionality for analyzing data that are typically in the form used by climate sciences.
 * [Climakitae](https://github.com/cal-adapt/climakitae) ⭐ 37 | 🐛 8 | 🌐 Python | 📅 2026-09-18 - Enable a transition from climate vulnerability assessments to decision support for investor-owned utilities and other stakeholders.
@@ -2924,7 +2924,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CLIMaCCF](https://github.com/dlr-pa/climaccf) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2025-06-20 - Provide an open-source, easy-to-use, and flexible software tool that efficiently calculates spatially and temporally resolved climate impact of aviation emissions by using algorithmic climate change functions.
 * [s2spy](https://github.com/AI4S2S/s2spy) ⭐ 22 | 🐛 16 | 🌐 Python | 📅 2024-10-09 - A high-level Python package integrating expert knowledge and artificial intelligence to boost (sub) seasonal forecasting.
 * [geomet-climate](https://github.com/ECCC-CCCS/geomet-climate) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - Geospatial web services for Canadian climate data.
-* [CHAP](https://github.com/dhis2/chap-core) ⭐ 21 | 🐛 24 | 🌐 Python | 📅 2026-09-19 - Designed to be used by researchers and public health professionals to forecast and assess the impact of climate on health outcomes.
+* [CHAP](https://github.com/dhis2/chap-core) ⭐ 21 | 🐛 25 | 🌐 Python | 📅 2026-09-20 - Designed to be used by researchers and public health professionals to forecast and assess the impact of climate on health outcomes.
 * [ccvi-data](https://github.com/ccew-unibw/ccvi-data) ⭐ 20 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-09-17 - Establish a scientifically informed tool that enables policymakers and researchers to assess and map current global risks to human security arising from climate and conflict hazards, their intersections and the potential for harmful interactions.
 * [Miranda](https://github.com/Ouranosinc/miranda) ⭐ 19 | 🐛 18 | 🌐 Python | 📅 2026-09-17 - A modern Python utility library for climate data collection and management.
 * [xscen](https://github.com/Ouranosinc/xscen) ⭐ 19 | 🐛 46 | 🌐 Python | 📅 2026-09-18 - A climate change scenario-building analysis framework, built with Intake-esm catalogs and xarray-based packages such as xclim and xESMF.
@@ -2952,7 +2952,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help perform climate downscaling through a diverse set of methods from statistics to deep learning.
 
-* [cmip6-downscaling](https://github.com/carbonplan/cmip6-downscaling) ⭐ 213 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2026-06-24 - Climate downscaling using CMIP6 data.
+* [cmip6-downscaling](https://github.com/carbonplan/cmip6-downscaling) ⭐ 214 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2026-06-24 - Climate downscaling using CMIP6 data.
 * [scikit-downscale](https://github.com/pangeo-data/scikit-downscale) ⭐ 196 | 🐛 13 | 🌐 Python | 📅 2026-07-06 - Statistical downscaling and postprocessing models for climate and weather model simulations.
 * [downscaleCMIP6](https://github.com/ClimateImpactLab/downscaleCMIP6) ⭐ 153 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-05-28 - Global Downscaled Projections for Climate Impacts Research.
 * [climate4R](https://github.com/SantanderMetGroup/climate4R) ⭐ 143 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2025-11-05 - A bundle of R packages for transparent climate data access, post-processing (including data collocation and bias correction / downscaling) and visualization.
@@ -2973,9 +2973,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools forecast, simulate, and estimate the impact from natural hazards, such as floods, hurricanes, and tropical cyclones, and help design risk reduction strategies.
 
-* [CLIMADA](https://github.com/CLIMADA-project/climada_python) ⭐ 473 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Stands for CLIMate ADAptation and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
-* [OpenQuake](https://github.com/gem/oq-engine) ⭐ 448 | 🐛 51 | 🌐 Python | 📅 2026-09-19 - Allows users to compute seismic hazard and seismic risk of earthquakes on a global scale.
-* [InaSAFE](https://github.com/inasafe/inasafe) ⭐ 283 | 🐛 239 | 🌐 Python | 📅 2025-05-21 - QGIS plugin for estimating impact from natural disasters.
+* [CLIMADA](https://github.com/CLIMADA-project/climada_python) ⭐ 474 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Stands for CLIMate ADAptation and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
+* [OpenQuake](https://github.com/gem/oq-engine) ⭐ 450 | 🐛 51 | 🌐 Python | 📅 2026-09-19 - Allows users to compute seismic hazard and seismic risk of earthquakes on a global scale.
+* [InaSAFE](https://github.com/inasafe/inasafe) ⭐ 284 | 🐛 239 | 🌐 Python | 📅 2025-05-21 - QGIS plugin for estimating impact from natural disasters.
 * [ANUGA](https://github.com/GeoscienceAustralia/anuga_core) ⭐ 229 | 🐛 69 | 🌐 Python | 📅 2026-08-31 - Simulation of the shallow water equation, in particular it can be used to model tsunamis and floods.
 * [FLOODPY](https://github.com/kleok/FLOODPY) ⭐ 210 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-10-26 - A free and open-source Python toolbox for mapping of floodwater.
 * [HYDRAFloods](https://github.com/Servir-Mekong/hydra-floods) ⭐ 187 | 🐛 14 | 🌐 Python | 📅 2025-07-18 - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
@@ -2988,7 +2988,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [CaMa](https://github.com/global-hydrodynamics/CaMa-Flood_v4) ⭐ 115 | 🐛 3 | 🌐 Fortran | 📅 2026-09-08 - Designed to simulate the hydrodynamics in continental-scale rivers.
 * [Tropical Cyclone Risk Model](https://github.com/GeoscienceAustralia/tcrm) ⭐ 100 | 🐛 44 | 🌐 Python | 📅 2026-08-03 - A statistical-parametric model for assessing wind hazard from tropical cyclones.
 * [tcpyPI](https://github.com/dgilford/tcpyPI) ⭐ 90 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-04 - A set of scripts and notebooks that compute and validate tropical cyclone (TC) potential intensity (PI) calculations in Python.
-* [SFINCS](https://github.com/Deltares/SFINCS) ⭐ 87 | 🐛 44 | 🌐 Fortran | 📅 2026-09-19 - Super-fast modelling of dynamic compound flooding in Coastal Systems.
+* [SFINCS](https://github.com/Deltares/SFINCS) ⭐ 87 | 🐛 44 | 🌐 Fortran | 📅 2026-09-20 - Super-fast modelling of dynamic compound flooding in Coastal Systems.
 * [Kuro Siwo](https://github.com/Orion-AI-Lab/KuroSiwo) ⭐ 86 | 🐛 9 | 🌐 Python | 📅 2026-07-16 - A meticulously curated multi-temporal dataset spanning 32 global flood events, mapping over 63 billion areas of land.
 * [ADCIRC](https://github.com/adcirc/adcirc) ⭐ 85 | 🐛 82 | 🌐 Fortran | 📅 2026-08-31 - A system of computer programs for solving time-dependent, free-surface circulation and transport problems in two and three dimensions in applications such as storm surge and flood prediction.
 * [SynxFlow](https://github.com/SynxFlow/SynxFlow) ⭐ 85 | 🐛 9 | 🌐 C++ | 📅 2026-05-16 - Dynamically simulate flood inundation, landslides runout and debris flows using multiple CUDA-enabled GPUs.
@@ -3004,7 +3004,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [BG\_Flood](https://github.com/CyprienBosserelle/BG_Flood) ⭐ 52 | 🐛 25 | 🌐 HTML | 📅 2026-09-18 - The model is designed to simulate flood/inundation caused by tsunami, river, rain, tide or storm surge (from wind stress or atm pressure differential) or any combination of these.
 * [Intensity duration frequency analysis](https://github.com/MarkusPic/intensity_duration_frequency_analysis) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2026-02-18 - Reads the measurement data of the rainfall and calculates the distribution of the rainfall as a function of the return period and the duration for duration steps up to 12 hours.
 * [ThinkHazard!](https://github.com/GFDRR/thinkhazard) ⭐ 47 | 🐛 27 | 🌐 Python | 📅 2026-09-18 - Provides a general view of the hazards, for a given location, that should be considered in project design and implementation to promote disaster and climate resilience.
-* [ASGS](https://github.com/StormSurgeLive/asgs) ⭐ 44 | 🐛 178 | 🌐 Fortran | 📅 2026-09-17 - Provides software infrastructure for automating coastal ocean modelling for real time hurricane decision support.
+* [ASGS](https://github.com/StormSurgeLive/asgs) ⭐ 44 | 🐛 178 | 🌐 Fortran | 📅 2026-09-20 - Provides software infrastructure for automating coastal ocean modelling for real time hurricane decision support.
 * [TATHU](https://github.com/uba/tathu) ⭐ 42 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-31 - A Python package for tracking and analyzing the life cycle of thunderstorms.
 * [Flood Mapping](https://github.com/mikejohnson51/FloodMapping) ⭐ 39 | 🐛 4 | 🌐 R | 📅 2021-04-05 - Flood forecasting via the National Water Model.
 * [CanFlood](https://github.com/NRCan/CanFlood) ⭐ 33 | 🐛 25 | 🌐 Python | 📅 2026-01-22 - Flood Risk modelling toolbox for Canada.
@@ -3045,16 +3045,16 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [pyam](https://github.com/IAMconsortium/pyam) ⭐ 289 | 🐛 105 | 🌐 Python | 📅 2026-09-08 - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
 * [MESSAGEix](https://github.com/iiasa/message_ix) ⭐ 150 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2026-09-18 - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 * [LPJmL](https://github.com/PIK-LPJmL/LPJmL) ⭐ 98 | 🐛 3 | 🌐 C | 📅 2026-09-01 - Designed to simulate the global terrestrial carbon cycle and the response of carbon and vegetation patterns under climate change.
-* [SDEverywhere](https://github.com/climateinteractive/SDEverywhere) ⭐ 88 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-18 - The framework for system dynamics models created for the global climate simulator En-ROADS, the climate policy simulator C-ROADS and the Energy Policy Simulator.
+* [SDEverywhere](https://github.com/climateinteractive/SDEverywhere) ⭐ 88 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-20 - The framework for system dynamics models created for the global climate simulator En-ROADS, the climate policy simulator C-ROADS and the Energy Policy Simulator.
 * [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) ⭐ 75 | 🐛 24 | 🌐 Julia | 📅 2024-05-25 - Aims to provide a modern framework to investigate integrated assessment models of sustainable development, based on current software engineering and scientific machine learning techniques.
 * [ipcc\_sr15\_scenario\_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) ⭐ 68 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2020-09-12 - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
 * [GCAM-China](https://github.com/umd-cgs/gcam-china) ⭐ 66 | 🐛 2 | 🌐 R | 📅 2026-04-09 - The Global Change Analysis Model with China provincial-level details.
 * [AI for Global Climate Cooperation](https://github.com/mila-iqia/climate-cooperation-competition) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-08-19 - Modeling global cooperation in the RICE-N Integrated Assessment Model.
 * [ixmp](https://github.com/iiasa/ixmp) ⭐ 39 | 🐛 74 | 🌐 Python | 📅 2026-09-16 - A data warehouse for high-powered scenario analysis, with interfaces to Python and R for efficient scientific workflows and effective data pre- and post-processing, and a structured database backend for version-controlled data management.
-* [MESSAGEix-GLOBIOM](https://github.com/iiasa/message-ix-models) ⭐ 32 | 🐛 152 | 🌐 Python | 📅 2026-09-19 - Integrated assessment modelling for long-term climate and energy transition scenarios.
+* [MESSAGEix-GLOBIOM](https://github.com/iiasa/message-ix-models) ⭐ 32 | 🐛 152 | 🌐 Python | 📅 2026-09-20 - Integrated assessment modelling for long-term climate and energy transition scenarios.
 * [AeroMAPS](https://github.com/AeroMAPS/AeroMAPS) ⭐ 29 | 🐛 28 | 🌐 Python | 📅 2026-09-09 - A simplified sectoral Integrated Assessment Model (IAM) focusing on air transport transition, aiming at assessing the sustainability of air transport transition scenarios on multiple criteria.
 * [nomenclature](https://github.com/IAMconsortium/nomenclature) ⭐ 24 | 🐛 55 | 🌐 Python | 📅 2026-09-16 - Allows managing definitions of data structures for model comparison projects and scenario analysis studies using the data format developed by the Integrated Assessment Modeling Consortium.
-* [Future Technology Transformation](https://github.com/cpmodel/FTT_StandAlone) ⭐ 21 | 🐛 29 | 🌐 Python | 📅 2026-09-16 - Integrated assessment model with a realistic treatment of technology diffusion.
+* [Future Technology Transformation](https://github.com/cpmodel/FTT_StandAlone) ⭐ 21 | 🐛 30 | 🌐 Python | 📅 2026-09-20 - Integrated assessment model with a realistic treatment of technology diffusion.
 * [DICE.jl](https://github.com/Libbum/DICE.jl) ⭐ 19 | 🐛 9 | 🌐 Julia | 📅 2022-04-04 - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
 * [META 2021](https://github.com/openmodels/META-2021) ⭐ 18 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-04-28 - Advanced integrated assessment model (SC-IAM), designed as a model-based meta-analysis of the effects of tipping points on the social cost of carbon.
 * [MimiGIVE.jl](https://github.com/rffscghg/MimiGIVE.jl) ⭐ 13 | 🐛 16 | 🌐 Julia | 📅 2026-09-19 - This package holds the scripts to run the GIVE integrated assessment model.
@@ -3090,7 +3090,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [airqmon](https://github.com/jsynowiec/airqmon) ⭐ 100 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-18 - A macOS menu bar application that displays live air quality data from the nearest sensor station.
 * [OpenAQ Data Ingest Pipeline](https://github.com/openaq/openaq-fetch) ⭐ 92 | 🐛 121 | 🌐 JavaScript | 📅 2026-08-24 - A tool to collect data for OpenAQ platform.
 * [Ozone3](https://github.com/Ozon3Org/Ozon3) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2024-03-18 - An open-source package to easily obtain real-time, historical, or forecasted air quality data for anywhere in the world.
-* [inmap](https://github.com/spatialmodel/inmap) ⭐ 73 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-09-19 - A multi-scale emissions-to-health impact model for fine particulate matter (PM2.5) that mechanistically evaluates air quality and health benefits of perturbations to baseline emissions.
+* [inmap](https://github.com/spatialmodel/inmap) ⭐ 73 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-09-20 - A multi-scale emissions-to-health impact model for fine particulate matter (PM2.5) that mechanistically evaluates air quality and health benefits of perturbations to baseline emissions.
 * [OpenAQ API Version 2](https://github.com/openaq/openaq-api-v2) ⭐ 68 | 🐛 15 | 🌐 Python | 📅 2026-05-22 - A web-accessible API that provides endpoints to query the real-time and historical air quality measurements on the platform.
 * [AirCasting](https://github.com/HabitatMap/AirCasting) ⭐ 64 | 🐛 33 | 🌐 Ruby | 📅 2026-09-18 - The project aims to build a platform for gathering, visualization and sharing of environmental data.
 * [SMOKE](https://github.com/CEMPD/SMOKE) ⭐ 56 | 🐛 16 | 🌐 Fortran | 📅 2026-09-10 - Create emissions inputs for multiple air quality modeling systems with unmatched speed and flexibility.
@@ -3103,7 +3103,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [qualR](https://github.com/ropensci/qualR) ⭐ 27 | 🐛 9 | 🌐 R | 📅 2026-05-24 - Download of air pollutants and meteorological information from CETESB QUALAR System for São Paulo, and MonitorAr Program, for Rio de Janeiro.
 * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-09-03 - A suite of software designed to facilitate the analysis and evaluation of predictions from meteorological and air quality models.
 * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 4 | 🌐 R | 📅 2026-09-18 - Retrieve data from the United States Environmental Protection Agency's Air Quality Systems.
-* [AirQo](https://github.com/airqo-platform/AirQo-api) ⭐ 26 | 🐛 133 | 🌐 JavaScript | 📅 2026-09-19 - Develop hardware and software tools to help deliver Clean Air for All African Cities.
+* [AirQo](https://github.com/airqo-platform/AirQo-api) ⭐ 26 | 🐛 133 | 🌐 JavaScript | 📅 2026-09-20 - Develop hardware and software tools to help deliver Clean Air for All African Cities.
 * [rdefra](https://github.com/ropensci/rdefra) ⚠️ Archived - Interact with the UK AIR Pollution Database from DEFRA.
 * [airQualityMeter](https://github.com/rpanfili/airQualityMeter) ⭐ 19 | 🐛 3 | 🌐 C++ | 📅 2020-02-19 - Detects air particulate matter (PM - pm1, pm2.5, pm10) concentrations and sends data to an MQTT server.
 * [Smart Citizen Data](https://github.com/fablabbcn/smartcitizen-data) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2026-08-03 - A python package for analyzing environmental sensor's data.
@@ -3130,13 +3130,13 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 * [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) ⭐ 1,205 | 🐛 175 | 🌐 Rust | 📅 2026-05-26 - WhiteboxTools is an advanced geospatial data analysis platform.
 * [pysheds](https://github.com/mdbartos/pysheds) ⭐ 902 | 🐛 59 | 🌐 Python | 📅 2026-09-02 - Simple and fast watershed delineation in Python.
-* [flopy](https://github.com/modflowpy/flopy) ⭐ 630 | 🐛 58 | 🌐 Python | 📅 2026-09-18 - A Python package to create, run, and post-process MODFLOW-based models.
+* [flopy](https://github.com/modflowpy/flopy) ⭐ 631 | 🐛 58 | 🌐 Python | 📅 2026-09-18 - A Python package to create, run, and post-process MODFLOW-based models.
 * [pySTEPS](https://github.com/pySTEPS/pysteps) ⭐ 587 | 🐛 77 | 🌐 Python | 📅 2026-09-15 - An open-source and community-driven Python library for probabilistic precipitation nowcasting, i.e. short-term ensemble prediction systems.
 * [Water Network Tool for Resilience](https://github.com/USEPA/WNTR) ⭐ 462 | 🐛 29 | 🌐 Python | 📅 2026-09-08 - A Python package designed to simulate and analyze resilience of water distribution networks.
 * [EPANET](https://github.com/OpenWaterAnalytics/EPANET) ⭐ 417 | 🐛 46 | 🌐 C | 📅 2026-08-27 - The Water Distribution System Hydraulic and Water Quality Analysis Toolkit.
 * [pyswmm](https://github.com/pyswmm/pyswmm) ⭐ 381 | 🐛 14 | 🌐 Python | 📅 2026-03-04 - Python Wrapper for Stormwater Management Model.
-* [modflow6](https://github.com/MODFLOW-USGS/modflow6) ⭐ 376 | 🐛 100 | 🌐 Fortran | 📅 2026-09-19 - Has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow.
-* [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) ⭐ 360 | 🐛 62 | 🌐 C | 📅 2025-05-01 - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
+* [modflow6](https://github.com/MODFLOW-USGS/modflow6) ⭐ 376 | 🐛 96 | 🌐 Fortran | 📅 2026-09-19 - Has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow.
+* [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) ⭐ 361 | 🐛 62 | 🌐 C | 📅 2025-05-01 - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
 * [dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) ⭐ 331 | 🐛 7 | 🌐 R | 📅 2026-09-09 - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data and metadata directly from web services.
 * [dataretrieval-python](https://github.com/DOI-USGS/dataretrieval-python) ⭐ 266 | 🐛 30 | 🌐 Python | 📅 2026-09-14 - A Python alternative to USGS-R's dataRetrieval package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.
 * [Pywr](https://github.com/pywr/pywr) ⭐ 192 | 🐛 145 | 🌐 Python | 📅 2026-07-23 - Simulates customisable water allocation and operation rules throughout complex multi-purpose managed water systems at each user-defined time-step.
@@ -3148,7 +3148,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [SPEI](https://github.com/sbegueria/SPEI) ⭐ 107 | 🐛 33 | 🌐 R | 📅 2025-11-24 - Computing the Standardized Precipitation-Evapotranspiration Index and other reference evapotranspiration.
 * [WaterTAP](https://github.com/watertap-org/watertap) ⭐ 107 | 🐛 142 | 🌐 Python | 📅 2026-09-17 - Create an open-source water treatment model library that is compatible with the IDAES Platform.
 * [EGRET](https://github.com/DOI-USGS/EGRET) ⭐ 101 | 🐛 9 | 🌐 R | 📅 2026-07-31 - An R package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season.
-* [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) ⭐ 99 | 🐛 8 | 🌐 C | 📅 2026-05-26 - KnowFlow Automatic Water Monitoring device is an open source tool enabling everyone to have access to first hand water quality data with low cost.
+* [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) ⭐ 100 | 🐛 8 | 🌐 C | 📅 2026-05-26 - KnowFlow Automatic Water Monitoring device is an open source tool enabling everyone to have access to first hand water quality data with low cost.
 * [PCRaster](https://github.com/pcraster/pcraster) ⭐ 99 | 🐛 84 | 🌐 C++ | 📅 2026-09-16 - A collection of tools and software libraries tailored to the construction of spatio-temporal environmental models.
 * [CWatM](https://github.com/iiasa/CWatM) ⭐ 99 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-14 - Assess water supply, water demand and environmental needs at global and regional level.
 * [Next Gen Water Modeling Framework](https://github.com/NOAA-OWP/ngen) ⭐ 97 | 🐛 204 | 🌐 C++ | 📅 2026-09-03 - This framework includes an encapsulation strategy which focuses on the hydrologic data first, and then builds a functional abstraction of hydrologic behavior.
@@ -3159,7 +3159,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [EPyT](https://github.com/OpenWaterAnalytics/EPyT) ⭐ 79 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-04 - A Common programming framework for research and development in the growing field of smart water networks.
 * [WaterModels.jl](https://github.com/lanl-ansi/WaterModels.jl) ⭐ 77 | 🐛 13 | 🌐 Julia | 📅 2025-04-11 - Designed to enable computational evaluation of historical and emerging water network formulations and algorithms using a common platform.
 * [PooPyLab\_Project](https://github.com/toogad/PooPyLab_Project) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2025-09-07 - A biological wastewater treatment software.
-* [TADA](https://github.com/USEPA/TADA) ⭐ 76 | 🐛 155 | 🌐 R | 📅 2026-09-19 - Help developers compile and evaluate water quality data for samples collected from surface water monitoring sites on streams and lakes.
+* [TADA](https://github.com/USEPA/TADA) ⭐ 76 | 🐛 155 | 🌐 R | 📅 2026-09-20 - Help developers compile and evaluate water quality data for samples collected from surface water monitoring sites on streams and lakes.
 * [HydroFunctions](https://github.com/mroberge/hydrofunctions) ⭐ 72 | 🐛 10 | 🌐 Python | 📅 2024-01-22 - A suite of convenience functions for working with hydrology data in an interactive Python session.
 * [EPANET-RTX Library](https://github.com/OpenWaterAnalytics/epanet-rtx) ⭐ 67 | 🐛 22 | 🌐 C++ | 📅 2026-04-22 - The real-time extension to the EPANET Hydraulic Toolkit.
 * [AquaSat](https://github.com/GlobalHydrologyLab/AquaSat) ⭐ 64 | 🐛 5 | 🌐 HTML | 📅 2020-07-20 - A data set to enable remote sensing of water quality for inland waters.
@@ -3235,8 +3235,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools help predict and map soil and land cover metrics, including moisture, health, respiration, and carbon stocks; gather and visualize soil and land data; and perform change prediction and detection.
 
 * [SITS](https://github.com/e-sensing/sits) ⭐ 548 | 🐛 18 | 🌐 R | 📅 2026-09-18 - Enables users to apply machine learning techniques for classifying image time series obtained from earth observation data cubes.
-* [Landlab](https://github.com/landlab/landlab) ⭐ 441 | 🐛 469 | 🌐 Python | 📅 2026-09-19 - An open source Python package for numerical modeling of Earth surface dynamics.
-* [GeoTessera](https://github.com/ucam-eo/geotessera) ⭐ 346 | 🐛 65 | 🌐 Python | 📅 2026-09-12 - A foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction.
+* [Landlab](https://github.com/landlab/landlab) ⭐ 441 | 🐛 468 | 🌐 Python | 📅 2026-09-19 - An open source Python package for numerical modeling of Earth surface dynamics.
+* [GeoTessera](https://github.com/ucam-eo/geotessera) ⭐ 347 | 🐛 67 | 🌐 Python | 📅 2026-09-12 - A foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction.
 * [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) ⭐ 264 | 🐛 11 | 🌐 R | 📅 2026-09-17 - Landscape Metrics for Categorical Map Patterns in R.
 * [LT-GEE](https://github.com/eMapR/LT-GEE) ⭐ 227 | 🐛 22 | 🌐 JavaScript | 📅 2024-01-31 - Google Earth Engine implementation of the LandTrendr spectral-temporal segmentation algorithm.
 * [pyTSEB](https://github.com/hectornieto/pyTSEB) ⭐ 169 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-31 - Contains Python code for Two Source Energy Balance models (Priestley-Taylor TSEB-PT, Dual Time Difference DTD and TSEB with component soil and canopy temperatures TSEB-2T) for estimating sensible and latent heat flux based on measurements of radiometric surface temperature.
@@ -3357,7 +3357,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > **How?** These tools facilitate access to population and census data; provide insight into upward mobility; and calculate poverty and inequality indices.
 
 * [tidycensus](https://github.com/walkerke/tidycensus) ⭐ 686 | 🐛 26 | 🌐 R | 📅 2026-05-25 - An R package that allows users to interface with the US Census Bureau's decennial Census and five-year American Community APIs and return tidyverse-ready data frames, optionally with simple feature geometry included.
-* [Social Income](https://github.com/socialincome-san/public) ⭐ 153 | 🐛 144 | 🌐 TypeScript | 📅 2026-09-19 - Fighting global poverty with the help of everyday people and your coding skills.
+* [Social Income](https://github.com/socialincome-san/public) ⭐ 154 | 🐛 136 | 🌐 TypeScript | 📅 2026-09-20 - Fighting global poverty with the help of everyday people and your coding skills.
 * [Justice40 Tool](https://github.com/usds/justice40-tool) ⚠️ Archived - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
 * [censusdis](https://github.com/censusdis/censusdis) ⭐ 135 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
 * [wopr](https://github.com/wpgp/wopr) ⭐ 40 | 🐛 5 | 🌐 HTML | 📅 2025-04-04 - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
@@ -3365,7 +3365,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [pipr](https://github.com/worldbank/pipr) ⭐ 22 | 🐛 22 | 🌐 R | 📅 2026-06-18 -  Allows R users to compute poverty and inequality indicators for more than 160 countries and regions from the World Bank's database of household surveys.
 * [Boosting Upward Mobility from Poverty](https://github.com/UI-Research/mobility-from-poverty) ⭐ 10 | 🐛 28 | 🌐 HTML | 📅 2026-08-27 - A multi-year effort to understand upward mobility from poverty and to work with local leaders to promote policies that boost upward mobility from poverty.
 * [Accessible Poverty Estimates](https://github.com/aiddata/accessible-poverty-estimates) ⭐ 9 | 🐛 3 | 🌐 TeX | 📅 2026-08-17 - We utilize random forests regressions and features derived from a range of geospatial datasets (nighttime lights, landcover, OpenStreetMap features, and more) to produce estimates of development indicators such as household wealth/poverty.
-* [Poverty and Inequality Platform Methodology](https://github.com/worldbank/PIP-Methodology) ⭐ 8 | 🐛 2 | 🌐 TeX | 📅 2026-09-18 - Describes how global and regional poverty rates are calculated.
+* [Poverty and Inequality Platform Methodology](https://github.com/worldbank/PIP-Methodology) ⭐ 8 | 🐛 1 | 🌐 TeX | 📅 2026-09-19 - Describes how global and regional poverty rates are calculated.
 
 ### Sustainable Investment
 
@@ -3373,7 +3373,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 > **How?** These tools help quantify the economic value of natural resources for decision-making support; assess the climate alignment and impact of financial portfolios; map the climate finance landscape; and explore innovative ways to fund conservation and restoration projects.
 
-* [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) ⭐ 253 | 🐛 242 | 🌐 Python | 📅 2026-09-18 - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
+* [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) ⭐ 253 | 🐛 243 | 🌐 Python | 📅 2026-09-18 - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
 * [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) ⭐ 147 | 🐛 62 | 🌐 GAMS | 📅 2026-09-18 - A modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
 * [SSC](https://github.com/NREL/ssc) ⭐ 94 | 🐛 34 | 🌐 C++ | 📅 2026-09-18 - Contains the source code for the technology and financial models contained within the National Renewable Energy Laboratory's System Advisor Model.
 * [physrisk](https://github.com/os-climate/physrisk) ⭐ 68 | 🐛 22 | 🌐 Python | 📅 2026-09-14 - Primarily designed to run 'bottom-up' calculations that model the impact of climate hazards on large numbers of individual assets including natural and operations.
@@ -3425,8 +3425,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 <!--lint ignore awesome-spell-check-->
 
-* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,553 | 🐛 87 | 📅 2026-09-19 - A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.
-* [ONEARMY](https://github.com/ONEARMY/community-platform) ⭐ 1,403 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-19 - A platform to build useful communities that aim to tackle social and environmenta problems.
+* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,554 | 🐛 87 | 📅 2026-09-19 - A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.
+* [ONEARMY](https://github.com/ONEARMY/community-platform) ⭐ 1,403 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-20 - A platform to build useful communities that aim to tackle social and environmenta problems.
 * [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) ⭐ 540 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Hosts Jupyter Notebooks, Python scripts and workflows for analysing Digital Earth Australia (DEA) satellite data and derived products.
 * [Gold Mine Detector](https://github.com/earthrise-media/mining-detector) ⭐ 146 | 🐛 3 | 🌐 Python | 📅 2026-09-18 - Automated detection of artisanal gold mines in Sentinel-2 satellite imagery, with links to related journalism.
 * [SWEET](https://github.com/ESIPFed/sweet) ⭐ 145 | 🐛 75 | 🌐 Turtle | 📅 2024-07-25 - Official repository for Semantic Web for Earth and Environmental Terminology Ontologies.
@@ -3436,7 +3436,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 * [QuotaClimat](https://github.com/dataforgoodfr/quotaclimat) ⭐ 41 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-09-18 - The aim of this work is to deliver a tool to a consortium around QuotaClimat, Climat Medias allowing them to quantify the media coverage of the climate crisis.
 * [Climatemind](https://github.com/ClimateMind/climatemind-backend) ⭐ 24 | 🐛 21 | 🌐 Python | 📅 2024-11-25 - Explore how your values and personal interests are being affected by climate change and shows you attractive solutions exist that you may not be aware of.
 * [Education4Climate](https://github.com/Education4Climate/Education4Climate) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2025-10-27 - A tool for crawling and analyzing data from higher education schools.
-* [STRESS Tool](https://github.com/mit-jp/climate-risk-map) ⭐ 16 | 🐛 10 | 🌐 PLpgSQL | 📅 2026-09-15 - Show climate risk on a map of the US, with the MIT Joint Program data.
+* [STRESS Tool](https://github.com/mit-jp/climate-risk-map) ⭐ 16 | 🐛 10 | 🌐 PLpgSQL | 📅 2026-09-20 - Show climate risk on a map of the US, with the MIT Joint Program data.
 * [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) ⭐ 14 | 🐛 107 | 🌐 TypeScript | 📅 2026-09-16 - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
 * [Decarb My State](https://github.com/chihacknight/decarbonize-my-state) ⭐ 13 | 🐛 12 | 🌐 JavaScript | 📅 2024-09-11 - What does it take to decarbonize your state.
 * [kartevonmorgen](https://github.com/kartevonmorgen/kartevonmorgen.ts) ⭐ 12 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-14 - We make all sustainable companies and change initiatives visible on the map of tomorrow.
@@ -3474,4 +3474,4 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
